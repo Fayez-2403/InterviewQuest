@@ -1,0 +1,11 @@
+model with len>2
+https://drive.google.com/file/d/1jIE43hV9CpvXkG9_OIeFeZOjQU91HybI/view?usp=share_link
+
+model with n_gram_range (1,3) with len>2
+https://drive.google.com/file/d/1e91sAGpOpAGFxdKcro8XbGFtBCNH6WC5/view?usp=sharing
+
+model with n_gram_range (1,3) with len>2 and trained with correlation metrics in umap
+https://drive.google.com/file/d/1nexOKtXROqmB49e-QI6EQg5BejQwqMoN/view?usp=sharing
+
+model with n_gram_range (1,3) with len>2 and trained with the data of 2 books
+https://drive.google.com/file/d/1CosbDOSGQyITzbyxRzAbtajbTiygvaGD/view?usp=sharing

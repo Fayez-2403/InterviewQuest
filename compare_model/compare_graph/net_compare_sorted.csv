@@ -1,0 +1,154 @@
+question,no_len_probab,no_len_topic,ngram_probab,ngram_topic,corr_probab,corr_topic,merged_ngram_probab,merged_ngram_topic,,,diff
+concept quality service qos network importance ensure reliable efficient transmission data include prioritize specific type traffic manage network congestion guarantee bandwidth critical applications,0.47,qos_320,0.68,qos_320,0.64,dct_314,0.54,qos_159,,,-0.14
+differences symmetric asymmetric encryption algorithms provide examples,0.57,cryptography_81,0.6,cryptography_81,0.56,ap_98,0.47,cipher_3,,,-0.13
+vital secure data transmission discuss differences symmetric asymmetric encryption algorithms provide examples,0.54,cryptography_81,0.61,encryption_167,0.54,sublayer_80,0.48,cipher_3,,,-0.13
+firewall important,0.77,firewall_118,0.78,firewall_118,0.78,procedure_130,0.67,firewall_34,,,-0.11
+firewall,0.89,firewall_118,0.89,firewall_118,0.89,procedure_130,0.79,firewall_34,,,-0.1
+purpose firewall work,0.7,firewall_118,0.71,firewall_118,0.71,procedure_130,0.63,firewall_34,,,-0.08
+service qos critical ensure optimal network performance explain qos implement network,0.54,qos_320,0.71,qos_320,0.69,dct_314,0.65,qos_159,,,-0.06
+purpose firewall network enhance network security,0.55,firewall_118,0.55,firewall_118,0.55,procedure_130,0.5,firewall_34,,,-0.05
+gateway facilitate communication different network function perform,0.36,ospf_97,0.53,ospf_97,0.54,cell_256,0.48,networking_359,,,-0.05
+concept rout protocols network include role dynamically exchange network information routers determine best paths data transmission consider protocols like ospf open shortest path bgp border gateway protocol,0.52,ospf_97,0.62,ospf_97,0.57,cache_14,0.57,ospf_76,,,-0.05
+network prevalent modern environments explain wireless network operate discuss key considerations ensure security,0.42,lan_166,0.54,wireless_147,0.52,checksum_144,0.5,wireless_68,,,-0.04
+vpn,0.9,vpn_170,0.85,vpn_170,0.82,introduction_183,0.81,vpn_192,,,-0.04
+vpn,0.9,vpn_170,0.85,vpn_170,0.82,introduction_183,0.81,vpn_192,,,-0.04
+explain difference hub switch router,0.43,hub_210,0.64,hub_210,0.61,smtp_110,0.61,hub_148,,,-0.03
+context network troubleshoot common issue occur approach resolve,0.31,protocol_15,0.4,kernel_119,0.36,model_122,0.38,network core_342,,,-0.02
+ethernet switch function network include ability forward data packets base mac address create virtual lans vlans provide connectivity bandwidth management local area network lans,0.42,ethernet_34,0.56,broadcast_325,0.54,ethernet_34,0.54,ethernet_27,,,-0.02
+private network vpns provide secure remote access private network explain vpn work significance network security,0.56,vpn_170,0.64,vpn_170,0.63,introduction_183,0.62,vpn_192,,,-0.02
+concept vlan benefit,0.56,vlan_76,0.63,vlan_76,0.42,advantage_176,0.61,vlan_101,,,-0.02
+tcp establish terminate connections,0.39,port_29,0.62,tcp_107,0.58,udp_68,0.6,tcp ip_278,,,-0.02
+principles wireless network communication,0.47,lan_166,0.7,wireless_147,0.69,checksum_144,0.68,wireless_68,,,-0.02
+packet switch,0.58,switching_92,0.82,switching_92,0.82,delay_94,0.8,switching_179,,,-0.02
+criteria check network reliability,0.29,reliable_266,0.52,measurement_234,0.52,ap_218,0.51,network performance_345,,,-0.01
+vlan virtual local area network explain work,0.53,vlan_76,0.59,vlan_76,0.45,solution_75,0.58,vlan_101,,,-0.01
+virtual private network vpn provide secure remote access private network internet,0.62,vpn_170,0.74,vpn_170,0.74,introduction_183,0.73,vpn_192,,,-0.01
+osi model widely understand network communication explain purpose seven layer interact,0.43,model_122,0.52,layered_169,0.52,padded_189,0.51,osi_265,,,-0.01
+network infrastructure plan decide use hub switch advantage disadvantage,0.3,hub_210,0.46,hub_210,0.45,smtp_110,0.45,hub_148,,,-0.01
+virtual private network vpn ensure secure remote access private network public network infrastructure provide encryption authentication mechanisms establish secure communication tunnel remote users network,0.61,vpn_170,0.7,vpn_170,0.69,introduction_183,0.69,vpn_192,,,-0.01
+network packet significance,0.41,gigabit_239,0.65,ttl_53,0.66,rfc_51,0.64,send packet_88,,,-0.01
+local area network vlans segment network explain vlans work advantage network administration,0.5,vlan_76,0.54,vlan_76,0.4,youtube_227,0.53,vlan_101,,,-0.01
+wan,0.58,bridge_179,0.58,bridge_179,0.55,button_195,0.57,network_-1,,,-0.01
+network firewall function barrier internal network external network filter network traffic base predefined security rule protect unauthorized access potential security threats,0.53,firewall_118,0.55,firewall_118,0.55,procedure_130,0.54,firewall_34,,,-0.01
+segmentation enhance security performance discuss benefit network segmentation methodologies implement,0.29,segment_148,0.41,segment_148,0.38,tion_96,0.4,network core_342,,,-0.01
+concept bandwidth network include measurement impact network performance,0.33,gigabit_239,0.57,measurement_234,0.57,ap_218,0.56,network performance_345,,,-0.01
+role router network,0.41,lan_47,0.57,router_186,0.56,button_195,0.56,router_130,,,-0.01
+explain difference public ip address private ip address,0.41,ip_20,0.57,ip_20,0.59,iv_56,0.56,ip address_33,,,-0.01
+make network effective efficient,0.37,bandwidth_145,0.62,measurement_234,0.62,ap_218,0.62,network performance_345,,,0
+difference tcp udp protocols use,0.62,udp_68,0.73,udp_68,0.73,area_64,0.73,udp_28,,,0
+explain key differences local area network lan wide area network wan,0.32,lan_47,0.48,lan_47,0.47,fig_50,0.48,lan_77,,,0
+purpose ip address assist identify devices network,0.42,arp_73,0.57,ip_20,0.58,iv_56,0.57,ip address_33,,,0
+elaborate concept virtual local area network vlan segment network,0.48,vlan_76,0.53,vlan_76,0.47,solution_75,0.53,vlan_101,,,0
+contrast feature characteristics transmission control protocol tcp user datagram protocol udp,0.58,udp_68,0.66,udp_68,0.66,area_64,0.66,udp_28,,,0
+wireless network operate key considerations ensure security,0.34,wireless_147,0.52,wireless_147,0.51,checksum_144,0.52,wireless_68,,,0
+concept distribute denial service ddos attack include orchestrate potential counter,0.33,qos_320,0.38,qos_320,0.36,dct_314,0.38,tcp_218,,,0
+differences local area network lan wide area network wan network support different business requirements,0.31,lan_47,0.45,lan_47,0.45,fig_50,0.45,lan_77,,,0
+address fundamental identify devices network discuss purpose ip address difference ipv ipv,0.41,ip_20,0.57,ip_20,0.59,iv_56,0.57,ip address_33,,,0
+monitor management crucial maintain network performance discuss tool techniques network monitor management,0.31,ieee_196,0.56,measurement_234,0.56,ap_218,0.56,network performance_345,,,0
+difference tcp udp protocols,0.64,udp_68,0.75,udp_68,0.76,area_64,0.75,udp_28,,,0
+benefit wireless network technologies wi fi include increase mobility ease installation flexibility network design challenge associate wireless network signal interference security risk,0.3,wimax_143,0.46,wireless_147,0.45,checksum_144,0.46,wireless_68,,,0
+concept vlans virtual local area network benefit network design management include ability create logical network segment enhance security simplify network administration,0.46,vlan_76,0.52,vlan_76,0.4,solution_75,0.52,vlan_101,,,0
+common protocols email communication include smtp simple mail transfer protocol send email pop post office protocol version imap internet message access protocol retrieve email interact email,0.53,smtp_110,0.61,protocol_15,0.58,cache_14,0.61,protocol_16,,,0
+significance osi open systems interconnection model network provide conceptual framework understand network protocols service interaction different network layer,0.36,model_122,0.48,osi_168,0.49,padded_189,0.48,osi_265,,,0
+concept bandwidth network communication,0.43,flow_65,0.64,bandwidth_145,0.65,ee_87,0.64,bandwidth_120,,,0
+transmission control protocol udp user datagram protocol prominent transport layer protocols compare contrast tcp udp term feature use case,0.62,udp_68,0.7,udp_68,0.71,area_64,0.7,udp_28,,,0
+packet switch differ circuit switch,0.51,switching_92,0.73,switching_92,0.73,delay_94,0.73,switching_179,,,0
+security essential today interconnect world explain role firewall network enhance security,0.48,firewall_118,0.49,firewall_118,0.49,procedure_130,0.49,security_343,,,0
+rout table,0.57,table_265,0.66,table_265,0.66,ct_259,0.66,table_186,,,0
+lan,0.88,lan_47,0.98,lan_47,0.98,fig_50,0.98,lan_77,,,0
+ip,0.87,ip_20,0.93,ip_20,0.93,iv_56,0.93,ip address_33,,,0
+nat network address translation enable usage private ip address network allow communication external network translate private ip address public ip address,0.46,nat_128,0.56,nat_128,0.55,router_120,0.56,nat_114,,,0
+advantage distribute process,0.45,advantage_176,0.61,advantage_176,0.6,advantage_176,0.62,advantage_294,,,0.01
+different factor affect performance network,0.31,flow_65,0.51,measurement_234,0.51,ap_218,0.52,network performance_345,,,0.01
+subnetting work advantage offer term network management,0.5,subnet_185,0.55,subnet_185,0.56,burst_223,0.56,subnet_31,,,0.01
+principles function packet switch differ circuit switch,0.44,switching_92,0.65,switching_92,0.65,delay_94,0.66,switching_179,,,0.01
+latency context network affect network responsiveness,0.37,delay_54,0.47,delay_54,0.47,copyright_105,0.48,delay_271,,,0.01
+denial service do attack include objectives methods potential impact network,0.3,rfc_51,0.33,ospf_97,0.34,email_217,0.34,attack_236,,,0.01
+denial service ddos attack complex widespread discuss ddos attack orchestrate potential countermeasures mitigate impact,0.3,firewall_118,0.33,model_122,0.33,public_173,0.34,internet traffic_384,,,0.01
+virtualization increasingly popular discuss concept network virtualization benefit term resource utilization flexibility,0.27,vpn_170,0.35,center_212,0.34,tion_96,0.36,network core_342,,,0.01
+context network latency latency affect network responsiveness performance,0.36,delay_54,0.49,delay_54,0.5,copyright_105,0.5,delay_271,,,0.01
+switch fundamental concept modern network explain principles packet switch differ circuit switch,0.49,switching_92,0.69,switching_92,0.69,delay_94,0.7,switching_179,,,0.01
+dns domain work,0.63,dns_1,0.67,dns_1,0.7,alice_5,0.68,dns_1,,,0.01
+dmz demilitarize zone network security,0.38,firewall_118,0.38,firewall_118,0.38,procedure_130,0.39,security_343,,,0.01
+protocols govern rule format communication provide examples commonly network protocols respective purpose,0.5,rfc_51,0.63,protocol_15,0.62,cache_14,0.64,protocol_16,,,0.01
+vlan,0.9,vlan_76,0.94,vlan_76,0.67,band_3,0.95,vlan_101,,,0.01
+primary differences tcp transmission control protocol udp user datagram protocol term reliability connection orient vs connectionless communication suitability different applications,0.49,udp_68,0.54,udp_68,0.55,area_64,0.55,udp_28,,,0.01
+protocols vulnerabilities discuss common network security threats measure take mitigate,0.37,protocol_15,0.55,protocol_15,0.54,cache_14,0.57,protocol_16,,,0.02
+ssl tls briefly,0.6,ssl_146,0.67,ssl_146,0.68,cookie_149,0.69,ssl_35,,,0.02
+osi model specific function perform seven layer,0.35,layer_25,0.46,osi_168,0.45,padded_189,0.48,osi_265,,,0.02
+network address translation nat role enable multiple devices share single public ip address,0.36,nat_128,0.45,nat_128,0.44,router_120,0.47,nat_114,,,0.02
+context network purpose domain dns dns resolve domain name ip address,0.37,dns_1,0.4,dns_1,0.43,alice_5,0.42,dns_1,,,0.02
+explain osi model layer,0.49,osi_168,0.7,osi_168,0.7,padded_189,0.72,osi_265,,,0.02
+nat network address translation work,0.55,nat_128,0.65,nat_128,0.64,router_120,0.67,nat_114,,,0.02
+role function domain dns translate domain name ip address,0.32,dns_1,0.36,dns_1,0.37,alice_5,0.38,dns_1,,,0.02
+concept network protocol provide examples widely protocols network,0.42,protocol_15,0.62,protocol_15,0.62,cache_14,0.64,protocol_16,,,0.02
+network protocol provide example,0.61,udp_68,0.77,protocol_15,0.76,cache_14,0.79,protocol_16,,,0.02
+packets essential units data transmission explain network packet structure information carry,0.39,rfc_51,0.54,ttl_53,0.56,rfc_51,0.56,packet containing_450,,,0.02
+explain concept bandwidth throughput,0.49,flow_65,0.7,bandwidth_145,0.72,ee_87,0.72,bandwidth_120,,,0.02
+address translation nat commonly allow multiple devices share single public ip address explain nat work benefit,0.44,nat_128,0.53,nat_128,0.53,router_120,0.55,nat_114,,,0.02
+enable communication different network explain role gateway function perform network connectivity,0.28,broadcast_325,0.44,ee_87,0.44,tion_96,0.46,connection_221,,,0.02
+mean network topology,0.39,interconnected_178,0.56,ee_87,0.56,tion_96,0.59,network network_70,,,0.03
+ssl tls protocols ensure secure communication internet,0.5,ssl_146,0.56,ssl_146,0.56,cookie_149,0.59,ssl_35,,,0.03
+network function router determine path data packets,0.28,route_88,0.45,route_88,0.46,spam_158,0.48,follow_387,,,0.03
+network sdn emerge technology field network explain sdn discuss advantage potential challenge,0.32,ospf_97,0.46,ee_87,0.46,tion_96,0.49,networking_359,,,0.03
+router function network infrastructure role play direct data packets different network examine ip address make rout decisions,0.38,udp_68,0.45,router_186,0.44,burst_223,0.48,router router_476,,,0.03
+role dns domain internet infrastructure include translate domain name ip address facilitate map human readable domain name machine readable ip address,0.41,intradomain_279,0.44,intradomain_279,0.45,alice_5,0.47,dns_1,,,0.03
+subnet work,0.78,subnet_185,0.83,subnet_185,0.81,burst_223,0.86,subnet_31,,,0.03
+nat use network configurations,0.44,nat_128,0.53,nat_128,0.53,router_120,0.56,nat_114,,,0.03
+enable communication process different devices explain socket facilitate network communication,0.42,udp_68,0.5,communicate_177,0.49,chip_139,0.53,socket_430,,,0.03
+bgp border gateway protocol rout internet,0.52,ospf_97,0.7,ospf_97,0.8,cell_256,0.73,bgp_74,,,0.03
+concept network latency impact,0.38,delay_54,0.48,delay_54,0.48,copyright_105,0.51,delay_271,,,0.03
+nat briefly,0.77,nat_128,0.82,nat_128,0.82,router_120,0.85,nat_114,,,0.03
+network packet include structure information carry,0.38,udp_68,0.53,ttl_53,0.55,rfc_51,0.57,packet containing_450,,,0.04
+important concept network management explain subnetting help organize optimize network resources,0.47,subnet_185,0.53,subnet_185,0.56,burst_223,0.57,network network_70,,,0.04
+latency,0.6,delay_54,0.68,delay_54,0.67,copyright_105,0.72,delay_271,,,0.04
+purpose network facilitate communication devices,0.48,lan_166,0.6,ee_87,0.59,tion_96,0.64,networking_359,,,0.04
+protocols widely secure communication internet explain ssl tls ensure secure data transmission,0.53,ssl_146,0.57,ssl_146,0.57,cookie_149,0.61,ssl_35,,,0.04
+dns function,0.56,dns_1,0.61,dns_1,0.62,alice_5,0.65,dns_1,,,0.04
+address resolution protocol arp map ip address mac address discuss purpose arp work network,0.58,arp_73,0.63,arp_73,0.63,physical_83,0.67,arp_45,,,0.04
+purpose arp network,0.72,arp_73,0.74,arp_73,0.74,physical_83,0.78,arp_45,,,0.04
+process packet transmit host network,0.43,udp_68,0.57,ttl_53,0.58,rfc_51,0.61,send packet_88,,,0.04
+concept subnetting ip address enable division large network smaller subnetworks enhance network efficiency scalability,0.51,subnet_185,0.58,subnet_185,0.58,burst_223,0.62,subnet_31,,,0.04
+purpose arp address resolution protocol work,0.62,arp_73,0.66,arp_73,0.66,physical_83,0.71,arp_45,,,0.05
+tcp ip protocol suite form basis modern internet communication discuss key protocols suite specific function,0.5,udp_68,0.66,tcp_107,0.6,udp_68,0.71,tcp ip_278,,,0.05
+explain role network facilitate communication devices organization,0.37,lan_47,0.47,ee_87,0.47,tion_96,0.52,networking_359,,,0.05
+ssl secure sockets layer provide security network communications,0.47,ssl_146,0.58,ssl_146,0.55,cookie_149,0.63,ssl_35,,,0.05
+tcp ip protocol suite,0.55,udp_68,0.76,tcp_107,0.68,udp_68,0.81,tcp ip_278,,,0.05
+router function network role play direct data packets,0.39,udp_68,0.42,udp_68,0.42,rsa_127,0.48,router router_476,,,0.06
+outline disparities hub switch term operation effectiveness,0.32,hub_210,0.39,hub_210,0.38,smtp_110,0.45,switch_297,,,0.06
+servers act intermediaries clients servers discuss purpose proxy server network affect communication,0.34,rfc_51,0.43,server_112,0.44,certificate_129,0.49,proxy_336,,,0.06
+purpose address resolution protocol arp map ip address mac address,0.55,arp_73,0.59,arp_73,0.59,physical_83,0.65,arp_45,,,0.06
+essential network design discuss factor consider design scalable network architecture,0.34,gigabit_239,0.48,ee_87,0.49,tion_96,0.54,networking_359,,,0.06
+bandwidth briefly,0.6,bandwidth_145,0.8,bandwidth_145,0.83,ee_87,0.87,bandwidth_120,,,0.07
+socket enable communication process different devices network,0.36,udp_68,0.41,broadcast_325,0.42,udp_68,0.48,socket_430,,,0.07
+provide overview rout table role determine optimal path data packets network,0.37,udp_68,0.41,ospf_97,0.41,spam_158,0.48,routing table_475,,,0.07
+do attack pose significant threat network explain do attack objectives potential impact network,0.3,firewall_118,0.36,ee_87,0.36,tion_96,0.43,attack_236,,,0.07
+advantage disadvantage network topologies star mesh ring bus term ability handle traffic fault tolerance ease administration,0.3,ethernet_34,0.38,ee_87,0.38,tion_96,0.45,network core_342,,,0.07
+tcp ip protocol suite key protocols respective function network communication,0.44,udp_68,0.58,tcp_107,0.52,cache_14,0.65,tcp ip_278,,,0.07
+differences ipv ipv address scheme include differences address format number available address feature introduce ipv address limitations ipv,0.38,ipv_95,0.5,ipv_95,0.49,fig_100,0.58,ipv_73,,,0.08
+difference mac ip address,0.4,ip_20,0.58,ip_20,0.59,iv_56,0.66,mac address_201,,,0.08
+highlight primary distinctions ipv ipv term address functionality,0.33,ipv_95,0.4,ipv_95,0.39,iv_56,0.49,ipv_73,,,0.09
+subnet mask work,0.59,subnet_185,0.67,subnet_185,0.62,burst_223,0.77,subnet_31,,,0.1
+difference router switch,0.46,switching_92,0.59,switching_92,0.59,delay_94,0.69,switch_195,,,0.1
+explain difference ipv ipv advantage ipv,0.39,ipv_95,0.47,ipv_95,0.45,fig_100,0.57,ipv_73,,,0.1
+switch,0.87,switching_92,0.78,switching_92,0.78,delay_94,0.88,switch_297,,,0.1
+discuss differences physical address mac address logical address ip address function network communication,0.32,arp_73,0.44,nics_330,0.48,terminology_231,0.54,mac address_201,,,0.1
+difference ipv ipv,0.53,ipv_95,0.63,ipv_95,0.62,fig_100,0.75,ipv_73,,,0.12
+hub,0.81,hub_210,0.79,hub_210,0.87,smtp_110,0.91,hub_148,,,0.12
+arp briefly,0.76,arp_73,0.77,arp_73,0.76,physical_83,0.89,arp_45,,,0.12
+distinctions physical address mac address logical address ip address,0.36,ip_20,0.49,ip_20,0.53,terminology_231,0.62,mac address_201,,,0.13
+mac,0.72,mac_197,0.6,mac_197,0.59,checksum_201,0.73,mac address_211,,,0.13
+socket,0.76,port_29,0.71,port_29,0.69,udp_68,0.84,socket_430,,,0.13
+table play crucial role determine optimal path data packets explain rout table network rout,0.38,udp_68,0.44,table_265,0.44,ct_259,0.58,routing table_475,,,0.14
+concept mac address significance network communication,0.36,rfc_51,0.46,nics_330,0.49,terminology_231,0.61,mac address_211,,,0.15
+proxy server act intermediary clients servers network,0.36,intradomain_279,0.45,intradomain_279,0.45,certificate_129,0.61,proxy_336,,,0.16
+purpose dhcp dynamic host configuration protocol network environments include role automatically assign ip address subnet mask default gateways network configuration parameters network devices simplify network administration,0.43,arp_73,0.44,arp_73,0.45,physical_83,0.6,dhcp_97,,,0.16
+dynamic host configuration protocol simplify assignment ip address explain dhcp work advantage network administration,0.41,arp_73,0.45,arp_73,0.46,physical_83,0.61,dhcp_97,,,0.16
+dhcp dynamic host configuration protocol simplify assignment ip address network,0.38,arp_73,0.42,arp_73,0.42,physical_83,0.61,dhcp_97,,,0.19
+address play crucial role network communication explain mac address data transmission,0.32,gigabit_239,0.44,nics_330,0.48,terminology_231,0.63,mac address_211,,,0.19
+mac address network,0.43,mac_197,0.59,nics_330,0.62,terminology_231,0.78,mac address_201,,,0.19
+purpose dhcp network,0.52,arp_73,0.56,arp_73,0.56,physical_83,0.8,dhcp_97,,,0.24
+dhcp dynamic host configuration protocol work,0.33,arp_73,0.35,arp_73,0.36,physical_83,0.59,dhcp_97,,,0.24
+role proxy server,0.34,server_112,0.44,server_112,0.43,certificate_129,0.7,proxy_336,,,0.26
+dhcp briefly,0.53,arp_73,0.56,arp_73,0.57,physical_83,0.86,dhcp_97,,,0.3
+,0.477368421,,0.576842105,,0.568486842,,0.607828947,,,,0.030986842

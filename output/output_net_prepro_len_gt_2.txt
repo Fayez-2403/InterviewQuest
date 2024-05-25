@@ -1,0 +1,347 @@
+C:\Users\hp\AppData\Local\Programs\Python\Python310\python.exe C:\Users\hp\PycharmProjects\placement\try_bert\testing_bert.py 
+C:\Users\hp\PycharmProjects\placement\theory
+C:\Users\hp\PycharmProjects\placement\theory\Networking 
+ Now importing model
+
+For company :  Amazon
+Before prepro :  What do you mean by network topology?
+After prepro :  mean network topology
+The top 3 similar topics are [105, 186, 139], and the similarities are [0.41 0.37 0.36]
+['interconnected', 'internetworks', 'collection', 'internetwork', 'autonomous', 'interplanetary', 'internet', 'network', 'internetworking', 'combine'] : with probability 
+0.41
+['router', 'topological', 'think', 'involve', 'grown', 'natural', 'regard', 'substantial', 'interconnected', 'older'] : with probability 
+0.37
+['wan', 'subnet', 'graph', 'fig', 'consider', 'representation', 'redraw', 'minicomputer', 'oval', 'australia'] : with probability 
+0.36
+
+Before prepro :  What are the advantages of Distributed Processing?
+After prepro :  advantage distribute process
+The top 3 similar topics are [155, 41, 158], and the similarities are [0.45 0.38 0.38]
+['strategy', 'advantage', 'benefit', 'abbreviation', 'satisfying', 'significant', 'explanation', 'quietly', 'died', 'fell'] : with probability 
+0.45
+['flow', 'fairness', 'bandwidth', 'allocation', 'min', 'fair', 'max', 'reserved', 'efficiency', 'reserve'] : with probability 
+0.38
+['distribution', 'content', 'site', 'mirroring', 'distributing', 'largest', 'distribute', 'build', 'popular', 'web'] : with probability 
+0.38
+
+Before prepro :  What is the criteria to check the network reliability?
+After prepro :  criteria check network reliability
+The top 3 similar topics are [310, 173, 60], and the similarities are [0.29 0.24 0.23]
+['reliable', 'oriented', 'stream', 'internetwork', 'furnish', 'tcp', 'minimal', 'reliability', 'reno', 'primitive'] : with probability 
+0.29
+['ieee', 'indicator', 'journal', 'society', 'published', 'acm', 'consult', 'organization', 'professional', 'approved'] : with probability 
+0.24
+['rfc', 'rfcs', 'described', 'defined', 'specification', 'version', 'simpson', 'consult', 'cooky', 'mandatory'] : with probability 
+0.23
+
+Before prepro :  What are the different factors that affect the performance of a network?
+After prepro :  different factor affect performance network
+The top 3 similar topics are [143, 68, 28], and the similarities are [0.36 0.32 0.28]
+['faster', 'cpu', 'performance', 'efficiency', 'improve', 'going', 'enhances', 'massively', 'parallel', 'kent'] : with probability 
+0.36
+['bandwidth', 'multiplicative', 'starved', 'waste', 'additive', 'decrease', 'class', 'connectivity', 'increase', 'amount'] : with probability 
+0.32
+['delay', 'propagation', 'product', 'bandwidth', 'load', 'negligible', 'measured', 'trip', 'overhead', 'budget'] : with probability 
+0.28
+
+Before prepro :  What makes a network effective and efficient?
+After prepro :  make network effective efficient
+The top 3 similar topics are [105, 68, 143], and the similarities are [0.39 0.38 0.38]
+['interconnected', 'internetworks', 'collection', 'internetwork', 'autonomous', 'interplanetary', 'internet', 'network', 'internetworking', 'combine'] : with probability 
+0.39
+['bandwidth', 'multiplicative', 'starved', 'waste', 'additive', 'decrease', 'class', 'connectivity', 'increase', 'amount'] : with probability 
+0.38
+['faster', 'cpu', 'performance', 'efficiency', 'improve', 'going', 'enhances', 'massively', 'parallel', 'kent'] : with probability 
+0.38
+
+Before prepro :  What is a subnet mask and how does it work?
+After prepro :  subnet mask work
+The top 3 similar topics are [89, 139, 209], and the similarities are [0.44 0.42 0.42]
+['sublayer', 'access', 'medium', 'control', 'adversely', 'antibody', 'cast', 'stone', 'mac', 'multiaccess'] : with probability 
+0.44
+['wan', 'subnet', 'graph', 'fig', 'consider', 'representation', 'redraw', 'minicomputer', 'oval', 'australia'] : with probability 
+0.42
+['sublayer', 'mac', 'sublayers', 'land', 'physical', 'date', 'pack', 'layer', 'upper', 'understood'] : with probability 
+0.42
+
+Before prepro :  What is the difference between TCP and UDP protocols? When would you use one over the other?
+After prepro :  difference tcp udp protocols use
+The top 3 similar topics are [61, 49, 60], and the similarities are [0.62 0.4  0.38]
+['udp', 'rpc', 'tcp', 'transport', 'connectionless', 'protocol', 'port', 'main', 'compatible', 'raw'] : with probability 
+0.62
+['tcp', 'sctp', 'implementation', 'couch', 'sst', 'model', 'cubic', 'variant', 'potato', 'linux'] : with probability 
+0.4
+['rfc', 'rfcs', 'described', 'defined', 'specification', 'version', 'simpson', 'consult', 'cooky', 'mandatory'] : with probability 
+0.38
+
+Before prepro :  Can you explain the OSI model and its layers?
+After prepro :  explain osi model layer
+The top 3 similar topics are [227, 207, 174], and the similarities are [0.48 0.48 0.37]
+['osi', 'model', 'reference', 'tcp', 'open', 'differentiating', 'piscitello', 'exceptionally', 'philosophical', 'critique'] : with probability 
+0.48
+['osi', 'model', 'influenced', 'european', 'heavily', 'extraordinarily', 'creature', 'ministry', 'sub', 'concept'] : with probability 
+0.48
+['layered', 'glue', 'layer', 'protocol', 'conversation', 'transparently', 'clearcut', 'identifies', 'interface', 'function'] : with probability 
+0.37
+
+Before prepro :  What is the purpose of a firewall and how does it work?
+After prepro :  purpose firewall work
+The top 3 similar topics are [140, 61, 49], and the similarities are [0.7  0.39 0.38]
+['firewall', 'internal', 'external', 'rule', 'perimeter', 'configured', 'defense', 'attack', 'applied', 'blemish'] : with probability 
+0.7
+['udp', 'rpc', 'tcp', 'transport', 'connectionless', 'protocol', 'port', 'main', 'compatible', 'raw'] : with probability 
+0.39
+['tcp', 'sctp', 'implementation', 'couch', 'sst', 'model', 'cubic', 'variant', 'potato', 'linux'] : with probability 
+0.38
+
+Before prepro :  How does NAT (Network Address Translation) work?
+After prepro :  nat network address translation work
+The top 3 similar topics are [114, 86, 18], and the similarities are [0.54 0.35 0.32]
+['nat', 'box', 'translation', 'patch', 'outgoing', 'fail', 'address', 'premise', 'customer', 'internal'] : with probability 
+0.54
+['address', 'host', 'nics', 'ethernet', 'nic', 'net', 'unique', 'interface', 'network', 'manufacturer'] : with probability 
+0.35
+['address', 'cambridge', 'addressing', 'university', 'manhattan', 'classful', 'ken', 'assignment', 'analogous', 'province'] : with probability 
+0.32
+
+Before prepro :  What is a VLAN (Virtual Local Area Network)? Can you explain how it works?
+After prepro :  vlan virtual local area network explain work
+The top 3 similar topics are [4, 78, 65], and the similarities are [0.38 0.37 0.33]
+['bridge', 'port', 'vlan', 'vlans', 'lan', 'switch', 'spanning', 'aware', 'bridged', 'gray'] : with probability 
+0.38
+['virtual', 'circuit', 'datagram', 'datagrams', 'identifier', 'set', 'internally', 'terminated', 'traditional', 'network'] : with probability 
+0.37
+['lan', 'department', 'building', 'belonged', 'owned', 'internetworking', 'outside', 'administrator', 'computer', 'autonomy'] : with probability 
+0.33
+
+For company :  Google
+Before prepro :  As per which of the following essential characteristics of cloud, the hosted application should be reachable via any network-based appliance? A. On-demand self-service B. Broad network access C. Resource pooling D. Rapid elasticity
+After prepro :  follow essential characteristics cloud host application reachable network base appliance demand self service broad network access resource pool rapid elasticity
+The top 3 similar topics are [86, 35, 96], and the similarities are [0.25 0.25 0.24]
+['address', 'host', 'nics', 'ethernet', 'nic', 'net', 'unique', 'interface', 'network', 'manufacturer'] : with probability 
+0.25
+['isp', 'isps', 'backbone', 'ixps', 'customer', 'pay', 'connect', 'oval', 'pop', 'internet'] : with probability 
+0.25
+['ipv', 'deployment', 'deployed', 'version', 'proved', 'feature', 'address', 'migrate', 'retrofitted', 'depletion'] : with probability 
+0.24
+
+Before prepro :  In which of the following type of hardware virtualization, the guest software run their own isolated domains? A. None of the mentioned options B. Emulation virtualization C. Paravirtualization D. Full virtualization 
+After prepro :  follow type hardware virtualization guest software run isolate domains mention options emulation virtualization virtualization
+The top 3 similar topics are [272, 78, 7], and the similarities are [0.26 0.25 0.21]
+['intradomain', 'interdomain', 'routing', 'interior', 'exterior', 'gateway', 'externally', 'protocol', 'participate', 'metz'] : with probability 
+0.26
+['virtual', 'circuit', 'datagram', 'datagrams', 'identifier', 'set', 'internally', 'terminated', 'traditional', 'network'] : with probability 
+0.25
+['dns', 'domain', 'record', 'zone', 'edu', 'com', 'generic', 'database', 'yes', 'name'] : with probability 
+0.21
+
+Before prepro :  Which of the following are the PaaS characteristics that define it as a cloud service?  1. Builds on virtualization technology  2. Provides a variety of services to assist with the development, testing, and deployment of apps 3. Integrates web services and databases A. All 1, 2 and 3 B. 1 and 3 C. 1 and 2 D. 2 and 3 
+After prepro :  follow paas characteristics define cloud service build virtualization technology provide variety service assist development test deployment apps integrate web service databases
+The top 3 similar topics are [95, 78, 48], and the similarities are [0.23 0.21 0.21]
+['quality', 'service', 'differentiated', 'integrated', 'comparable', 'requirement', 'based', 'mechanism', 'support', 'carte'] : with probability 
+0.23
+['virtual', 'circuit', 'datagram', 'datagrams', 'identifier', 'set', 'internally', 'terminated', 'traditional', 'network'] : with probability 
+0.21
+['application', 'layer', 'middleware', 'preliminary', 'pro', 'affecting', 'offline', 'terminates', 'lossy', 'proven'] : with probability 
+0.21
+
+Before prepro :  Data availability, as a security service is threatened by which of the following type of attack? A. Denial of service attack B. Masquerading C. Modification of message D. Repudiation
+After prepro :  data availability security service threaten follow type attack denial service attack masquerade modification message repudiation
+The top 3 similar topics are [61, 16, 240], and the similarities are [0.35 0.35 0.33]
+['udp', 'rpc', 'tcp', 'transport', 'connectionless', 'protocol', 'port', 'main', 'compatible', 'raw'] : with probability 
+0.35
+['protocol', 'clnp', 'solving', 'solves', 'scenario', 'strategy', 'differs', 'problem', 'meant', 'fact'] : with probability 
+0.35
+['attack', 'reflection', 'defend', 'dwwdfn', 'trudy', 'thwart', 'surely', 'defeat', 'bird', 'attacker'] : with probability 
+0.33
+
+Before prepro :  The given IP Address belongs to which of the following IP Class? 10.50.13.40 A. Class A B. Class C C. Class B D. Class D
+After prepro :  give address belong follow class class class class class
+The top 3 similar topics are [18, 291, 196], and the similarities are [0.44 0.33 0.3 ]
+['address', 'cambridge', 'addressing', 'university', 'manhattan', 'classful', 'ken', 'assignment', 'analogous', 'province'] : with probability 
+0.44
+['forwarding', 'class', 'assured', 'expedited', 'differentiated', 'codepoint', 'service', 'classful', 'administrative', 'forming'] : with probability 
+0.33
+['class', 'service', 'integrated', 'differentiated', 'rejuvenated', 'subway', 'cattle', 'threw', 'ietf', 'preceded'] : with probability 
+0.3
+
+Before prepro :  In which of the following type of cyber-attacks, emails as shown in the image are sent to victims? A. Phishing B. Man-in-the-middle attack C. Denial of Service attack D. SQL injection 
+After prepro :  follow type cyber attack email show image send victims phishing man middle attack denial service attack sql injection
+The top 3 similar topics are [153, 240, 104], and the similarities are [0.36 0.36 0.36]
+['spam', 'mail', 'junk', 'spammer', 'mcafee', 'forged', 'unwanted', 'probably', 'generated', 'electronic'] : with probability 
+0.36
+['attack', 'reflection', 'defend', 'dwwdfn', 'trudy', 'thwart', 'surely', 'defeat', 'bird', 'attacker'] : with probability 
+0.36
+['smtp', 'mail', 'extension', 'submission', 'transfer', 'email', 'accept', 'port', 'server', 'willing'] : with probability 
+0.36
+
+Before prepro :  In OSI reference model, which of the following data units is exchanged between two transport layers? A. Frame B. Bits C. Segment D. Packet 
+After prepro :  osi reference model follow data units exchange transport layer frame bits segment packet
+The top 3 similar topics are [60, 227, 46], and the similarities are [0.33 0.27 0.26]
+['rfc', 'rfcs', 'described', 'defined', 'specification', 'version', 'simpson', 'consult', 'cooky', 'mandatory'] : with probability 
+0.33
+['osi', 'model', 'reference', 'tcp', 'open', 'differentiating', 'piscitello', 'exceptionally', 'philosophical', 'critique'] : with probability 
+0.27
+['mbps', 'kbps', 'rate', 'speed', 'downlink', 'ran', 'uplink', 'megabit', 'downstream', 'sts'] : with probability 
+0.26
+
+Before prepro :  protocol is implemented on which of the following layer of OSI model? A. Application layer B. Presentation layer C. Physical layer D. Network layer
+After prepro :  protocol implement follow layer osi model application layer presentation layer physical layer network layer
+The top 3 similar topics are [61, 16, 174], and the similarities are [0.34 0.33 0.33]
+['udp', 'rpc', 'tcp', 'transport', 'connectionless', 'protocol', 'port', 'main', 'compatible', 'raw'] : with probability 
+0.34
+['protocol', 'clnp', 'solving', 'solves', 'scenario', 'strategy', 'differs', 'problem', 'meant', 'fact'] : with probability 
+0.33
+['layered', 'glue', 'layer', 'protocol', 'conversation', 'transparently', 'clearcut', 'identifies', 'interface', 'function'] : with probability 
+0.33
+
+Before prepro :  What is the difference between a router and a switch?
+After prepro :  difference router switch
+The top 3 similar topics are [113, 3, 186], and the similarities are [0.44 0.38 0.36]
+['switching', 'circuit', 'npl', 'charging', 'switch', 'switched', 'equipment', 'isdn', 'gear', 'pioneer'] : with probability 
+0.44
+['ethernet', 'hub', 'gigabit', 'switch', 'repeater', 'classic', 'fast', 'switched', 'mbps', 'cable'] : with probability 
+0.38
+['router', 'topological', 'think', 'involve', 'grown', 'natural', 'regard', 'substantial', 'interconnected', 'older'] : with probability 
+0.36
+
+For company :  Microsoft
+Before prepro :  Can you explain the concept of bandwidth and throughput?
+After prepro :  explain concept bandwidth throughput
+The top 3 similar topics are [68, 46, 8], and the similarities are [0.56 0.43 0.39]
+['bandwidth', 'multiplicative', 'starved', 'waste', 'additive', 'decrease', 'class', 'connectivity', 'increase', 'amount'] : with probability 
+0.56
+['mbps', 'kbps', 'rate', 'speed', 'downlink', 'ran', 'uplink', 'megabit', 'downstream', 'sts'] : with probability 
+0.43
+['band', 'ghz', 'spectrum', 'frequency', 'mhz', 'ism', 'spread', 'unlicensed', 'fcc', 'licensed'] : with probability 
+0.39
+
+Before prepro :  What is DNS (Domain Name System) and how does it work?
+After prepro :  dns domain work
+The top 3 similar topics are [7, 272, 42], and the similarities are [0.66 0.42 0.33]
+['dns', 'domain', 'record', 'zone', 'edu', 'com', 'generic', 'database', 'yes', 'name'] : with probability 
+0.66
+['intradomain', 'interdomain', 'routing', 'interior', 'exterior', 'gateway', 'externally', 'protocol', 'participate', 'metz'] : with probability 
+0.42
+['cdn', 'sydney', 'node', 'cdns', 'amsterdam', 'akamai', 'content', 'client', 'origin', 'dns'] : with probability 
+0.33
+
+Before prepro :  What is a MAC address and how is it used in networking?
+After prepro :  mac address network
+The top 3 similar topics are [284, 86, 3], and the similarities are [0.48 0.47 0.44]
+['maca', 'mac', 'ipx', 'appletalk', 'happening', 'waste', 'sna', 'cropped', 'deferral', 'consistency'] : with probability 
+0.48
+['address', 'host', 'nics', 'ethernet', 'nic', 'net', 'unique', 'interface', 'network', 'manufacturer'] : with probability 
+0.47
+['ethernet', 'hub', 'gigabit', 'switch', 'repeater', 'classic', 'fast', 'switched', 'mbps', 'cable'] : with probability 
+0.44
+
+Before prepro :  Can you explain the difference between a public IP address and a private IP address?
+After prepro :  explain difference public address private address
+The top 3 similar topics are [18, 151, 169], and the similarities are [0.38 0.3  0.3 ]
+['address', 'cambridge', 'addressing', 'university', 'manhattan', 'classful', 'ken', 'assignment', 'analogous', 'province'] : with probability 
+0.38
+['public', 'key', 'ring', 'private', 'pgp', 'identifier', 'contains', 'correspondent', 'preconfigured', 'naked'] : with probability 
+0.3
+['privacy', 'spy', 'citizen', 'government', 'advocate', 'amendment', 'warrant', 'zimmermann', 'search', 'ease'] : with probability 
+0.3
+
+Before prepro :  What is SSL (Secure Sockets Layer) and how does it provide security in network communications?
+After prepro :  ssl secure sockets layer provide security network communications
+The top 3 similar topics are [142, 127, 108], and the similarities are [0.47 0.36 0.35]
+['ssl', 'tl', 'ure', 'version', 'http', 'cryptanalyzed', 'subprotocols', 'interoperate', 'incompatibility', 'shaky'] : with probability 
+0.47
+['cryptography', 'cryptanalysis', 'cryptanalyst', 'cryptographer', 'kerckhoff', 'cryptographic', 'historically', 'development', 'art', 'principle'] : with probability 
+0.36
+['urity', 'encryption', 'encrypted', 'encrypt', 'ure', 'integrity', 'decrypted', 'cryptographic', 'end', 'encrypts'] : with probability 
+0.35
+
+Before prepro :  Can you describe the process of how a packet is transmitted from one host to another on a network?
+After prepro :  process packet transmit host network
+The top 3 similar topics are [61, 49, 86], and the similarities are [0.44 0.39 0.39]
+['udp', 'rpc', 'tcp', 'transport', 'connectionless', 'protocol', 'port', 'main', 'compatible', 'raw'] : with probability 
+0.44
+['tcp', 'sctp', 'implementation', 'couch', 'sst', 'model', 'cubic', 'variant', 'potato', 'linux'] : with probability 
+0.39
+['address', 'host', 'nics', 'ethernet', 'nic', 'net', 'unique', 'interface', 'network', 'manufacturer'] : with probability 
+0.39
+
+Before prepro :  What is a DMZ (Demilitarized Zone) and how is it used in network security?
+After prepro :  dmz demilitarize zone network security
+The top 3 similar topics are [140, 161, 91], and the similarities are [0.37 0.31 0.27]
+['firewall', 'internal', 'external', 'rule', 'perimeter', 'configured', 'defense', 'attack', 'applied', 'blemish'] : with probability 
+0.37
+['vpn', 'vpns', 'private', 'virtual', 'virtualization', 'overlay', 'leased', 'mileage', 'sieve', 'advantage'] : with probability 
+0.31
+['division', 'multiplexing', 'ofdm', 'fdm', 'orthogonal', 'tdm', 'frequency', 'ofdma', 'apply', 'degradation'] : with probability 
+0.27
+
+Before prepro :  What is BGP (Border Gateway Protocol) and how is it used in routing on the Internet?
+After prepro :  bgp border gateway protocol rout internet
+The top 3 similar topics are [244, 2, 115], and the similarities are [0.59 0.39 0.37]
+['bgp', 'gateway', 'intradomain', 'border', 'policy', 'as', 'amazingly', 'scratched', 'labovitz', 'interas'] : with probability 
+0.59
+['routing', 'route', 'path', 'shortest', 'area', 'vector', 'router', 'table', 'algorithm', 'region'] : with probability 
+0.39
+['tunnel', 'paris', 'london', 'tunneling', 'ipv', 'multiprotocol', 'car', 'chunnel', 'railroad', 'england'] : with probability 
+0.37
+
+Before prepro :  Can you explain the difference between a hub, switch, and router?
+After prepro :  explain difference hub switch router
+The top 3 similar topics are [3, 186, 113], and the similarities are [0.4  0.32 0.29]
+['ethernet', 'hub', 'gigabit', 'switch', 'repeater', 'classic', 'fast', 'switched', 'mbps', 'cable'] : with probability 
+0.4
+['router', 'topological', 'think', 'involve', 'grown', 'natural', 'regard', 'substantial', 'interconnected', 'older'] : with probability 
+0.32
+['switching', 'circuit', 'npl', 'charging', 'switch', 'switched', 'equipment', 'isdn', 'gear', 'pioneer'] : with probability 
+0.29
+
+Before prepro :  What is DHCP (Dynamic Host Configuration Protocol) and how does it work?
+After prepro :  dhcp dynamic host configuration protocol work
+The top 3 similar topics are [87, 60, 16], and the similarities are [0.33 0.18 0.16]
+['arp', 'dhcp', 'broadcast', 'gratuitous', 'mapping', 'address', 'configuration', 'cache', 'icmp', 'host'] : with probability 
+0.33
+['rfc', 'rfcs', 'described', 'defined', 'specification', 'version', 'simpson', 'consult', 'cooky', 'mandatory'] : with probability 
+0.18
+['protocol', 'clnp', 'solving', 'solves', 'scenario', 'strategy', 'differs', 'problem', 'meant', 'fact'] : with probability 
+0.16
+
+Before prepro :  Can you describe how TCP establishes and terminates connections?
+After prepro :  tcp establish terminate connections
+The top 3 similar topics are [49, 61, 27], and the similarities are [0.42 0.39 0.35]
+['tcp', 'sctp', 'implementation', 'couch', 'sst', 'model', 'cubic', 'variant', 'potato', 'linux'] : with probability 
+0.42
+['udp', 'rpc', 'tcp', 'transport', 'connectionless', 'protocol', 'port', 'main', 'compatible', 'raw'] : with probability 
+0.39
+['connection', 'released', 'release', 'releasing', 'disconnect', 'client', 'listen', 'executes', 'disconnection', 'server'] : with probability 
+0.35
+
+Before prepro :  is the purpose of ARP (Address Resolution Protocol) and how does it work?
+After prepro :  purpose arp address resolution protocol work
+The top 3 similar topics are [87, 60, 16], and the similarities are [0.62 0.37 0.35]
+['arp', 'dhcp', 'broadcast', 'gratuitous', 'mapping', 'address', 'configuration', 'cache', 'icmp', 'host'] : with probability 
+0.62
+['rfc', 'rfcs', 'described', 'defined', 'specification', 'version', 'simpson', 'consult', 'cooky', 'mandatory'] : with probability 
+0.37
+['protocol', 'clnp', 'solving', 'solves', 'scenario', 'strategy', 'differs', 'problem', 'meant', 'fact'] : with probability 
+0.35
+
+Before prepro :  Can you explain the difference between IPv4 and IPv6 and the advantages of using IPv6?
+After prepro :  explain difference ipv ipv advantage ipv
+The top 3 similar topics are [96, 190, 155], and the similarities are [0.41 0.38 0.29]
+['ipv', 'deployment', 'deployed', 'version', 'proved', 'feature', 'address', 'migrate', 'retrofitted', 'depletion'] : with probability 
+0.41
+['ipv', 'header', 'extension', 'simplification', 'interposed', 'ihl', 'option', 'instructive', 'null', 'loosely'] : with probability 
+0.38
+['strategy', 'advantage', 'benefit', 'abbreviation', 'satisfying', 'significant', 'explanation', 'quietly', 'died', 'fell'] : with probability 
+0.29
+
+Before prepro :  Salesforce is an example of which of the following type of cloud-based services? A. SaaS B. IaaS C. IDaaS D. PaaS 
+After prepro :  salesforce example follow type cloud base service saas iaas idaas paas
+The top 3 similar topics are [219, 82, 134], and the similarities are [0.26 0.23 0.22]
+['subtypes', 'subtype', 'type', 'mixed', 'powerpoint', 'alternative', 'vrml', 'catchall', 'hundred', 'added'] : with probability 
+0.26
+['arpanet', 'nsf', 'iab', 'research', 'nsfnet', 'regional', 'dod', 'backbone', 'arpa', 'supercomputer'] : with probability 
+0.23
+['authentication', 'kerberos', 'schroeder', 'needham', 'kdc', 'hmacs', 'party', 'protocol', 'variant', 'multiway'] : with probability 
+0.22

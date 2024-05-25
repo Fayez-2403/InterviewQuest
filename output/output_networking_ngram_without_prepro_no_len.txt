@@ -1,0 +1,347 @@
+C:\Users\hp\PycharmProjects\placement\theory
+C:\Users\hp\PycharmProjects\placement\theory\Networking 
+C:\Users\hp\PycharmProjects\placement\theory\Networking 
+ Now importing model
+
+For company :  Amazon
+Before prepro :  What do you mean by network topology?
+After prepro :  What do you mean by network topology?
+The top 3 similar topics are [87, 178, 25], and the similarities are [0.62 0.58 0.56]
+['network network', 'network', 'network network network', 'ee network', 'ee', 'networking called', 'network ee network', 'network ee', 'networking', 'network use'] : with probability 
+0.62
+['interconnected', 'collection', 'internetworks', 'internetwork', 'internet', 'network network', 'form internetworks', 'interconnected single', 'network called internetwork', 'interconnected single technology'] : with probability 
+0.58
+['network layer network', 'layer network', 'layer network layer', 'network layer', 'layer', 'network', 'network network', 'network network layer', 'layer deal', 'internet layer'] : with probability 
+0.56
+
+Before prepro :  What are the advantages of Distributed Processing?
+After prepro :  What are the advantages of Distributed Processing?
+The top 3 similar topics are [176, 200, 234], and the similarities are [0.39 0.37 0.37]
+['advantage', 'strategy', 'benefit', 'strategy advantage', 'advantage benefit', 'advantage scheme', 'significant', 'manage main', 'numerous advantage', 'manage main advantage'] : with probability 
+0.39
+['distribution', 'content distribution', 'content', 'content distribution network', 'distribution network', 'serve', 'serve content', 'site', 'central point control', 'mirroring'] : with probability 
+0.37
+['network performance', 'performance', 'measurement', 'network measurement', 'measure network performance', 'performance measurement', 'measurement network', 'measure network', 'network performance measurement', 'measuring'] : with probability 
+0.37
+
+Before prepro :  What is the criteria to check the network reliability?
+After prepro :  What is the criteria to check the network reliability?
+The top 3 similar topics are [234, 266, 87], and the similarities are [0.55 0.44 0.43]
+['network performance', 'performance', 'measurement', 'network measurement', 'measure network performance', 'performance measurement', 'measurement network', 'measure network', 'network performance measurement', 'measuring'] : with probability 
+0.55
+['reliable', 'byte stream', 'stream', 'reliable byte', 'reliable byte stream', 'reliable connection oriented', 'reliable connection', 'connection oriented', 'oriented', 'transmission control protocol'] : with probability 
+0.44
+['network network', 'network', 'network network network', 'ee network', 'ee', 'networking called', 'network ee network', 'network ee', 'networking', 'network use'] : with probability 
+0.43
+
+Before prepro :  What are the different factors that affect the performance of a network?
+After prepro :  What are the different factors that affect the performance of a network?
+The top 3 similar topics are [234, 87, 239], and the similarities are [0.7  0.5  0.46]
+['network performance', 'performance', 'measurement', 'network measurement', 'measure network performance', 'performance measurement', 'measurement network', 'measure network', 'network performance measurement', 'measuring'] : with probability 
+0.7
+['network network', 'network', 'network network network', 'ee network', 'ee', 'networking called', 'network ee network', 'network ee', 'networking', 'network use'] : with probability 
+0.5
+['gigabit ethernet', 'gigabit', 'ethernet', 'fast ethernet', 'committee goal', 'autonegotiation', 'fast', 'mbps', 'committee', 'ethernet standard'] : with probability 
+0.46
+
+Before prepro :  What makes a network effective and efficient?
+After prepro :  What makes a network effective and efficient?
+The top 3 similar topics are [234, 87, 25], and the similarities are [0.61 0.53 0.47]
+['network performance', 'performance', 'measurement', 'network measurement', 'measure network performance', 'performance measurement', 'measurement network', 'measure network', 'network performance measurement', 'measuring'] : with probability 
+0.61
+['network network', 'network', 'network network network', 'ee network', 'ee', 'networking called', 'network ee network', 'network ee', 'networking', 'network use'] : with probability 
+0.53
+['network layer network', 'layer network', 'layer network layer', 'network layer', 'layer', 'network', 'network network', 'network network layer', 'layer deal', 'internet layer'] : with probability 
+0.47
+
+Before prepro :  What is a subnet mask and how does it work?
+After prepro :  What is a subnet mask and how does it work?
+The top 3 similar topics are [185, 197, 25], and the similarities are [0.6  0.46 0.45]
+['subnet', 'subnet operator', 'subnets', 'split', 'subnet host', 'subnet operator connect', 'operator connect', 'router communication', 'router communication line', 'split part'] : with probability 
+0.6
+['mac sublayer', 'sublayer', 'mac', 'mac sublayer protocol', 'sublayer protocol', 'common sublayer', 'mac common', 'mac common sublayer', 'physical layer', 'link layer'] : with probability 
+0.46
+['network layer network', 'layer network', 'layer network layer', 'network layer', 'layer', 'network', 'network network', 'network network layer', 'layer deal', 'internet layer'] : with probability 
+0.45
+
+Before prepro :  What is the difference between TCP and UDP protocols? When would you use one over the other?
+After prepro :  What is the difference between TCP and UDP protocols? When would you use one over the other?
+The top 3 similar topics are [68, 107, 15], and the similarities are [0.67 0.58 0.43]
+['udp', 'tcp udp', 'protocol udp', 'udp tcp', 'tcp', 'rpc', 'udp internet', 'transport protocol udp', 'internet transport', 'transport protocol'] : with probability 
+0.67
+['tcp', 'tcp implementation', 'tcp ip', 'tcp us', 'tcp protocol', 'implementation', 'different connection oriented', 'tcp ip product', 'mail order', 'ha et al'] : with probability 
+0.58
+['protocol', 'protocol protocol', 'use protocol', 'new protocol', 'complex protocol', 'protocol fail', 'scenario', 'protocol work', 'different protocol', 'protocol use'] : with probability 
+0.43
+
+Before prepro :  Can you explain the OSI model and its layers?
+After prepro :  Can you explain the OSI model and its layers?
+The top 3 similar topics are [168, 83, 169], and the similarities are [0.7  0.54 0.53]
+['osi', 'osi model', 'model', 'osi reference', 'osi reference model', 'heavily influenced', 'heavily influenced osi', 'influenced osi', 'reference model', 'influenced'] : with probability 
+0.7
+['physical layer', 'physical', 'layer physical layer', 'layer physical', 'physical layer physical', 'layer', 'link layer physical', 'layer machine', 'applied', 'framing'] : with probability 
+0.54
+['layer protocol', 'layered protocol', 'layered', 'layer', 'protocol', 'layer tied', 'normal sense term', 'layer normal sense', 'normal sense', 'protocol layer'] : with probability 
+0.53
+
+Before prepro :  What is the purpose of a firewall and how does it work?
+After prepro :  What is the purpose of a firewall and how does it work?
+The top 3 similar topics are [118, 107, 97], and the similarities are [0.62 0.36 0.34]
+['firewall', 'internal', 'internal network', 'rule', 'web server', 'external web server', 'firewall configured', 'external web', 'configured', 'external'] : with probability 
+0.62
+['tcp', 'tcp implementation', 'tcp ip', 'tcp us', 'tcp protocol', 'implementation', 'different connection oriented', 'tcp ip product', 'mail order', 'ha et al'] : with probability 
+0.36
+['ospf', 'bgp', 'routing protocol', 'gateway protocol', 'routing', 'gateway', 'intradomain', 'border gateway protocol', 'border gateway', 'bgp border gateway'] : with probability 
+0.34
+
+Before prepro :  How does NAT (Network Address Translation) work?
+After prepro :  How does NAT (Network Address Translation) work?
+The top 3 similar topics are [128, 20, 325], and the similarities are [0.62 0.44 0.36]
+['nat', 'nat box', 'box', 'translation', 'address', 'problem nat', 'address translation', 'ip', 'ip address', 'outgoing packet'] : with probability 
+0.62
+['ip address', 'ip', 'address', 'host', 'address ip', 'ip address ip', 'address ip address', 'network ip', 'ip ip', 'host network ip'] : with probability 
+0.44
+['broadcast lan', 'broadcast', 'lan', 'lan switched', 'lan switched ethernet', 'switched ethernet', 'router', 'illustrates broadcast lan', 'packet lan', 'illustrates broadcast'] : with probability 
+0.36
+
+Before prepro :  What is a VLAN (Virtual Local Area Network)? Can you explain how it works?
+After prepro :  What is a VLAN (Virtual Local Area Network)? Can you explain how it works?
+The top 3 similar topics are [76, 67, 170], and the similarities are [0.6  0.47 0.38]
+['vlan', 'vlan aware', 'vlans', 'aware', 'bridge', 'port', 'tagged', 'vlan field', 'color', 'tagged frame'] : with probability 
+0.6
+['virtual circuit', 'virtual', 'circuit', 'virtual circuit network', 'circuit network', 'vc', 'circuit set', 'datagram network', 'network virtual circuit', 'circuit number'] : with probability 
+0.47
+['vpn', 'private network', 'virtual private', 'vpns', 'virtual private network', 'private', 'virtual', 'vpns virtual private', 'us vpn', 'vpns virtual'] : with probability 
+0.38
+
+For company :  Google
+Before prepro :  As per which of the following essential characteristics of cloud, the hosted application should be reachable via any network-based appliance? A. On-demand self-service B. Broad network access C. Resource pooling D. Rapid elasticity
+After prepro :  As per which of the following essential characteristics of cloud, the hosted application should be reachable via any network-based appliance? A. On-demand self-service B. Broad network access C. Resource pooling D. Rapid elasticity
+The top 3 similar topics are [112, 87, 118], and the similarities are [0.37 0.35 0.33]
+['server', 'client', 'client server', 'web server', 'look client', 'server farm', 'farm', 'let look', 'server model', 'client server model'] : with probability 
+0.37
+['network network', 'network', 'network network network', 'ee network', 'ee', 'networking called', 'network ee network', 'network ee', 'networking', 'network use'] : with probability 
+0.35
+['firewall', 'internal', 'internal network', 'rule', 'web server', 'external web server', 'firewall configured', 'external web', 'configured', 'external'] : with probability 
+0.33
+
+Before prepro :  In which of the following type of hardware virtualization, the guest software run their own isolated domains? A. None of the mentioned options B. Emulation virtualization C. Paravirtualization D. Full virtualization 
+After prepro :  In which of the following type of hardware virtualization, the guest software run their own isolated domains? A. None of the mentioned options B. Emulation virtualization C. Paravirtualization D. Full virtualization 
+The top 3 similar topics are [67, 283, 279], and the similarities are [0.34 0.31 0.28]
+['virtual circuit', 'virtual', 'circuit', 'virtual circuit network', 'circuit network', 'vc', 'circuit set', 'datagram network', 'network virtual circuit', 'circuit number'] : with probability 
+0.34
+['host host', 'channel host host', 'host', 'channel host', 'host host request', 'host request', 'request channel host', 'request channel', 'host request channel', 'host host host'] : with probability 
+0.31
+['intradomain', 'interdomain', 'routing protocol', 'intradomain protocol', 'interdomain routing', 'gateway protocol', 'routing', 'interdomain routing protocol', 'intradomain routing', 'protocol'] : with probability 
+0.28
+
+Before prepro :  Which of the following are the PaaS characteristics that define it as a cloud service?  1. Builds on virtualization technology  2. Provides a variety of services to assist with the development, testing, and deployment of apps 3. Integrates web services and databases A. All 1, 2 and 3 B. 1 and 3 C. 1 and 2 D. 2 and 3 
+After prepro :  Which of the following are the PaaS characteristics that define it as a cloud service?  1. Builds on virtualization technology  2. Provides a variety of services to assist with the development, testing, and deployment of apps 3. Integrates web services and databases A. All 1, 2 and 3 B. 1 and 3 C. 1 and 2 D. 2 and 3 
+The top 3 similar topics are [174, 320, 140], and the similarities are [0.31 0.29 0.29]
+['class', 'service', 'class service', 'service class', 'type service', 'differentiated service', 'differentiated', 'integrated service', 'integrated', 'service field'] : with probability 
+0.31
+['qos', 'admission control', 'quality service', 'admission', 'qos quality', 'qos traffic', 'qos quality service', 'quality', 'qos guarantee', 'traffic shaping'] : with probability 
+0.29
+['quality service', 'quality', 'service', 'based quality service', 'based quality', 'quality service mechanism', 'service mechanism', 'quality service finally', 'flow based quality', 'support quality'] : with probability 
+0.29
+
+Before prepro :  Data availability, as a security service is threatened by which of the following type of attack? A. Denial of service attack B. Masquerading C. Modification of message D. Repudiation
+After prepro :  Data availability, as a security service is threatened by which of the following type of attack? A. Denial of service attack B. Masquerading C. Modification of message D. Repudiation
+The top 3 similar topics are [15, 254, 329], and the similarities are [0.42 0.39 0.39]
+['protocol', 'protocol protocol', 'use protocol', 'new protocol', 'complex protocol', 'protocol fail', 'scenario', 'protocol work', 'different protocol', 'protocol use'] : with probability 
+0.42
+['replay', 'replay attack', 'attack', 'message discarded', 'onds', 'recy', 'challenge', 'handled', 'message', 'integrity'] : with probability 
+0.39
+['byte message', 'tcp entity', 'byte', 'tcp', 'entity', 'order tcp', 'ip datagram', 'number byte', 'arrive', 'datagrams'] : with probability 
+0.39
+
+Before prepro :  The given IP Address belongs to which of the following IP Class? 10.50.13.40 A. Class A B. Class C C. Class B D. Class D
+After prepro :  The given IP Address belongs to which of the following IP Class? 10.50.13.40 A. Class A B. Class C C. Class B D. Class D
+The top 3 similar topics are [20, 330, 95], and the similarities are [0.59 0.49 0.45]
+['ip address', 'ip', 'address', 'host', 'address ip', 'ip address ip', 'address ip address', 'network ip', 'ip ip', 'host network ip'] : with probability 
+0.59
+['ethernet address', 'address', 'ethernet', 'nics', 'unique', 'nic', 'ip address', 'ip', 'address host', 'host router'] : with probability 
+0.49
+['ipv', 'version ip', 'version', 'ip version', 'ipv ipv', 'ip', 'deployment', 'new version', 'deployed', 'flexible'] : with probability 
+0.45
+
+Before prepro :  In which of the following type of cyber-attacks, emails as shown in the image are sent to victims? A. Phishing B. Man-in-the-middle attack C. Denial of Service attack D. SQL injection 
+After prepro :  In which of the following type of cyber-attacks, emails as shown in the image are sent to victims? A. Phishing B. Man-in-the-middle attack C. Denial of Service attack D. SQL injection 
+The top 3 similar topics are [110, 158, 217], and the similarities are [0.4  0.39 0.37]
+['smtp', 'mail', 'mail server', 'imap', 'accept email', 'smtp smtp', 'extension', 'email', 'smtp protocol', 'accept'] : with probability 
+0.4
+['spam', 'mail', 'junk', 'spammer', 'junk mail', 'mail spam', 'incoming mail', 'junk mail spam', 'spam mcafee', 'likely spam'] : with probability 
+0.39
+['email', 'mail', 'electronic mail', 'employee', 'electronic', 'email address employee', 'address employee', 'email electronic mail', 'email electronic', 'email work'] : with probability 
+0.37
+
+Before prepro :  In OSI reference model, which of the following data units is exchanged between two transport layers? A. Frame B. Bits C. Segment D. Packet 
+After prepro :  In OSI reference model, which of the following data units is exchanged between two transport layers? A. Frame B. Bits C. Segment D. Packet 
+The top 3 similar topics are [55, 169, 286], and the similarities are [0.57 0.46 0.45]
+['transport layer', 'transport layer transport', 'transport', 'layer transport', 'layer transport layer', 'layer', 'transport layer sender', 'called transport', 'transport layer application', 'layer sender'] : with probability 
+0.57
+['layer protocol', 'layered protocol', 'layered', 'layer', 'protocol', 'layer tied', 'normal sense term', 'layer normal sense', 'normal sense', 'protocol layer'] : with probability 
+0.46
+['link layer', 'data link layer', 'layer process', 'data link', 'network layer', 'layer', 'packet data link', 'link layer process', 'layer machine', 'link'] : with probability 
+0.45
+
+Before prepro :  protocol is implemented on which of the following layer of OSI model? A. Application layer B. Presentation layer C. Physical layer D. Network layer
+After prepro :  protocol is implemented on which of the following layer of OSI model? A. Application layer B. Presentation layer C. Physical layer D. Network layer
+The top 3 similar topics are [169, 15, 43], and the similarities are [0.63 0.57 0.56]
+['layer protocol', 'layered protocol', 'layered', 'layer', 'protocol', 'layer tied', 'normal sense term', 'layer normal sense', 'normal sense', 'protocol layer'] : with probability 
+0.63
+['protocol', 'protocol protocol', 'use protocol', 'new protocol', 'complex protocol', 'protocol fail', 'scenario', 'protocol work', 'different protocol', 'protocol use'] : with probability 
+0.57
+['application layer', 'layer application', 'layer application layer', 'application layer application', 'application', 'layer', 'application layer contains', 'application application', 'application application layer', 'layer contains'] : with probability 
+0.56
+
+Before prepro :  What is the difference between a router and a switch?
+After prepro :  What is the difference between a router and a switch?
+The top 3 similar topics are [186, 92, 210], and the similarities are [0.53 0.46 0.44]
+['router', 'router router', 'router fig', 'province', 'example router', 'fig router', 'state province', 'province country city', 'province network', 'network city'] : with probability 
+0.53
+['switching', 'circuit switching', 'packet switching', 'circuit', 'switching packet', 'switching packet switching', 'circuit switching packet', 'switched network', 'packet switched network', 'switched'] : with probability 
+0.46
+['hub', 'switch', 'hub switch', 'repeater hub', 'repeater', 'switch hub', 'router gateway', 'bridge switch', 'bridge switch router', 'hub bridge'] : with probability 
+0.44
+
+For company :  Microsoft
+Before prepro :  Can you explain the concept of bandwidth and throughput?
+After prepro :  Can you explain the concept of bandwidth and throughput?
+The top 3 similar topics are [145, 65, 151], and the similarities are [0.69 0.59 0.49]
+['bandwidth', 'bandwidth bandwidth', 'higher class', 'starved bandwidth', 'class', 'starved', 'bandwidth efficiently', 'class higher class', 'class higher', 'bandwidth available'] : with probability 
+0.69
+['flow', 'bandwidth', 'allocation', 'bandwidth allocation', 'bandwidth flow', 'given flow', 'capacity', 'max min', 'min', 'flow bandwidth'] : with probability 
+0.59
+['congestion', 'congestion control', 'packet loss', 'loss', 'tcp congestion control', 'tcp congestion', 'tcp', 'control', 'congestion signal', 'signal'] : with probability 
+0.49
+
+Before prepro :  What is DNS (Domain Name System) and how does it work?
+After prepro :  What is DNS (Domain Name System) and how does it work?
+The top 3 similar topics are [1, 279, 20], and the similarities are [0.6  0.38 0.33]
+['dns', 'domain', 'record', 'query', 'server', 'dns server', 'name', 'edu', 'zone', 'resource record'] : with probability 
+0.6
+['intradomain', 'interdomain', 'routing protocol', 'intradomain protocol', 'interdomain routing', 'gateway protocol', 'routing', 'interdomain routing protocol', 'intradomain routing', 'protocol'] : with probability 
+0.38
+['ip address', 'ip', 'address', 'host', 'address ip', 'ip address ip', 'address ip address', 'network ip', 'ip ip', 'host network ip'] : with probability 
+0.33
+
+Before prepro :  What is a MAC address and how is it used in networking?
+After prepro :  What is a MAC address and how is it used in networking?
+The top 3 similar topics are [330, 197, 20], and the similarities are [0.49 0.46 0.44]
+['ethernet address', 'address', 'ethernet', 'nics', 'unique', 'nic', 'ip address', 'ip', 'address host', 'host router'] : with probability 
+0.49
+['mac sublayer', 'sublayer', 'mac', 'mac sublayer protocol', 'sublayer protocol', 'common sublayer', 'mac common', 'mac common sublayer', 'physical layer', 'link layer'] : with probability 
+0.46
+['ip address', 'ip', 'address', 'host', 'address ip', 'ip address ip', 'address ip address', 'network ip', 'ip ip', 'host network ip'] : with probability 
+0.44
+
+Before prepro :  Can you explain the difference between a public IP address and a private IP address?
+After prepro :  Can you explain the difference between a public IP address and a private IP address?
+The top 3 similar topics are [20, 170, 95], and the similarities are [0.58 0.44 0.42]
+['ip address', 'ip', 'address', 'host', 'address ip', 'ip address ip', 'address ip address', 'network ip', 'ip ip', 'host network ip'] : with probability 
+0.58
+['vpn', 'private network', 'virtual private', 'vpns', 'virtual private network', 'private', 'virtual', 'vpns virtual private', 'us vpn', 'vpns virtual'] : with probability 
+0.44
+['ipv', 'version ip', 'version', 'ip version', 'ipv ipv', 'ip', 'deployment', 'new version', 'deployed', 'flexible'] : with probability 
+0.42
+
+Before prepro :  What is SSL (Secure Sockets Layer) and how does it provide security in network communications?
+After prepro :  What is SSL (Secure Sockets Layer) and how does it provide security in network communications?
+The top 3 similar topics are [146, 169, 107], and the similarities are [0.55 0.41 0.38]
+['ssl', 'tl', 'ure', 'ssl tl', 'ssl version', 'version ssl', 'version', 'ure connection', 'ure socket layer', 'ssl ure socket'] : with probability 
+0.55
+['layer protocol', 'layered protocol', 'layered', 'layer', 'protocol', 'layer tied', 'normal sense term', 'layer normal sense', 'normal sense', 'protocol layer'] : with probability 
+0.41
+['tcp', 'tcp implementation', 'tcp ip', 'tcp us', 'tcp protocol', 'implementation', 'different connection oriented', 'tcp ip product', 'mail order', 'ha et al'] : with probability 
+0.38
+
+Before prepro :  Can you describe the process of how a packet is transmitted from one host to another on a network?
+After prepro :  Can you describe the process of how a packet is transmitted from one host to another on a network?
+The top 3 similar topics are [53, 68, 15], and the similarities are [0.61 0.49 0.48]
+['packet', 'send packet', 'packet sends packet', 'ttl', 'packet sends', 'ip packet', 'send', 'packet packet', 'sends packet', 'sends packet sends'] : with probability 
+0.61
+['udp', 'tcp udp', 'protocol udp', 'udp tcp', 'tcp', 'rpc', 'udp internet', 'transport protocol udp', 'internet transport', 'transport protocol'] : with probability 
+0.49
+['protocol', 'protocol protocol', 'use protocol', 'new protocol', 'complex protocol', 'protocol fail', 'scenario', 'protocol work', 'different protocol', 'protocol use'] : with probability 
+0.48
+
+Before prepro :  What is a DMZ (Demilitarized Zone) and how is it used in network security?
+After prepro :  What is a DMZ (Demilitarized Zone) and how is it used in network security?
+The top 3 similar topics are [118, 64, 170], and the similarities are [0.33 0.31 0.3 ]
+['firewall', 'internal', 'internal network', 'rule', 'web server', 'external web server', 'firewall configured', 'external web', 'configured', 'external'] : with probability 
+0.33
+['area', 'routing', 'backbone', 'router', 'border router', 'region', 'border', 'area border router', 'area border', 'hierarchy'] : with probability 
+0.31
+['vpn', 'private network', 'virtual private', 'vpns', 'virtual private network', 'private', 'virtual', 'vpns virtual private', 'us vpn', 'vpns virtual'] : with probability 
+0.3
+
+Before prepro :  What is BGP (Border Gateway Protocol) and how is it used in routing on the Internet?
+After prepro :  What is BGP (Border Gateway Protocol) and how is it used in routing on the Internet?
+The top 3 similar topics are [97, 279, 88], and the similarities are [0.66 0.47 0.4 ]
+['ospf', 'bgp', 'routing protocol', 'gateway protocol', 'routing', 'gateway', 'intradomain', 'border gateway protocol', 'border gateway', 'bgp border gateway'] : with probability 
+0.66
+['intradomain', 'interdomain', 'routing protocol', 'intradomain protocol', 'interdomain routing', 'gateway protocol', 'routing', 'interdomain routing protocol', 'intradomain routing', 'protocol'] : with probability 
+0.47
+['route', 'packet follow', 'follow', 'packet', 'follow route', 'source router', 'source', 'destination', 'path', 'packet follow route'] : with probability 
+0.4
+
+Before prepro :  Can you explain the difference between a hub, switch, and router?
+After prepro :  Can you explain the difference between a hub, switch, and router?
+The top 3 similar topics are [210, 186, 325], and the similarities are [0.67 0.49 0.41]
+['hub', 'switch', 'hub switch', 'repeater hub', 'repeater', 'switch hub', 'router gateway', 'bridge switch', 'bridge switch router', 'hub bridge'] : with probability 
+0.67
+['router', 'router router', 'router fig', 'province', 'example router', 'fig router', 'state province', 'province country city', 'province network', 'network city'] : with probability 
+0.49
+['broadcast lan', 'broadcast', 'lan', 'lan switched', 'lan switched ethernet', 'switched ethernet', 'router', 'illustrates broadcast lan', 'packet lan', 'illustrates broadcast'] : with probability 
+0.41
+
+Before prepro :  What is DHCP (Dynamic Host Configuration Protocol) and how does it work?
+After prepro :  What is DHCP (Dynamic Host Configuration Protocol) and how does it work?
+The top 3 similar topics are [73, 283, 20], and the similarities are [0.45 0.36 0.34]
+['arp', 'dhcp', 'ethernet address', 'arp cache', 'arp broadcast', 'dhcp server', 'address', 'host', 'broadcast', 'ip address'] : with probability 
+0.45
+['host host', 'channel host host', 'host', 'channel host', 'host host request', 'host request', 'request channel host', 'request channel', 'host request channel', 'host host host'] : with probability 
+0.36
+['ip address', 'ip', 'address', 'host', 'address ip', 'ip address ip', 'address ip address', 'network ip', 'ip ip', 'host network ip'] : with probability 
+0.34
+
+Before prepro :  Can you describe how TCP establishes and terminates connections?
+After prepro :  Can you describe how TCP establishes and terminates connections?
+The top 3 similar topics are [107, 151, 29], and the similarities are [0.66 0.55 0.51]
+['tcp', 'tcp implementation', 'tcp ip', 'tcp us', 'tcp protocol', 'implementation', 'different connection oriented', 'tcp ip product', 'mail order', 'ha et al'] : with probability 
+0.66
+['congestion', 'congestion control', 'packet loss', 'loss', 'tcp congestion control', 'tcp congestion', 'tcp', 'control', 'congestion signal', 'signal'] : with probability 
+0.55
+['port', 'socket', 'port port', 'tcp', 'source port', 'tcp connection', 'fatal', 'connection port', 'tcp connection port', 'address port'] : with probability 
+0.51
+
+Before prepro :  is the purpose of ARP (Address Resolution Protocol) and how does it work?
+After prepro :  is the purpose of ARP (Address Resolution Protocol) and how does it work?
+The top 3 similar topics are [73, 15, 20], and the similarities are [0.62 0.39 0.37]
+['arp', 'dhcp', 'ethernet address', 'arp cache', 'arp broadcast', 'dhcp server', 'address', 'host', 'broadcast', 'ip address'] : with probability 
+0.62
+['protocol', 'protocol protocol', 'use protocol', 'new protocol', 'complex protocol', 'protocol fail', 'scenario', 'protocol work', 'different protocol', 'protocol use'] : with probability 
+0.39
+['ip address', 'ip', 'address', 'host', 'address ip', 'ip address ip', 'address ip address', 'network ip', 'ip ip', 'host network ip'] : with probability 
+0.37
+
+Before prepro :  Can you explain the difference between IPv4 and IPv6 and the advantages of using IPv6?
+After prepro :  Can you explain the difference between IPv4 and IPv6 and the advantages of using IPv6?
+The top 3 similar topics are [95, 20, 107], and the similarities are [0.45 0.34 0.31]
+['ipv', 'version ip', 'version', 'ip version', 'ipv ipv', 'ip', 'deployment', 'new version', 'deployed', 'flexible'] : with probability 
+0.45
+['ip address', 'ip', 'address', 'host', 'address ip', 'ip address ip', 'address ip address', 'network ip', 'ip ip', 'host network ip'] : with probability 
+0.34
+['tcp', 'tcp implementation', 'tcp ip', 'tcp us', 'tcp protocol', 'implementation', 'different connection oriented', 'tcp ip product', 'mail order', 'ha et al'] : with probability 
+0.31
+
+Before prepro :  Salesforce is an example of which of the following type of cloud-based services? A. SaaS B. IaaS C. IDaaS D. PaaS 
+After prepro :  Salesforce is an example of which of the following type of cloud-based services? A. SaaS B. IaaS C. IDaaS D. PaaS 
+The top 3 similar topics are [212, 112, 174], and the similarities are [0.39 0.38 0.36]
+['data center', 'center', 'internet data center', 'internet data', 'rent virtual', 'rent', 'internet', 'hosting industry', 'rent virtual machine', 'data'] : with probability 
+0.39
+['server', 'client', 'client server', 'web server', 'look client', 'server farm', 'farm', 'let look', 'server model', 'client server model'] : with probability 
+0.38
+['class', 'service', 'class service', 'service class', 'type service', 'differentiated service', 'differentiated', 'integrated service', 'integrated', 'service field'] : with probability 
+0.36

@@ -1,0 +1,428 @@
+C:\Users\hp\PycharmProjects\placement\theory
+C:\Users\hp\PycharmProjects\placement\theory\DBMS 
+C:\Users\hp\PycharmProjects\placement\theory\DBMS 
+ Now importing model
+
+For company :  amazon
+Before prepro :   What is DBMS?
+After prepro :   What is DBMS?
+The top 3 similar topics are [2, 155, 17], and the similarities are [0.55 0.45 0.42]
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.55
+['sql psm', 'psm', 'procedure', 'stored procedure', 'sql', 'stored', 'stored procedure sql', 'procedure sql', 'procedure sql psm', 'database stored procedure'] : with probability 
+0.45
+['distributed', 'distributed database', 'architecture', 'oracle', 'ddbms', 'database', 'chapter distributed database', 'chapter distributed', 'parallel', 'network'] : with probability 
+0.42
+
+Before prepro :   What is Database?
+After prepro :   What is Database?
+The top 3 similar topics are [132, 2, 79], and the similarities are [0.67 0.61 0.56]
+['database programming', 'programming', 'approach database', 'approach database programming', 'programming section', 'approach', 'database programming section', 'database programming technique', 'technique', 'main approach database'] : with probability 
+0.67
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.61
+['related data', 'characteristic database', 'characteristic', 'catalog', 'collection related data', 'data', 'database collection', 'collection related', 'characteristic database approach', 'meta data'] : with probability 
+0.56
+
+Before prepro :   Mention the issues with traditional file-based systems that make DBMS a better choice?
+After prepro :   Mention the issues with traditional file-based systems that make DBMS a better choice?
+The top 3 similar topics are [2, 17, 71], and the similarities are [0.4  0.39 0.37]
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.4
+['distributed', 'distributed database', 'architecture', 'oracle', 'ddbms', 'database', 'chapter distributed database', 'chapter distributed', 'parallel', 'network'] : with probability 
+0.39
+['physical', 'physical database', 'physical database design', 'tuning', 'database design', 'design', 'physical design', 'factor', 'database tuning', 'design tuning'] : with probability 
+0.37
+
+Before prepro :   Explain a few advantages of a DBMS.
+After prepro :   Explain a few advantages of a DBMS.
+The top 3 similar topics are [2, 132, 71], and the similarities are [0.51 0.47 0.46]
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.51
+['database programming', 'programming', 'approach database', 'approach database programming', 'programming section', 'approach', 'database programming section', 'database programming technique', 'technique', 'main approach database'] : with probability 
+0.47
+['physical', 'physical database', 'physical database design', 'tuning', 'database design', 'design', 'physical design', 'factor', 'database tuning', 'design tuning'] : with probability 
+0.46
+
+Before prepro :   Explain different languages present in DBMS.
+After prepro :   Explain different languages present in DBMS.
+The top 3 similar topics are [207, 132, 2], and the similarities are [0.53 0.47 0.44]
+['language', 'describes language', 'relational model', 'model', 'formal language', 'extension', 'formal', 'model language', 'model extension proposal', 'proposal language'] : with probability 
+0.53
+['database programming', 'programming', 'approach database', 'approach database programming', 'programming section', 'approach', 'database programming section', 'database programming technique', 'technique', 'main approach database'] : with probability 
+0.47
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.44
+
+Before prepro :   What is meant by ACID properties in DBMS?
+After prepro :   What is meant by ACID properties in DBMS?
+The top 3 similar topics are [71, 79, 2], and the similarities are [0.36 0.32 0.31]
+['physical', 'physical database', 'physical database design', 'tuning', 'database design', 'design', 'physical design', 'factor', 'database tuning', 'design tuning'] : with probability 
+0.36
+['related data', 'characteristic database', 'characteristic', 'catalog', 'collection related data', 'data', 'database collection', 'collection related', 'characteristic database approach', 'meta data'] : with probability 
+0.32
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.31
+
+Before prepro :   Are NULL values in a database the same as that of blank space or zero?
+After prepro :   Are NULL values in a database the same as that of blank space or zero?
+The top 3 similar topics are [-1, 79, 187], and the similarities are [0.22 0.22 0.21]
+['database', 'attribute', 'figure', 'value', 'relation', 'employee', 'data', 'schema', 'type', 'design'] : with probability 
+0.22
+['related data', 'characteristic database', 'characteristic', 'catalog', 'collection related data', 'data', 'database collection', 'collection related', 'characteristic database approach', 'meta data'] : with probability 
+0.22
+['redundancy', 'relation solution', 'redundant', 'storing data', 'minimizing', 'update anomaly', 'reduced', 'effort', 'storage space', 'anomaly'] : with probability 
+0.21
+
+Before prepro :   What are super, primary, candidate, and foreign keys?
+After prepro :   What are super, primary, candidate, and foreign keys?
+The top 3 similar topics are [16, 55, 27], and the similarities are [0.66 0.36 0.35]
+['key', 'primary key', 'primary', 'foreign', 'foreign key', 'candidate key', 'candidate', 'key attribute', 'attribute', 'key primary key'] : with probability 
+0.66
+['index', 'secondary index', 'secondary', 'field', 'field file', 'multilevel', 'create index', 'file', 'primary index', 'nonordering'] : with probability 
+0.36
+['encryption', 'key', 'public', 'public key', 'key encryption', 'decryption', 'private', 'private key', 'key algorithm', 'algorithm'] : with probability 
+0.35
+
+Before prepro :   What is the difference between primary key and unique constraints?
+After prepro :   What is the difference between primary key and unique constraints?
+The top 3 similar topics are [16, 20, 27], and the similarities are [0.5  0.43 0.24]
+['key', 'primary key', 'primary', 'foreign', 'foreign key', 'candidate key', 'candidate', 'key attribute', 'attribute', 'key primary key'] : with probability 
+0.5
+['constraint', 'integrity', 'integrity constraint', 'referential', 'referential integrity', 'referential integrity constraint', 'constraint specified', 'entity integrity', 'integrity constraint specified', 'state'] : with probability 
+0.43
+['encryption', 'key', 'public', 'public key', 'key encryption', 'decryption', 'private', 'private key', 'key algorithm', 'algorithm'] : with probability 
+0.24
+
+Before prepro :   What is meant by DBMS and what is its utility? Explain RDBMS with examples.
+After prepro :   What is meant by DBMS and what is its utility? Explain RDBMS with examples.
+The top 3 similar topics are [2, 132, 155], and the similarities are [0.48 0.44 0.39]
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.48
+['database programming', 'programming', 'approach database', 'approach database programming', 'programming section', 'approach', 'database programming section', 'database programming technique', 'technique', 'main approach database'] : with probability 
+0.44
+['sql psm', 'psm', 'procedure', 'stored procedure', 'sql', 'stored', 'stored procedure sql', 'procedure sql', 'procedure sql psm', 'database stored procedure'] : with probability 
+0.39
+
+Before prepro :   What is a checkpoint in DBMS?
+After prepro :   What is a checkpoint in DBMS?
+The top 3 similar topics are [91, 36, 17], and the similarities are [0.69 0.4  0.38]
+['checkpoint', 'checkpointing', 'aries', 'log', 'record log', 'active transaction', 'recovery', 'checkpoint record', 'fuzzy checkpointing', 'checkpointing aries'] : with probability 
+0.69
+['concurrency', 'concurrency control', 'control', 'recovery', 'control recovery', 'concurrency control recovery', 'concurrency control method', 'control method', 'technique', 'goodman'] : with probability 
+0.4
+['distributed', 'distributed database', 'architecture', 'oracle', 'ddbms', 'database', 'chapter distributed database', 'chapter distributed', 'parallel', 'network'] : with probability 
+0.38
+
+Before prepro :   What is a database system?
+After prepro :   What is a database system?
+The top 3 similar topics are [132, 2, 17], and the similarities are [0.62 0.55 0.54]
+['database programming', 'programming', 'approach database', 'approach database programming', 'programming section', 'approach', 'database programming section', 'database programming technique', 'technique', 'main approach database'] : with probability 
+0.62
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.55
+['distributed', 'distributed database', 'architecture', 'oracle', 'ddbms', 'database', 'chapter distributed database', 'chapter distributed', 'parallel', 'network'] : with probability 
+0.54
+
+Before prepro :   What do you mean by Data Model?
+After prepro :   What do you mean by Data Model?
+The top 3 similar topics are [79, 196, 40], and the similarities are [0.59 0.56 0.53]
+['related data', 'characteristic database', 'characteristic', 'catalog', 'collection related data', 'data', 'database collection', 'collection related', 'characteristic database approach', 'meta data'] : with probability 
+0.59
+['entity relationship', 'entity relationship model', 'relationship model', 'modeling', 'chapter', 'relationship', 'entity', 'data modeling entity', 'modeling entity relationship', 'chapter data modeling'] : with probability 
+0.56
+['object oriented', 'oriented', 'object', 'object relational', 'object database', 'relational', 'object oriented database', 'oriented database', 'data model', 'model'] : with probability 
+0.53
+
+Before prepro :   When does checkpoint occur in DBMS?
+After prepro :   When does checkpoint occur in DBMS?
+The top 3 similar topics are [91, 36, 145], and the similarities are [0.62 0.33 0.28]
+['checkpoint', 'checkpointing', 'aries', 'log', 'record log', 'active transaction', 'recovery', 'checkpoint record', 'fuzzy checkpointing', 'checkpointing aries'] : with probability 
+0.62
+['concurrency', 'concurrency control', 'control', 'recovery', 'control recovery', 'concurrency control recovery', 'concurrency control method', 'control method', 'technique', 'goodman'] : with probability 
+0.33
+['commit', 'phase', 'phase commit', 'phase commit protocol', 'commit protocol', 'participant', 'coordinator', 'protocol', 'prepare', 'participating database'] : with probability 
+0.28
+
+Before prepro :   What is the difference between an entity and an attribute?
+After prepro :   What is the difference between an entity and an attribute?
+The top 3 similar topics are [161, 84, 196], and the similarities are [0.54 0.53 0.5 ]
+['attribute', 'different relation', 'multivalued attribute', 'different relation attribute', 'multivalued', 'attribute different relation', 'relation attribute', 'distinct', 'attribute multivalued', 'attribute multivalued attribute'] : with probability 
+0.54
+['weak entity', 'weak', 'weak entity type', 'entity type', 'entity', 'identifying relationship', 'partial key', 'identifying', 'owner', 'owner entity'] : with probability 
+0.53
+['entity relationship', 'entity relationship model', 'relationship model', 'modeling', 'chapter', 'relationship', 'entity', 'data modeling entity', 'modeling entity relationship', 'chapter data modeling'] : with probability 
+0.5
+
+Before prepro :   What are the various kinds of interactions catered by DBMS?
+After prepro :   What are the various kinds of interactions catered by DBMS?
+The top 3 similar topics are [2, 132, 71], and the similarities are [0.53 0.47 0.44]
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.53
+['database programming', 'programming', 'approach database', 'approach database programming', 'programming section', 'approach', 'database programming section', 'database programming technique', 'technique', 'main approach database'] : with probability 
+0.47
+['physical', 'physical database', 'physical database design', 'tuning', 'database design', 'design', 'physical design', 'factor', 'database tuning', 'design tuning'] : with probability 
+0.44
+
+Before prepro :   What do you understand by query optimization?
+After prepro :   What do you understand by query optimization?
+The top 3 similar topics are [14, 0, 38], and the similarities are [0.68 0.46 0.45]
+['query', 'optimization', 'query optimization', 'query processing', 'strategy', 'site', 'processing optimization', 'query processing optimization', 'execution', 'processing'] : with probability 
+0.68
+['document', 'search', 'retrieval', 'web', 'information retrieval', 'term', 'information', 'relevance', 'web search', 'engine'] : with probability 
+0.46
+['query tree', 'tree', 'query', 'query graph', 'node', 'graph', 'representation', 'algebra', 'execution', 'relational algebra'] : with probability 
+0.45
+
+Before prepro :   Do we consider NULL values the same as that of blank space or zero?
+After prepro :   Do we consider NULL values the same as that of blank space or zero?
+The top 3 similar topics are [187, 109, 180], and the similarities are [0.17 0.16 0.16]
+['redundancy', 'relation solution', 'redundant', 'storing data', 'minimizing', 'update anomaly', 'reduced', 'effort', 'storage space', 'anomaly'] : with probability 
+0.17
+['comparison', 'comparison operator', 'operator', 'return true', 'return', 'true', 'value', 'operator return true', 'example comparison', 'operator number'] : with probability 
+0.16
+['condition', 'condition box', 'query condition', 'condition box query', 'query condition box', 'note condition', 'condition retrieves single', 'condition retrieves', 'retrieves single', 'box query'] : with probability 
+0.16
+
+Before prepro :   What do you understand by aggregation and atomicity?
+After prepro :   What do you understand by aggregation and atomicity?
+The top 3 similar topics are [181, 215, 39], and the similarities are [0.52 0.41 0.37]
+['atomic', 'atomic object', 'object', 'constructor', 'atom', 'atom constructor', 'object atomic', 'literal', 'object state', 'collection'] : with probability 
+0.52
+['aggregate object', 'related object', 'object', 'component object', 'independent class', 'car object', 'aggregate', 'aggregation', 'association', 'aggregation association'] : with probability 
+0.41
+['aggregate function', 'grouping', 'aggregate', 'function', 'group', 'count', 'grouping attribute', 'sum', 'clause', 'function applied'] : with probability 
+0.37
+
+Before prepro :   What are the different levels of abstraction in the DBMS? 
+
+After prepro :   What are the different levels of abstraction in the DBMS? 
+
+The top 3 similar topics are [40, 9, 132], and the similarities are [0.45 0.45 0.45]
+['object oriented', 'oriented', 'object', 'object relational', 'object database', 'relational', 'object oriented database', 'oriented database', 'data model', 'model'] : with probability 
+0.45
+['schema', 'conceptual', 'conceptual schema', 'design', 'schema design', 'external schema', 'phase', 'external', 'architecture', 'conceptual schema design'] : with probability 
+0.45
+['database programming', 'programming', 'approach database', 'approach database programming', 'programming section', 'approach', 'database programming section', 'database programming technique', 'technique', 'main approach database'] : with probability 
+0.45
+
+Before prepro :   What is an entity-relationship model?
+After prepro :   What is an entity-relationship model?
+The top 3 similar topics are [196, 4, 111], and the similarities are [0.82 0.58 0.57]
+['entity relationship', 'entity relationship model', 'relationship model', 'modeling', 'chapter', 'relationship', 'entity', 'data modeling entity', 'modeling entity relationship', 'chapter data modeling'] : with probability 
+0.82
+['relationship', 'relationship type', 'entity', 'entity type', 'binary relationship', 'type', 'binary', 'cardinality ratio', 'ratio', 'cardinality'] : with probability 
+0.58
+['relation schema', 'relation', 'semantics', 'schema', 'clear semantics', 'meaning', 'grouping attribute relation', 'semantics relation', 'attribute relation', 'relation schema figure'] : with probability 
+0.57
+
+Before prepro :   What do you understand by the terms Entity, Entity Type, and Entity Set in DBMS?
+After prepro :   What do you understand by the terms Entity, Entity Type, and Entity Set in DBMS?
+The top 3 similar topics are [196, 9, 4], and the similarities are [0.45 0.44 0.43]
+['entity relationship', 'entity relationship model', 'relationship model', 'modeling', 'chapter', 'relationship', 'entity', 'data modeling entity', 'modeling entity relationship', 'chapter data modeling'] : with probability 
+0.45
+['schema', 'conceptual', 'conceptual schema', 'design', 'schema design', 'external schema', 'phase', 'external', 'architecture', 'conceptual schema design'] : with probability 
+0.44
+['relationship', 'relationship type', 'entity', 'entity type', 'binary relationship', 'type', 'binary', 'cardinality ratio', 'ratio', 'cardinality'] : with probability 
+0.43
+
+Before prepro :   What do you mean by transparent DBMS?
+After prepro :   What do you mean by transparent DBMS?
+The top 3 similar topics are [208, 2, 17], and the similarities are [0.61 0.41 0.4 ]
+['transparency', 'naming transparency', 'database transparency', 'location transparency', 'location', 'application developer', 'naming', 'developer', 'end user', 'centralized'] : with probability 
+0.61
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.41
+['distributed', 'distributed database', 'architecture', 'oracle', 'ddbms', 'database', 'chapter distributed database', 'chapter distributed', 'parallel', 'network'] : with probability 
+0.4
+
+Before prepro :   What are the unary operations in Relational Algebra?
+After prepro :   What are the unary operations in Relational Algebra?
+The top 3 similar topics are [18, 111, 130], and the similarities are [0.73 0.57 0.5 ]
+['algebra', 'relational algebra', 'relational', 'calculus', 'relational calculus', 'relational algebra relational', 'algebra relational', 'algebra relational calculus', 'algebra operation', 'relational algebra operation'] : with probability 
+0.73
+['relation schema', 'relation', 'semantics', 'schema', 'clear semantics', 'meaning', 'grouping attribute relation', 'semantics relation', 'attribute relation', 'relation schema figure'] : with probability 
+0.57
+['relation relation', 'relation', 'relationship', 'relation relation example', 'relation example consider', 'couple', 'relation example', 'answer', 'car', 'example consider'] : with probability 
+0.5
+
+Before prepro :   What is RDBMS?
+After prepro :   What is RDBMS?
+The top 3 similar topics are [28, 17, 2], and the similarities are [0.44 0.42 0.41]
+['jdbc', 'java', 'sql', 'embedded', 'embedded sql', 'programming', 'driver', 'host', 'sqlj', 'host language'] : with probability 
+0.44
+['distributed', 'distributed database', 'architecture', 'oracle', 'ddbms', 'database', 'chapter distributed database', 'chapter distributed', 'parallel', 'network'] : with probability 
+0.42
+['dbms', 'software', 'application', 'database', 'program', 'environment', 'access', 'large', 'commercial', 'user'] : with probability 
+0.41
+
+Before prepro :   What are the differnt data models?
+After prepro :   What are the differnt data models?
+The top 3 similar topics are [79, 196, 40], and the similarities are [0.55 0.46 0.46]
+['related data', 'characteristic database', 'characteristic', 'catalog', 'collection related data', 'data', 'database collection', 'collection related', 'characteristic database approach', 'meta data'] : with probability 
+0.55
+['entity relationship', 'entity relationship model', 'relationship model', 'modeling', 'chapter', 'relationship', 'entity', 'data modeling entity', 'modeling entity relationship', 'chapter data modeling'] : with probability 
+0.46
+['object oriented', 'oriented', 'object', 'object relational', 'object database', 'relational', 'object oriented database', 'oriented database', 'data model', 'model'] : with probability 
+0.46
+
+Before prepro :   Define a Relation Schema and a Relation.
+After prepro :   Define a Relation Schema and a Relation.
+The top 3 similar topics are [111, 130, 9], and the similarities are [0.83 0.66 0.65]
+['relation schema', 'relation', 'semantics', 'schema', 'clear semantics', 'meaning', 'grouping attribute relation', 'semantics relation', 'attribute relation', 'relation schema figure'] : with probability 
+0.83
+['relation relation', 'relation', 'relationship', 'relation relation example', 'relation example consider', 'couple', 'relation example', 'answer', 'car', 'example consider'] : with probability 
+0.66
+['schema', 'conceptual', 'conceptual schema', 'design', 'schema design', 'external schema', 'phase', 'external', 'architecture', 'conceptual schema design'] : with probability 
+0.65
+
+Before prepro :   What is Degree of relation?
+After prepro :   What is Degree of relation?
+The top 3 similar topics are [130, 111, 18], and the similarities are [0.62 0.58 0.55]
+['relation relation', 'relation', 'relationship', 'relation relation example', 'relation example consider', 'couple', 'relation example', 'answer', 'car', 'example consider'] : with probability 
+0.62
+['relation schema', 'relation', 'semantics', 'schema', 'clear semantics', 'meaning', 'grouping attribute relation', 'semantics relation', 'attribute relation', 'relation schema figure'] : with probability 
+0.58
+['algebra', 'relational algebra', 'relational', 'calculus', 'relational calculus', 'relational algebra relational', 'algebra relational', 'algebra relational calculus', 'algebra operation', 'relational algebra operation'] : with probability 
+0.55
+
+Before prepro :   What is Relationship?
+After prepro :   What is Relationship?
+The top 3 similar topics are [130, 4, 196], and the similarities are [0.7  0.62 0.57]
+['relation relation', 'relation', 'relationship', 'relation relation example', 'relation example consider', 'couple', 'relation example', 'answer', 'car', 'example consider'] : with probability 
+0.7
+['relationship', 'relationship type', 'entity', 'entity type', 'binary relationship', 'type', 'binary', 'cardinality ratio', 'ratio', 'cardinality'] : with probability 
+0.62
+['entity relationship', 'entity relationship model', 'relationship model', 'modeling', 'chapter', 'relationship', 'entity', 'data modeling entity', 'modeling entity relationship', 'chapter data modeling'] : with probability 
+0.57
+
+Before prepro :   What are the disadvantages of file processing systems?
+After prepro :   What are the disadvantages of file processing systems?
+The top 3 similar topics are [23, 49, 71], and the similarities are [0.4  0.39 0.34]
+['transaction', 'transaction processing', 'processing', 'transaction processing concept', 'processing concept', 'transaction management', 'concept', 'database transaction', 'concept theory', 'concept transaction'] : with probability 
+0.4
+['file organization', 'file', 'organization', 'access', 'primary file organization', 'primary file', 'access structure', 'structure', 'access path', 'path'] : with probability 
+0.39
+['physical', 'physical database', 'physical database design', 'tuning', 'database design', 'design', 'physical design', 'factor', 'database tuning', 'design tuning'] : with probability 
+0.34
+
+For company :  google
+Before prepro :   Explain the different types of joins in SQL.
+After prepro :   Explain the different types of joins in SQL.
+The top 3 similar topics are [206, 56, 195], and the similarities are [0.47 0.45 0.45]
+['sample query', 'illustrate', 'query', 'statement sql', 'sample', 'sql', 'select', 'following query', 'clause', 'multiple document'] : with probability 
+0.47
+['join', 'outer', 'outer join', 'join operation', 'natural join', 'natural', 'equijoin', 'left', 'join condition', 'join attribute'] : with probability 
+0.45
+['nested', 'nested query', 'query', 'correlated', 'aggregate', 'illustrated query section', 'subqueries aggregate', 'illustrated query', 'outer query', 'subqueries'] : with probability 
+0.45
+
+Before prepro :   What is the PRIMARY KEY in SQL?
+After prepro :   What is the PRIMARY KEY in SQL?
+The top 3 similar topics are [16, 155, 206], and the similarities are [0.67 0.45 0.41]
+['key', 'primary key', 'primary', 'foreign', 'foreign key', 'candidate key', 'candidate', 'key attribute', 'attribute', 'key primary key'] : with probability 
+0.67
+['sql psm', 'psm', 'procedure', 'stored procedure', 'sql', 'stored', 'stored procedure sql', 'procedure sql', 'procedure sql psm', 'database stored procedure'] : with probability 
+0.45
+['sample query', 'illustrate', 'query', 'statement sql', 'sample', 'sql', 'select', 'following query', 'clause', 'multiple document'] : with probability 
+0.41
+
+Before prepro :   What are constraints?
+After prepro :   What are constraints?
+The top 3 similar topics are [20, 199, 143], and the similarities are [0.63 0.46 0.37]
+['constraint', 'integrity', 'integrity constraint', 'referential', 'referential integrity', 'referential integrity constraint', 'constraint specified', 'entity integrity', 'integrity constraint specified', 'state'] : with probability 
+0.63
+['specification', 'unspecified requirement', 'requirement appropriate assumption', 'specification complete', 'note unspecified', 'unspecified', 'requirement appropriate', 'unspecified requirement appropriate', 'appropriate assumption', 'note unspecified requirement'] : with probability 
+0.46
+['requirement', 'requirement collection analysis', 'collection analysis', 'requirement collection', 'analysis', 'collection analysis phase', 'collection', 'analysis phase', 'phase', 'requirement gathering'] : with probability 
+0.37
+
+Before prepro :   What’s the difference between DELETE and TRUNCATE statements in SQL?
+After prepro :   What’s the difference between DELETE and TRUNCATE statements in SQL?
+The top 3 similar topics are [144, 124, 155], and the similarities are [0.41 0.37 0.33]
+['deletion', 'marker', 'deletion marker', 'deleted record', 'record deletion', 'deleted', 'record', 'reorganization', 'space', 'deleting'] : with probability 
+0.41
+['deletion', 'insertion', 'insertion deletion', 'node', 'deletion tree', 'tree', 'deletion algorithm', 'algorithm node', 'outline algorithm', 'algorithm'] : with probability 
+0.37
+['sql psm', 'psm', 'procedure', 'stored procedure', 'sql', 'stored', 'stored procedure sql', 'procedure sql', 'procedure sql psm', 'database stored procedure'] : with probability 
+0.33
+
+Before prepro :   What is query optimization?
+After prepro :   What is query optimization?
+The top 3 similar topics are [14, 0, 38], and the similarities are [0.7  0.48 0.47]
+['query', 'optimization', 'query optimization', 'query processing', 'strategy', 'site', 'processing optimization', 'query processing optimization', 'execution', 'processing'] : with probability 
+0.7
+['document', 'search', 'retrieval', 'web', 'information retrieval', 'term', 'information', 'relevance', 'web search', 'engine'] : with probability 
+0.48
+['query tree', 'tree', 'query', 'query graph', 'node', 'graph', 'representation', 'algebra', 'execution', 'relational algebra'] : with probability 
+0.47
+
+Before prepro :   Given the tables below, select the top three departments with at least ten employees and rank them according to the percentage of their employees making over $100,000 in salary.
+After prepro :   Given the tables below, select the top three departments with at least ten employees and rank them according to the percentage of their employees making over $100,000 in salary.
+The top 3 similar topics are [25, 125, 19], and the similarities are [0.5  0.35 0.34]
+['salary', 'employee', 'select', 'department', 'salary employee', 'employee salary', 'count', 'query', 'average salary', 'dno'] : with probability 
+0.5
+['employee tuple', 'employee', 'tuple', 'nested query', 'select employee', 'nested', 'select employee tuple', 'dependent tuples', 'select', 'exists'] : with probability 
+0.35
+['department', 'employee', 'employee department', 'department employee', 'foreign key', 'foreign', 'worksfor', 'employee work', 'project', 'work'] : with probability 
+0.34
+
+Before prepro :   Given a users table, write a query to get the cumulative number of new users added by day, with the total reset every month.
+After prepro :   Given a users table, write a query to get the cumulative number of new users added by day, with the total reset every month.
+The top 3 similar topics are [39, 195, 206], and the similarities are [0.29 0.25 0.24]
+['aggregate function', 'grouping', 'aggregate', 'function', 'group', 'count', 'grouping attribute', 'sum', 'clause', 'function applied'] : with probability 
+0.29
+['nested', 'nested query', 'query', 'correlated', 'aggregate', 'illustrated query section', 'subqueries aggregate', 'illustrated query', 'outer query', 'subqueries'] : with probability 
+0.25
+['sample query', 'illustrate', 'query', 'statement sql', 'sample', 'sql', 'select', 'following query', 'clause', 'multiple document'] : with probability 
+0.24
+
+Before prepro :   Given a table of product subscriptions with a subscription start date and end date for each user, write a query that returns true or false whether or not each user has a subscription date range that overlaps with any other user.
+After prepro :   Given a table of product subscriptions with a subscription start date and end date for each user, write a query that returns true or false whether or not each user has a subscription date range that overlaps with any other user.
+The top 3 similar topics are [195, 180, 206], and the similarities are [0.4  0.33 0.33]
+['nested', 'nested query', 'query', 'correlated', 'aggregate', 'illustrated query section', 'subqueries aggregate', 'illustrated query', 'outer query', 'subqueries'] : with probability 
+0.4
+['condition', 'condition box', 'query condition', 'condition box query', 'query condition box', 'note condition', 'condition retrieves single', 'condition retrieves', 'retrieves single', 'box query'] : with probability 
+0.33
+['sample query', 'illustrate', 'query', 'statement sql', 'sample', 'sql', 'select', 'following query', 'clause', 'multiple document'] : with probability 
+0.33
+
+Before prepro :   Given a table of students and their SAT test scores, write a query to return the two students with the closest test scores with the score difference.
+After prepro :   Given a table of students and their SAT test scores, write a query to return the two students with the closest test scores with the score difference.
+The top 3 similar topics are [195, 206, 14], and the similarities are [0.41 0.39 0.34]
+['nested', 'nested query', 'query', 'correlated', 'aggregate', 'illustrated query section', 'subqueries aggregate', 'illustrated query', 'outer query', 'subqueries'] : with probability 
+0.41
+['sample query', 'illustrate', 'query', 'statement sql', 'sample', 'sql', 'select', 'following query', 'clause', 'multiple document'] : with probability 
+0.39
+['query', 'optimization', 'query optimization', 'query processing', 'strategy', 'site', 'processing optimization', 'query processing optimization', 'execution', 'processing'] : with probability 
+0.34
+
+Before prepro :   We’re given two tables, a users table with demographic information and the neighborhood they live in and a neighborhoods table. Write a query that returns all of the neighborhoods that have 0 users.
+After prepro :   We’re given two tables, a users table with demographic information and the neighborhood they live in and a neighborhoods table. Write a query that returns all of the neighborhoods that have 0 users.
+The top 3 similar topics are [195, 206, 212], and the similarities are [0.4  0.38 0.32]
+['nested', 'nested query', 'query', 'correlated', 'aggregate', 'illustrated query section', 'subqueries aggregate', 'illustrated query', 'outer query', 'subqueries'] : with probability 
+0.4
+['sample query', 'illustrate', 'query', 'statement sql', 'sample', 'sql', 'select', 'following query', 'clause', 'multiple document'] : with probability 
+0.38
+['domain', 'calculus', 'tuple domain', 'relational calculus', 'domain relational', 'domain relational calculus', 'tuple domain relational', 'query exercise tuple', 'specify query exercise', 'exercise tuple domain'] : with probability 
+0.32
+
+Before prepro :   Given a table of transactions and products, write a query to return the product id, product price, and average transaction price of all products with price greater than the average transaction price.
+After prepro :   Given a table of transactions and products, write a query to return the product id, product price, and average transaction price of all products with price greater than the average transaction price.
+The top 3 similar topics are [131, 206, 195], and the similarities are [0.44 0.42 0.42]
+['query transaction', 'invocation', 'transaction', 'frequency', 'query', 'time query', 'expected', 'analyzing', 'expected frequency', 'statistic'] : with probability 
+0.44
+['sample query', 'illustrate', 'query', 'statement sql', 'sample', 'sql', 'select', 'following query', 'clause', 'multiple document'] : with probability 
+0.42
+['nested', 'nested query', 'query', 'correlated', 'aggregate', 'illustrated query section', 'subqueries aggregate', 'illustrated query', 'outer query', 'subqueries'] : with probability 
+0.42
+
+Before prepro :   Let’s say we have two tables, transactions and products. Hypothetically the transactions table consists of over a billion rows of purchases bought by users.
+After prepro :   Let’s say we have two tables, transactions and products. Hypothetically the transactions table consists of over a billion rows of purchases bought by users.
+The top 3 similar topics are [23, 117, 79], and the similarities are [0.4  0.34 0.33]
+['transaction', 'transaction processing', 'processing', 'transaction processing concept', 'processing concept', 'transaction management', 'concept', 'database transaction', 'concept theory', 'concept transaction'] : with probability 
+0.4
+['item', 'item transaction', 'database item', 'data item', 'transaction', 'transaction data item', 'value', 'transaction data', 'value data item', 'read'] : with probability 
+0.34
+['related data', 'characteristic database', 'characteristic', 'catalog', 'collection related data', 'data', 'database collection', 'collection related', 'characteristic database approach', 'meta data'] : with probability 
+0.33

@@ -1,0 +1,191 @@
+question,len_2_probab,len_2_topic,ngram_probab,ngram_topic,corr_probab,corr_topic,merged_ngram_probab,merged_ngram_topic,,,difference
+data redundancy,0.65,redundancy_183,0.7,redundancy_187,0.7,redundancy_159,0.5,data item_369,,,-0.2
+query optimization,0.63,optimization_6,0.84,query_14,0.81,query_1,0.65,plan_0,,,-0.19
+query optimization,0.63,optimization_6,0.84,query_14,0.81,query_1,0.65,plan_0,,,-0.19
+understand query optimization,0.58,optimization_6,0.74,query_14,0.73,query_1,0.59,plan_0,,,-0.15
+mean transparent dbms,0.42,transparency_192,0.5,transparency_208,0.46,transparency_199,0.35,distributed database_23,,,-0.15
+differences cluster non cluster index database,0.35,cluster_81,0.54,clustering_113,0.4,cluster_86,0.47,cluster_63,,,-0.07
+process query optimization dbms include step like query parse query rewrite query transformation cost base optimization improve query performance,0.36,optimization_6,0.5,query_14,0.46,query_1,0.44,query tree_61,,,-0.06
+dbms handle query optimization execution plan include techniques like cost base optimization query parse query rewrite plan generation plan cache ensure efficient query process,0.4,optimization_6,0.5,query_14,0.48,query_1,0.44,tuning_294,,,-0.06
+process query optimization dbms include step like query parse query rewrite query transformation cost base optimization improve query performance,0.36,optimization_6,0.5,query_14,0.46,query_1,0.44,query tree_61,,,-0.06
+differences cluster index non cluster index,0.33,tree_215,0.57,clustering_113,0.39,tree_212,0.51,index_1,,,-0.06
+concept query optimization dbms techniques performance improvement,0.36,dbms_2,0.53,query_14,0.5,query_1,0.48,database programming_328,,,-0.05
+concept database trigger dbms use automate specific action enforce business rule base predefined condition data modification operations insert update delete,0.32,trigger_18,0.45,trigger view schema_203,0.41,trigger view schema_203,0.41,trigger view_331,,,-0.04
+unary operations relational algebra,0.56,algebra_23,0.76,algebra_18,0.75,algebra_21,0.73,calculus_14,,,-0.03
+relationship,0.77,couple_142,0.81,relation relation_130,0.78,relation_148,0.78,diamond_363,,,-0.03
+transaction log,0.62,log_26,0.76,log_171,0.6,log_31,0.73,log_391,,,-0.03
+trigger database work,0.47,trigger_18,0.63,trigger view schema_203,0.61,trigger view schema_203,0.6,trigger_16,,,-0.03
+transaction log ensure data durability recoverability database,0.33,log_26,0.47,log_171,0.44,database disk_187,0.44,dbpointer_410,,,-0.03
+transaction log ensure data durability recoverability database,0.33,log_26,0.47,log_171,0.44,database disk_187,0.44,dbpointer_410,,,-0.03
+dbms,0.68,dbms_2,0.7,dbms_2,0.73,dbms_3,0.67,dbms_5,,,-0.03
+rdbms,0.57,dbms_2,0.58,jdbc_28,0.58,jdbc_37,0.55,sqlj_256,,,-0.03
+dbms,0.68,dbms_2,0.7,dbms_2,0.73,dbms_3,0.67,dbms_5,,,-0.03
+purpose transaction log dbms,0.45,log_26,0.57,log_171,0.53,transaction_20,0.54,log_391,,,-0.03
+difference entity attribute,0.43,multivalued_42,0.62,attribute_161,0.53,multivalued_35,0.6,relation attribute_175,,,-0.02
+database trigger,0.51,trigger_18,0.65,trigger view schema_203,0.63,trigger view schema_203,0.63,trigger_16,,,-0.02
+give table product subscriptions subscription start date end date user write query return true false user subscription date range overlap user,0.25,nested_179,0.34,nested_195,0.34,nested query_184,0.32,query shown figure_313,,,-0.02
+concept database partition benefit performance optimization,0.48,partition_73,0.52,partition_64,0.49,partition_75,0.5,partitioning_2,,,-0.02
+database trigger work provide example,0.49,trigger_18,0.63,trigger view schema_203,0.61,trigger view schema_203,0.61,trigger_16,,,-0.02
+give table product subscriptions subscription start date end date user write query return true false user subscription date range overlap user,0.25,nested_179,0.34,nested_195,0.34,nested query_184,0.32,query shown figure_313,,,-0.02
+discuss concept database trigger provide examples,0.44,schema_16,0.57,trigger view schema_203,0.56,trigger view schema_203,0.55,trigger view_331,,,-0.02
+database,0.69,dbms_2,0.77,database programming_132,0.79,database programming_181,0.76,database programming_328,,,-0.01
+mean acid properties dbms,0.24,dbms_2,0.27,related data_79,0.27,dbms_3,0.26,physical database design_184,,,-0.01
+database,0.69,dbms_2,0.77,database programming_132,0.79,database programming_181,0.76,database programming_328,,,-0.01
+kinds interactions cater dbms,0.44,dbms_2,0.49,object oriented_40,0.49,object oriented_64,0.48,dbms_5,,,-0.01
+role database index dbms factor consider select appropriate index strategy include index type tree hash bitmap index cardinality,0.37,tree_215,0.53,tree_214,0.5,tree_212,0.52,storage indexing_376,,,-0.01
+give table transactions products write query return product id product price average transaction price products price greater average transaction price,0.28,nested_179,0.43,query transaction_131,0.41,query transaction_115,0.42,query transaction_371,,,-0.01
+concept database index different type index,0.33,tree_215,0.5,tree_214,0.43,tree_212,0.49,storage indexing_376,,,-0.01
+dbms enforce referential integrity relational database,0.43,integrity_21,0.63,constraint_20,0.62,constraint_26,0.62,integrity_46,,,-0.01
+database partition enhance performance manageability large datasets,0.44,partition_73,0.49,partition_64,0.46,partition_75,0.48,storage indexing_376,,,-0.01
+referential integrity role maintain data consistency,0.42,integrity_21,0.62,constraint_20,0.62,constraint_26,0.61,integrity_46,,,-0.01
+purpose transaction log dbms ensure durability,0.36,log_26,0.46,log_171,0.41,database disk_187,0.45,log_391,,,-0.01
+database partition enhance performance manageability large datasets,0.44,partition_73,0.49,partition_64,0.46,partition_75,0.48,storage indexing_376,,,-0.01
+referential integrity role maintain data consistency,0.42,integrity_21,0.62,constraint_20,0.62,constraint_26,0.61,integrity_46,,,-0.01
+database mirror use high availability,0.34,replication_33,0.41,distributed_17,0.42,distributed_28,0.4,distributed database_23,,,-0.01
+database partition benefit performance optimization,0.52,partition_73,0.57,partition_64,0.55,partition_75,0.56,partitioning_2,,,-0.01
+concept database view benefit term security query simplification,0.34,view_30,0.49,trigger view schema_203,0.49,trigger view schema_203,0.49,trigger view_331,,,0
+concept database index impact query performance dbms,0.41,tree_215,0.5,tree_214,0.43,tree_212,0.5,storage indexing_376,,,0
+database schema define data organization,0.45,schema_16,0.59,schema_9,0.62,schema_9,0.59,ddl_210,,,0
+concept database index impact query performance dbms,0.41,tree_215,0.5,tree_214,0.43,tree_212,0.5,storage indexing_376,,,0
+purpose store procedures benefit,0.31,dbms_2,0.37,sql psm_155,0.39,uml_149,0.37,scheme_315,,,0
+differences horizontal vertical partition database design,0.39,partition_73,0.45,fragmentation_98,0.66,partitioning_208,0.45,partitioning_2,,,0
+purpose store procedures benefit,0.31,dbms_2,0.37,sql psm_155,0.39,uml_149,0.37,scheme_315,,,0
+role index database type,0.37,role_163,0.46,role_150,0.47,role_172,0.47,storage indexing_376,,,0.01
+mean dbms utility explain rdbms examples,0.42,dbms_2,0.43,dbms_2,0.45,dbms_3,0.44,database programming_328,,,0.01
+different level abstraction dbms,0.36,schema_16,0.48,database programming_132,0.47,uml_149,0.49,database programming_328,,,0.01
+role trigger enforce data integrity constraints,0.38,integrity_21,0.57,constraint_20,0.57,constraint_26,0.58,integrity_46,,,0.01
+dbms handle data integrity presence concurrent transactions mechanisms transaction management include lock log undo redo operations,0.39,transaction_19,0.51,transaction_23,0.52,transaction_20,0.52,concurrency_38,,,0.01
+concept database metadata dbms include information store catalog table table column definitions index constraints statistics role manage understand database structure,0.38,schema_16,0.48,schema_9,0.49,collection related data_164,0.49,data dictionary_254,,,0.01
+give table select departments employees rank accord percentage employees make salary,0.33,salary_32,0.5,salary_25,0.5,salary_50,0.51,salary_51,,,0.01
+concept database lock different type lock concurrency control,0.43,lock_15,0.5,concurrency_36,0.5,concurrency_44,0.51,concurrency_38,,,0.01
+concept database lock different type lock concurrency control,0.43,lock_15,0.5,concurrency_36,0.5,concurrency_44,0.51,concurrency_38,,,0.01
+role trigger enforce data integrity constraints,0.38,integrity_21,0.57,constraint_20,0.57,constraint_26,0.58,integrity_46,,,0.01
+give table select departments employees rank accord percentage employees make salary,0.33,salary_32,0.5,salary_25,0.5,salary_50,0.51,salary_51,,,0.01
+concept data integrity constraints relational database provide examples,0.43,integrity_21,0.61,constraint_20,0.61,constraint_26,0.62,integrity_46,,,0.01
+super primary candidate foreign key,0.55,key_17,0.67,key_16,0.66,key_17,0.69,foreign key_35,,,0.02
+concept database view advantage,0.44,view_30,0.56,view_121,0.55,view_100,0.58,view integration_222,,,0.02
+dbms handle data concurrency manage resource contention multi user environment utilize techniques like lock latch timestamp base concurrency control,0.42,concurrency_40,0.56,concurrency_36,0.56,concurrency_44,0.58,concurrency_38,,,0.02
+concept database transactions impact data consistency,0.4,transaction_19,0.55,transaction_23,0.53,transaction_20,0.57,consistency_224,,,0.02
+dbms handle data concurrency manage resource contention multi user environment utilize techniques like lock latch timestamp base concurrency control,0.42,concurrency_40,0.56,concurrency_36,0.56,concurrency_44,0.58,concurrency_38,,,0.02
+acid properties importance database transactions,0.36,warehouse_8,0.46,transaction_23,0.47,item_169,0.48,item_233,,,0.02
+let table transactions products hypothetically transactions table consist billion row purchase buy users,0.39,transaction_19,0.46,transaction_23,0.46,transaction_20,0.48,item_233,,,0.02
+mean data model,0.34,modeling_174,0.43,related data_79,0.44,eer_68,0.45,data item_369,,,0.02
+entity relationship model,0.6,modeling_174,0.94,entity relationship_196,0.85,eer_68,0.96,entity relationship model_440,,,0.02
+concept transaction isolation level dbms include read uncommitted read commit repeatable read serializable discuss impact data concurrency consistency,0.42,isolation_89,0.5,concurrency_36,0.5,concurrency_44,0.52,concurrency_38,,,0.02
+different type join operations available dbms inner join leave join right join join help combine data multiple table base specify criteria,0.33,nested_179,0.48,join_56,0.48,join_56,0.5,merge join_293,,,0.02
+significance database lock concurrency control,0.48,lock_15,0.63,concurrency_36,0.63,concurrency_44,0.65,concurrency_38,,,0.02
+explain different type join sql,0.4,nested_179,0.49,data type_112,0.49,data type_90,0.51,basic structure sql_357,,,0.02
+constraints,0.69,integrity_21,0.7,constraint_20,0.71,constraint_26,0.72,integrity_46,,,0.02
+difference delete truncate statements sql,0.35,deletion_114,0.44,deletion_144,0.44,deletion_117,0.46,delete_105,,,0.02
+give table users table demographic information neighborhood live neighborhoods table write query return neighborhoods users,0.26,dimension_160,0.36,dimension_190,0.38,dimension_173,0.38,create table_284,,,0.02
+role database schema dbms define data structure,0.39,schema_16,0.53,schema_9,0.56,schema_9,0.55,ddl_210,,,0.02
+purpose database management dbms organization data infrastructure,0.46,dbms_2,0.49,distributed_17,0.51,dbms_3,0.51,datastorage_355,,,0.02
+concept database sharding use horizontal database scale,0.25,dbms_2,0.41,physical_71,0.38,uml_149,0.43,physical database design_184,,,0.02
+purpose database management dbms organization data infrastructure,0.46,dbms_2,0.49,distributed_17,0.51,dbms_3,0.51,datastorage_355,,,0.02
+concept database sharding use horizontal database scale,0.25,dbms_2,0.41,physical_71,0.38,uml_149,0.43,physical database design_184,,,0.02
+concept database mirror achieve redundancy,0.38,redundancy_183,0.41,object oriented_40,0.47,redundancy_159,0.43,parallel_75,,,0.02
+significance database lock concurrency control,0.48,lock_15,0.63,concurrency_36,0.63,concurrency_44,0.65,concurrency_38,,,0.02
+explain different type join sql,0.4,nested_179,0.49,data type_112,0.49,data type_90,0.51,basic structure sql_357,,,0.02
+constraints,0.69,integrity_21,0.7,constraint_20,0.71,constraint_26,0.72,integrity_46,,,0.02
+difference delete truncate statements sql,0.35,deletion_114,0.44,deletion_144,0.44,deletion_117,0.46,delete_105,,,0.02
+concept database mirror achieve redundancy,0.38,redundancy_183,0.41,object oriented_40,0.47,redundancy_159,0.43,parallel_75,,,0.02
+database management dbms handle data integrity constraints primary key foreign key check constraints ensure data accuracy consistency relational database,0.4,integrity_21,0.54,constraint_20,0.54,constraint_26,0.57,consistency_224,,,0.03
+security measure implement dbms protect sensitive data include access control mechanisms authentication authorization encryption audit ensure data privacy prevent unauthorized access,0.41,privacy_35,0.54,privacy_32,0.53,privacy_38,0.57,privacy_95,,,0.03
+differences primary key unique key database,0.35,key_17,0.54,key_16,0.51,key_17,0.57,primary key_171,,,0.03
+concept database replication importance achieve data redundancy,0.42,replication_33,0.46,redundancy_187,0.5,redundancy_159,0.49,replication_20,,,0.03
+advantage disadvantage relational database management rdbms,0.34,dbms_2,0.4,database programming_132,0.43,database programming_181,0.43,database programming_328,,,0.03
+explain advantage dbms,0.46,dbms_2,0.49,dbms_2,0.51,dbms_3,0.52,scheme_315,,,0.03
+difference primary key unique constraints,0.34,integrity_21,0.48,key_16,0.45,key_17,0.51,primary key_171,,,0.03
+define relation schema relation,0.56,semantics_90,0.84,relation schema_111,0.83,relation schema_114,0.87,relation schema_76,,,0.03
+database schema,0.56,schema_16,0.73,schema_9,0.76,schema_9,0.76,relation schema_76,,,0.03
+transaction log ensure durability,0.37,log_26,0.47,log_171,0.36,log_31,0.5,log_391,,,0.03
+role database view dbms significance provide logical abstraction data simplify complex query enforce data security restrict access sensitive information,0.31,dbms_2,0.43,privacy_32,0.43,trigger view schema_203,0.46,privacy_95,,,0.03
+primary key sql,0.48,key_17,0.72,key_16,0.68,key_17,0.75,primary key_171,,,0.03
+give users table write query cumulative number new users add day total reset month,0.3,aggregate_36,0.36,sample query_206,0.34,nested query_184,0.39,create table_284,,,0.03
+concept database security measure protect sensitive data,0.35,privacy_35,0.5,privacy_32,0.49,privacy_38,0.53,privacy_95,,,0.03
+differences optimistic pessimistic concurrency control dbms,0.51,concurrency_40,0.62,concurrency_36,0.62,concurrency_44,0.65,concurrency_38,,,0.03
+database replication contribute high availability fault tolerance distribute systems,0.52,replication_33,0.5,replication_29,0.5,replication_39,0.53,replication_20,,,0.03
+primary key sql,0.48,key_17,0.72,key_16,0.68,key_17,0.75,primary key_171,,,0.03
+give users table write query cumulative number new users add day total reset month,0.3,aggregate_36,0.36,sample query_206,0.34,nested query_184,0.39,create table_284,,,0.03
+differences optimistic pessimistic concurrency control dbms,0.51,concurrency_40,0.62,concurrency_36,0.62,concurrency_44,0.65,concurrency_38,,,0.03
+database replication contribute high availability fault tolerance distribute systems,0.52,replication_33,0.5,replication_29,0.5,replication_39,0.53,replication_20,,,0.03
+challenge associate scale database address,0.27,dbms_2,0.32,distributed_17,0.33,collection related data_164,0.36,bank database_287,,,0.04
+advantage disadvantage denormalized databases certain scenarios,0.35,redundancy_183,0.4,physical_71,0.39,uml_149,0.44,scheme_315,,,0.04
+advantage disadvantage denormalized databases certain scenarios,0.35,redundancy_183,0.4,physical_71,0.39,uml_149,0.44,scheme_315,,,0.04
+differnt data model,0.37,modeling_174,0.48,related data_79,0.48,eer_68,0.52,data item_369,,,0.04
+degree relation,0.51,algebra_23,0.58,algebra_18,0.58,algebra_21,0.62,relation relation_127,,,0.04
+primary key,0.59,key_17,0.84,key_16,0.81,key_17,0.88,primary key_171,,,0.04
+concept database replication dbms application achieve data redundancy load balance fault tolerance consider techniques like master slave replication multi master replication,0.42,replication_33,0.42,replication_29,0.42,replication_39,0.46,replication_20,,,0.04
+difference logical physical database design,0.33,schema_16,0.68,physical_71,0.62,physical_33,0.73,physical database design_184,,,0.05
+difference logical physical database design,0.33,schema_16,0.68,physical_71,0.62,physical_33,0.73,physical database design_184,,,0.05
+concept database denormalization scenarios beneficial,0.38,schema_16,0.45,physical_71,0.46,uml_149,0.5,normalization_234,,,0.05
+different type database index impact query performance,0.33,tree_215,0.43,tree_214,0.35,tree_212,0.48,storage indexing_376,,,0.05
+checkpoint occur dbms,0.48,log_26,0.71,checkpoint_91,0.46,log_31,0.76,checkpoint_90,,,0.05
+understand aggregation atomicity,0.47,atomic_176,0.5,atomic_181,0.52,atomic_179,0.55,atomicity_66,,,0.05
+database index impact query performance,0.4,tree_215,0.49,tree_214,0.42,tree_212,0.54,storage indexing_376,,,0.05
+differences physical logical database design dbms emphasize importance design database schema term data efficiency data integrity ease maintenance,0.31,schema_16,0.51,physical_71,0.46,physical_33,0.57,physical database design_184,,,0.06
+differences logical physical data model database design,0.31,schema_16,0.65,physical_71,0.6,physical_33,0.71,physical database design_184,,,0.06
+concept database normalization different normal form nf nf nf bcnf highlight benefit achieve normalize database schema term data redundancy reduction data consistency,0.35,normalization_180,0.46,bcnf_90,0.45,bcnf_110,0.52,normalization_291,,,0.06
+give table students sit test score write query return students closest test score score difference,0.27,grade_69,0.4,sample query_206,0.35,nested query_184,0.46,result_174,,,0.06
+concept database normalization different normal form nf nf nf bcnf highlight benefit achieve normalize database schema term data redundancy reduction data consistency,0.35,normalization_180,0.46,bcnf_90,0.45,bcnf_110,0.52,normalization_291,,,0.06
+give table students sit test score write query return students closest test score score difference,0.27,grade_69,0.4,sample query_206,0.35,nested query_184,0.46,result_174,,,0.06
+checkpoint dbms,0.52,log_26,0.75,checkpoint_91,0.49,log_31,0.81,checkpoint_90,,,0.06
+distribute database differ centralize database,0.38,distributed_20,0.5,distributed_17,0.51,distributed_28,0.56,distributed database_23,,,0.06
+distribute database differ centralize database,0.38,distributed_20,0.5,distributed_17,0.51,distributed_28,0.56,distributed database_23,,,0.06
+database lock significance concurrent access,0.53,lock_15,0.55,lock_8,0.54,concurrency_44,0.62,locking_239,,,0.07
+acid properties briefly,0.31,atomic_176,0.29,isolation_152,0.29,atomic_179,0.36,atomicity_66,,,0.07
+concept materialize view database advantage limitations,0.31,view_30,0.39,view_121,0.41,view_100,0.46,view integration_222,,,0.07
+explain concept database replication benefit challenge,0.46,replication_33,0.45,replication_29,0.46,replication_39,0.52,replication_20,,,0.07
+database index briefly,0.52,tree_215,0.61,index_55,0.54,tree_212,0.68,storage indexing_376,,,0.07
+benefit materialize view database,0.37,view_30,0.47,view_121,0.49,view_100,0.54,view integration_222,,,0.07
+concept database denormalization appropriate,0.38,subclass_7,0.48,database programming_132,0.47,database programming_181,0.55,normalization_234,,,0.07
+concept database denormalization appropriate,0.38,subclass_7,0.48,database programming_132,0.47,database programming_181,0.55,normalization_234,,,0.07
+benefit materialize view database,0.37,view_30,0.47,view_121,0.49,view_100,0.54,view integration_222,,,0.07
+mention issue traditional file base systems dbms better choice,0.37,dbms_2,0.38,distributed_17,0.41,distributed_28,0.47,datastorage_355,,,0.09
+backup recovery strategies implement dbms include backups incremental backups differential backups point time recovery ensure data availability data loss prevention,0.3,dbms_2,0.38,checkpoint_91,0.36,database programming_181,0.47,recovery_164,,,0.09
+backup recovery strategies implement dbms include backups incremental backups differential backups point time recovery ensure data availability data loss prevention,0.3,dbms_2,0.38,checkpoint_91,0.36,database programming_181,0.47,recovery_164,,,0.09
+concept database backups recovery strategies,0.3,rollback_155,0.42,database programming_132,0.41,database programming_181,0.51,recovery_164,,,0.09
+difference primary key foreign key database,0.39,key_17,0.57,key_16,0.54,key_17,0.66,foreign key_35,,,0.09
+explain different languages present dbms,0.43,dbms_2,0.48,language_207,0.51,language_168,0.58,language_232,,,0.1
+concept database normalization role reduce data redundancy,0.36,normalization_180,0.4,redundancy_187,0.41,redundancy_159,0.5,normalization_234,,,0.1
+concept database normalization role reduce data redundancy,0.36,normalization_180,0.4,redundancy_187,0.41,redundancy_159,0.5,normalization_234,,,0.1
+sql purpose manage databases,0.41,dbms_2,0.46,database programming_132,0.49,database programming_181,0.56,administrator_172,,,0.1
+sql purpose manage databases,0.41,dbms_2,0.46,database programming_132,0.49,database programming_181,0.56,administrator_172,,,0.1
+acid properties ensure transactional consistency,0.36,isolation_89,0.5,isolation_152,0.53,consistency_214,0.61,consistency_224,,,0.11
+database replication benefit data management,0.47,replication_33,0.48,replication_29,0.49,replication_39,0.59,replication_20,,,0.11
+concept normalization database design provide example,0.49,normalization_180,0.54,database programming_132,0.52,database programming_181,0.65,normalization_234,,,0.11
+acid properties ensure transactional consistency,0.36,isolation_89,0.5,isolation_152,0.53,consistency_214,0.61,consistency_224,,,0.11
+differences oltp olap databases,0.33,warehouse_8,0.42,warehouse_7,0.42,warehouse_12,0.53,olap_221,,,0.11
+primary foreign key database,0.45,key_17,0.63,key_16,0.6,key_17,0.75,foreign key_35,,,0.12
+database denormalization useful,0.4,normalization_180,0.47,physical_71,0.44,database programming_181,0.59,normalization_234,,,0.12
+database normalization important database design,0.51,normalization_180,0.55,database programming_132,0.54,database programming_181,0.67,normalization_234,,,0.12
+database normalization important database design,0.51,normalization_180,0.55,database programming_132,0.54,database programming_181,0.67,normalization_234,,,0.12
+primary foreign key database,0.45,key_17,0.63,key_16,0.6,key_17,0.75,foreign key_35,,,0.12
+explain role database management dbms manage data,0.4,dbms_2,0.45,role_150,0.49,role_172,0.58,administrator_172,,,0.13
+concept database normalization different form,0.43,normalization_180,0.48,normal form_26,0.48,normal form_34,0.61,normalization_234,,,0.13
+disadvantage file process systems,0.32,transaction_19,0.43,file organization_49,0.42,file organization_67,0.56,filegroup_163,,,0.13
+concept database backup recovery strategies include incremental backups,0.29,rollback_155,0.35,database programming_132,0.33,database programming_181,0.5,recovery_164,,,0.15
+database backup recovery strategies include incremental backups,0.26,cascadeless_165,0.35,checkpoint_91,0.29,database disk_187,0.5,recovery_164,,,0.15
+database backup recovery strategies include incremental backups,0.26,cascadeless_165,0.35,checkpoint_91,0.29,database disk_187,0.5,recovery_164,,,0.15
+purpose data dictionary dbms,0.43,dbms_2,0.58,related data_79,0.58,collection related data_164,0.75,data dictionary_254,,,0.17
+database normalization briefly,0.6,normalization_180,0.55,database programming_132,0.53,database programming_181,0.75,normalization_234,,,0.2
+purpose sql structure query language dbms,0.41,dbms_2,0.53,database programming_132,0.52,database programming_181,0.73,query language_283,,,0.2
+understand term entity entity type entity set dbms,0.35,schema_16,0.46,relationship_4,0.45,relationship_2,0.66,entity_159,,,0.2
+advantage disadvantage different database storage model file base storage page base storage tablespace base storage term data access efficiency scalability fault tolerance,0.28,storage_125,0.32,physical_71,0.33,file organization_67,0.52,storage file structure_486,,,0.2
+advantage disadvantage different database storage model file base storage page base storage tablespace base storage term data access efficiency scalability fault tolerance,0.28,storage_125,0.32,physical_71,0.33,file organization_67,0.52,storage file structure_486,,,0.2
+normalization database design brief example,0.55,normalization_180,0.53,database programming_132,0.51,normal form_34,0.74,normalization_234,,,0.21
+normalization database design brief example,0.55,normalization_180,0.53,database programming_132,0.51,normal form_34,0.74,normalization_234,,,0.21
+differences online transaction process oltp online analytical process olap databases,0.34,warehouse_8,0.43,transaction_23,0.43,transaction_20,0.64,olap_221,,,0.21
+differences online transaction process oltp online analytical process olap databases,0.34,warehouse_8,0.43,transaction_23,0.43,transaction_20,0.64,olap_221,,,0.21
+role database administrator dba maintain data security integrity,0.25,privilege_25,0.35,security_50,0.34,role_172,0.57,administrator_172,,,0.22
+role database administrator dba maintain data security integrity,0.25,privilege_25,0.35,security_50,0.34,role_172,0.57,administrator_172,,,0.22
+differences oltp online transaction process olap online analytical process databases,0.34,warehouse_8,0.42,transaction_23,0.42,transaction_20,0.64,olap_221,,,0.22
+purpose sql structure query language dbms provide example query,0.39,dbms_2,0.52,sample query_206,0.53,query graph_143,0.75,query language_283,,,0.23
+data dictionary provide metadata database structure,0.29,ontology_38,0.55,related data_79,0.55,collection related data_164,0.78,data dictionary_254,,,0.23
+database backups,0.35,dbms_2,0.41,database programming_132,0.42,database programming_181,0.64,backup_118,,,0.23
+role database administrator dba dbms environment,0.4,role_163,0.43,role_150,0.48,role_172,0.69,administrator_172,,,0.26
+role database administrator dba dbms environment,0.4,role_163,0.43,role_150,0.48,role_172,0.69,administrator_172,,,0.26
+role database administrator dba briefly,0.44,role_163,0.45,role_150,0.51,role_172,0.74,administrator_172,,,0.29
+consider null value blank space zero,0.52,null_143,0.33,condition_180,0.65,null_155,0.75,null_430,,,0.42
+null value database blank space zero,0.46,null_143,0.26,sql psm_155,0.6,null_155,0.68,null_430,,,0.42
+,0.411005291,,0.514126984,,0.505820106,,0.562486772,,,,0.048359788

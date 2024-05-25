@@ -1,0 +1,508 @@
+bucket_topic_number,bucket_topic,book_topic_number,book_topic,score
+0,"database, data, type, relation, attribute, transaction, department, query",3,Querying Relational Databases,0.3882542310999426
+1,"plan, optimization, cost, optimizer, query, query optimization, estimate, evaluation",3,Querying Relational Databases,0.6334777949759349
+2,"index, secondary index, secondary, search, clustering index, clustering, primary index, field",23,Database Constraints and Triggers,0.23467448190965207
+3,"partitioning, partition, hash, partitioned, hash join, skew, processor, range partitioning",28,Database Scalability and Partitioning,0.5773619898728036
+4,"bucket, hash, hashing, hash function, bucket address, overflow, hash value, record bucket",0,Introduction to Database Management Systems,0.0
+5,"lock, item, data item, request, lock data, lock data item, lock item, locking",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+6,"dbms, interface, ibm, application, software, user interface, tool, database",28,Database Scalability and Partitioning,0.21683455169932978
+7,"node, leaf, tree, leaf node, root, entry, pointer, split",0,Introduction to Database Management Systems,0.0
+8,"tuples, tuple, number tuples, tuples relation, set tuples, duplicate tuples, tuples tuples, tuple relation",0,Introduction to Database Management Systems,0.0
+9,"conceptual, schema, design, conceptual schema, requirement, phase, database design, schema design",2,Database Design and Normalization,0.28523506467049814
+10,"agrawal, srinivasan comp, srinivasan, chakrabarti, silberschatz, chamberlin, jennifer narayan ramesh, franklin wallace jennifer",0,Introduction to Database Management Systems,0.0
+11,"join, outer join, outer, natural join, natural, join condition, join operation, condition",0,Introduction to Database Management Systems,0.0
+12,"temporal, time, valid, valid time, temporal database, date time, interval, time slot",10,Time-Series and Geospatial Databases,0.45464751561838507
+13,"spatial, map, geographic, spatial data, geographic data, location, spatial database, road",31,Geospatial and Temporal Databases,0.4033896183215632
+14,"aggregate, aggregate function, group, aggregation, count, grouping, function, sum",0,Introduction to Database Management Systems,0.0
+15,"calculus, relational calculus, algebra, relational algebra, relational, tuple relational, tuple relational calculus, domain relational calculus",1,Relational Database Model,0.33025381697646117
+16,"image, multimedia, video, audio, multimedia database, multimedia source, audio data, clip",29,Data Quality Assurance and Data Cleansing,0.35657912243598505
+17,"trigger, event, rule, active, action, triggering, active rule, statement level",0,Introduction to Database Management Systems,0.0
+18,"schedule, serializable, serializability, serial, serial schedule, conflict, equivalent serial schedule, equivalent serial",0,Introduction to Database Management Systems,0.0
+19,"undo, log, log record, undolist, redo, record, undo operation, abort",14,Database Auditing and Logging,0.3022081981993536
+20,"encryption, encrypted, public, decryption, key, public key, private key, private",16,Data Compression and Encryption,0.39311002490448843
+21,"replication, replica, replicated, subscriber, site, replica data, update, update replica",27,Distributed Databases and Replication,0.45702320647939354
+22,"materialized, materialized view, view, view maintenance, maintenance, view materialized, index materialized, index materialized view",0,Introduction to Database Management Systems,0.0
+23,"bitmap, bitmap index, bit, index, bit bitmap, complement, bitmap value, intersection",0,Introduction to Database Management Systems,0.0
+24,"distributed database, distributed, autonomy, federated, heterogeneous, chapter distributed database, chapter distributed, centralized",27,Distributed Databases and Replication,0.708054393603371
+25,"bibliographical, bibliographical note, note, reference, note reference, bibliographical note reference, bibliographic, bibliographic note",0,Introduction to Database Management Systems,0.0
+26,"deadlock, detection, deadlock detection, prevention, deadlock prevention, deadlock deadlock, wait, waiting",0,Introduction to Database Management Systems,0.0
+27,"xml, xml data, xml document, native, document, exchange, native xml, storage xml",18,NoSQL Databases: Document Stores,0.34380915128942424
+28,"data model, model, object, object database, object oriented, oriented, relational, object relational",13,Multi-Model Databases,0.48398210317819146
+29,"bcnf, decomposition, schema bcnf, relation bcnf, bcnf decomposition, dependency, normal form, normal",25,Database Migration and Schema Evolution,0.3176423806549445
+30,"security, label, access control, policy, control, label security, flow, access",7,Database Security and Access Control,0.4964212770821539
+31,"salary, salary instructor, instructor, instructor salary, dept, avg, avg salary, salary salary",0,Introduction to Database Management Systems,0.0
+32,"dependency, functional dependency, functional, multivalued dependency, multivalued, dependency functional, dependency functional dependency, set functional",0,Introduction to Database Management Systems,0.0
+33,"xsd, xsd element, xml, xml schema, element, type xsd, xsd string, type xsd string",25,Database Migration and Schema Evolution,0.3176423806549445
+34,"predicate, datalog, rule, interpretation, prolog, superior, fact, inference mechanism",0,Introduction to Database Management Systems,0.0
+35,"privilege, grant, revoke, authorization, granted, account, grant option, grant privilege",7,Database Security and Access Control,0.0965342640408357
+36,"foreign key, foreign, key, primary key, primary, foreignkey, foreignkey constraint, key foreign",23,Database Constraints and Triggers,0.3455850392373139
+37,"figure, example figure, figure example figure, figure example, example figure example, shown figure, shown, appears figure",0,Introduction to Database Management Systems,0.0
+38,"reada, read, readb, writeq, writea, reada writea, readb writeb, writeb",0,Introduction to Database Management Systems,0.0
+39,"concurrency, concurrency control, control, control recovery, concurrency control recovery, recovery, concurrency control distributed, control distributed",7,Database Security and Access Control,0.2551039633344846
+40,"transaction processing, processing, transaction, concept transaction, concept, transaction management, transaction processing concept, processing concept",5,Transaction Management and ACID Properties,0.3493761264409865
+41,"snapshot, snapshot isolation, isolation, mvcc, postgresql, isolation level, snapshotdata, transaction",5,Transaction Management and ACID Properties,0.22482806116538295
+42,"warehouse, data warehouse, data, source, warehouse data, warehouse provide, data warehouse provide, multiple source",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+43,"html, javascript, jsp, browser, scripting, code, input, scripting language",1,Relational Database Model,0.10078874713503898
+44,"project, employee, employee work, name employee, work project, work, employee work project, retrieve",3,Querying Relational Databases,0.10098722091470684
+45,"popularity, page, pagerank, ranking, link, web page, popularity ranking, spamming",0,Introduction to Database Management Systems,0.0
+46,"log, stable storage, stable, log record, output stable, output stable storage, output, logging",14,Database Auditing and Logging,0.2658448099411736
+47,"integrity, integrity constraint, constraint, referential integrity, referential, referential integrity constraint, constraint specified, integrity constraint specified",2,Database Design and Normalization,0.3063094681727007
+48,"account, balance, bank, fund, transaction transfer, account balance, transfer, transfer account",5,Transaction Management and ACID Properties,0.12847317780879025
+49,"order, sorting, sort, sorted, sort order, order clause, reorder, item",0,Introduction to Database Management Systems,0.0
+50,"persistent, persistent object, object, transient, persistent pointer, pointer, object persistent, persistence",0,Introduction to Database Management Systems,0.0
+51,"message, messaging, conversation, queue, persistent messaging, persistent, durable, durable queue",0,Introduction to Database Management Systems,0.0
+52,"salary, average salary, employee, average, salary employee, salary department, department, employee salary",0,Introduction to Database Management Systems,0.0
+53,"subqueries, subquery, nested, nested subqueries, nested query, correlated, nested subquery, outer query",3,Querying Relational Databases,0.5790822707065071
+54,"mining, data mining, pattern, chapter data, data warehousing, warehousing, data warehousing mining, warehousing mining",8,Data Warehousing and Business Intelligence,0.3371916076966844
+55,"advisor, student, instructor student, set advisor, relationship set, relationship set advisor, advisor relationship, instructor",6,Data Modeling and ER Diagrams,0.09922481925090243
+56,"join order, join, order, access path, join method access, join tree, join method, leftdeep join",7,Database Security and Access Control,0.2589695304496456
+57,"length, byte, fixed length, variablelength, variable length, fixed, length record, length field",0,Introduction to Database Management Systems,0.0
+58,"raid, raid level, level, mirroring, disk, raid raid, reliability, redundant",5,Transaction Management and ACID Properties,0.3632941388438246
+59,"tape, magnetic, magnetic tape, drive, tape drive, optical, jukebox, optical disk",0,Introduction to Database Management Systems,0.0
+60,"weak entity, weak, weak entity set, entity, entity set, weak entity type, identifying, identifying relationship",6,Data Modeling and ER Diagrams,0.1167575283676312
+61,"twophase locking, twophase, locking, locking protocol, twophase locking protocol, protocol, lock, rigorous",0,Introduction to Database Management Systems,0.0
+62,"query tree, transformation, tree, rewrite, query, select operation, rule, transformed",3,Querying Relational Databases,0.494282986958725
+63,"node, lock, mode, locked, lock node, exclusive, node locked, exclusive mode",0,Introduction to Database Management Systems,0.0
+64,"cluster, clustering, distance, clustering algorithm, centroid, radius, birch, cluster record",0,Introduction to Database Management Systems,0.0
+65,"precedence, precedence graph, graph, edge, cycle, graph schedule, precedence graph schedule, schedule",13,Multi-Model Databases,0.09026539242002347
+66,"section section, section section section, section, section saw, saw, section section saw, saw section section, section saw section",0,Introduction to Database Management Systems,0.0
+67,"atomicity, durability, consistency, property, atomicity durability, transaction atomicity, database consistency, consistent",5,Transaction Management and ACID Properties,0.37812439388215063
+68,"employee, department, worksfor, department employee, employee department, employee work, foreign key, foreign",23,Database Constraints and Triggers,0.26243390518929305
+69,"coordinator, site, ready, new coordinator, message, failed, coordinator fails, ready message",0,Introduction to Database Management Systems,0.0
+70,"ontology, semantic, knowledge, concept, knowledge representation, synonym, semantic web, semantic data",20,Data Mining and Knowledge Discovery,0.33497573393335506
+71,"uml, diagram, uml class diagram, uml class, class diagram, uml diagram, notation, modeling",6,Data Modeling and ER Diagrams,0.3968992770036097
+72,"node, searchkey value, searchkey, pointer, leaf, search key, leaf node, search",0,Introduction to Database Management Systems,0.0
+73,"client, client server, tier, architecture, server, client server architecture, server architecture, tier client server",0,Introduction to Database Management Systems,0.4382997357104546
+74,"aborted, abort, transaction aborted, transaction, failure, abort transaction, subtransaction, transaction abort",5,Transaction Management and ACID Properties,0.4062678601155774
+75,"union, intersection, union intersection, operation union, set difference, compatible, union compatible, set operation",0,Introduction to Database Management Systems,0.0
+76,"parallel, parallel database, parallel database system, architecture, database system, parallel architecture, system, machine",0,Introduction to Database Management Systems,0.26312199688607396
+77,"relation schema, schema, set relation, set relation schema, relation, relational schema, design, schema containing attribute",25,Database Migration and Schema Evolution,0.3075306675327852
+78,"flight, seat, reservation, airline, airport, traveler, seat selection, flight number",0,Introduction to Database Management Systems,0.0
+79,"domain, atomic, domain attribute, atomic domain, attribute atomic, domain atomic, attribute domain, value domain",0,Introduction to Database Management Systems,0.0
+80,"semistructured, unstructured, structured, unstructured data, semistructured data, extraction, information extraction, document",12,Data Migration and ETL Processes,0.30910784539682823
+81,"algorithm, algorithm figure, apply algorithm, algorithm apply, algorithm apply algorithm, compute, pseudocode, algorithm work",0,Introduction to Database Management Systems,0.0
+82,"insertion, deletion, insertion deletion, insert, delete, select statement, rejected, delete operation",0,Introduction to Database Management Systems,0.0
+83,"composite, multivalued, composite attribute, multivalued attribute, attribute, attribute composite, single valued, derived attribute",13,Multi-Model Databases,0.09026539242002347
+84,"flash, flash memory, flash storage, magnetic disk, magnetic, memory, storage, erase",11,In-Memory Databases,0.3973965681397674
+85,"book, member, borrowed, librarian, member borrowed, isbn, borrowed book, member borrowed book",0,Introduction to Database Management Systems,0.0
+86,"failure, type failure, site, distributed, failure site, continue, failed site, link",27,Distributed Databases and Replication,0.6947451018805677
+87,"ssn, superssn, sex, ssn bdate address, ssn bdate, salary superssn, bdate address, bdate address sex",0,Introduction to Database Management Systems,0.0
+88,"authentication, password, authenticate, user, user password, authentication service, authenticating, authenticating user",28,Database Scalability and Partitioning,0.2645253984796013
+89,"architecture, shareddisk, sharedmemory, sharednothing, sharednothing architecture, processor, shared, shareddisk architecture",0,Introduction to Database Management Systems,0.4382997357104546
+90,"itemsets, frequent, frequent itemsets, itemset, large itemsets, negative border, border, set item",19,Big Data and Distributed Databases,0.22986155399892627
+91,"checkpoint, checkpointing, fuzzy, checkpoint record, transaction checkpoint, fuzzy checkpointing, active transaction, checkpoint checkpoint",5,Transaction Management and ACID Properties,0.4062678601155774
+92,"lsn, page, dirtypagetable, log record, dirty page, log, dirty, redo",14,Database Auditing and Logging,0.3022081981993536
+93,"view, view definition, create view, query view, view relation, view view, query expression, myview",3,Querying Relational Databases,0.5790822707065071
+94,"student, person, alumnus, graduatestudent, undergraduate, graduate, employee student, set student",0,Introduction to Database Management Systems,0.0
+95,"lope, okay aho hardly, okay, lope fan phipps, lope fan, park, hardly, fan phipps yes",0,Introduction to Database Management Systems,0.0
+96,"privacy, security, database security, statistical database, statistical, security privacy, data privacy, law",26,Data Privacy and Compliance in Databases,0.33548431697997594
+97,"search, web, agent, social, social search, usage, information, search engine",16,Data Compression and Encryption,0.10990265980907019
+98,"throughput, response, response time, number transaction, transaction second, transaction, harmonic mean throughput, mean throughput",5,Transaction Management and ACID Properties,0.3919196334803857
+99,"grade, student, gradereport, university, coursenumber, student course, transcript, studentname",0,Introduction to Database Management Systems,0.0
+100,"fiber, channel, fiber channel, iscsi, scsi, device, storage, network",16,Data Compression and Encryption,0.31361669964951033
+101,"null, null value, unknown, value, value exist, exist, null evaluate, unknown exist",0,Introduction to Database Management Systems,0.0
+102,"course, credit, semester, title, offering, credit course, course course, course title",13,Multi-Model Databases,0.09026539242002347
+103,"jdbc, driver, java, jdbc driver, java program, driver manager, jdbc api, oracle jdbc",0,Introduction to Database Management Systems,0.0
+104,"memory, shared memory, shared, cache, cache memory, process access, memory manager, memory area",11,In-Memory Databases,0.4500890895593638
+105,"commit, commit protocol, twophase commit, twophase, protocol, twophase commit protocol, phase commit, phase commit protocol",0,Introduction to Database Management Systems,0.0
+106,"delete, update, insert delete, delete update, statement, insert, update statement, update delete",0,Introduction to Database Management Systems,0.0
+107,"creditcard, card, credit card, credit, payment, creditcard company, creditcard number, good",0,Introduction to Database Management Systems,0.0
+108,"postgresql, mysql, postgres, pgadmin, opensource, tool, administration, stonebraker",22,Database Administration and Performance Tuning,0.28027210203827274
+109,"database figure, relational database figure, consider relational database, consider relational, figure consider relational, figure consider, figure, database figure consider",1,Relational Database Model,0.3594117627179637
+110,"color, clothes, clothes size, item color, color clothes size, color clothes, skirt, pastel",0,Introduction to Database Management Systems,0.0
+111,"bottleneck, tuning, performance, performance tuning, component bottleneck, performance component, utility, improving",30,Database Performance Monitoring and Tuning,0.7055823600500188
+112,"seek, block transfer, transfer, block, number block, buffer, worst case, worst",12,Data Migration and ETL Processes,0.10084716622631328
+113,"head, track, sector, write head, read write head, platter, surface, read write",0,Introduction to Database Management Systems,0.0
+114,"availability, partition, network partition, network, site partition, site, site failure, network partitioning",28,Database Scalability and Partitioning,0.40825657823841827
+115,"term, document, relevance, frequency, idf, term document, occurrence, occurrence term",18,NoSQL Databases: Document Stores,0.2901887707354227
+116,"sql standard, standard, sql, version sql, sql sql, standard sql, version, feature",3,Querying Relational Databases,0.3612204563363911
+117,"lowerlevel entity, lowerlevel entity set, lowerlevel, entity set, higherlevel entity, higherlevel, entity, higherlevel entity set",6,Data Modeling and ER Diagrams,0.09922481925090243
+118,"subelements, element, child, parent, subelements element, subelement, node, child element",0,Introduction to Database Management Systems,0.0
+119,"backup, remote backup, remote, backup site, remote backup site, backup system, remote backup system, site",24,Data Backup and Recovery Strategies,0.6029102858710377
+120,"inheritance, subtype, multiple inheritance, supertype, supertypes, type hierarchy, subtypes, supertype subtype",0,Introduction to Database Management Systems,0.0
+121,"embedded, embedded sql, host language, host, sql, language, programming, sql embedded",1,Relational Database Model,0.34926955990660463
+122,"rename, alias, rename operation, renaming, project operation, unary, project, name",0,Introduction to Database Management Systems,0.0
+123,"main memory, buffer, main, memory, block, disk block, memory buffer, disk main memory",11,In-Memory Databases,0.4430591480562466
+124,"sec, course, sec course, entity set section, set section, section entity, course sec, entity set",6,Data Modeling and ER Diagrams,0.09922481925090243
+125,"diagram, sequence diagram, statechart, use case, statechart diagram, class diagram, collaboration, interaction",0,Introduction to Database Management Systems,0.0
+126,"odmg, odmg object, odl, odmg object model, object model, object, object definition, object definition language",13,Multi-Model Databases,0.49316470954249664
+127,"array, php, element, array element, teaching, associative, element array, php array",0,Introduction to Database Management Systems,0.0
+128,"relation relation, relation, prereq relation, relation prereq relation, relation practice exercise, relation practice, relation prereq, consider following relation",0,Introduction to Database Management Systems,0.0
+129,"cartesian product, cartesian, product, cartesian product operation, product operation, product relation, cartesian product relation, cross",0,Introduction to Database Management Systems,0.0
+130,"histogram, range, distribution, example histogram, value range, use histogram, range histogram, estimate",0,Introduction to Database Management Systems,0.0
+131,"specialization, generalization, lattice, specialization generalization, hierarchy, hierarchy lattice, subclass, generalization specialization",0,Introduction to Database Management Systems,0.0
+132,"deleted record, deleted, record, marker, deletion, record record, space, record deleted",0,Introduction to Database Management Systems,0.0
+133,"nestedloop, nestedloop join, join, indexed nestedloop join, indexed nestedloop, block nestedloop, block nestedloop join, indexed",0,Introduction to Database Management Systems,0.0
+134,"fragmentation, fragment, vertical, vertical fragmentation, horizontal, vertical fragment, horizontal fragmentation, reconstruct relation",28,Database Scalability and Partitioning,0.4575182986791899
+135,"functional dependency, functional, dependency, functional dependency hold, dependency hold, relation schema, set functional, set functional dependency",25,Database Migration and Schema Evolution,0.3176423806549445
+136,"gpa, rank, grade, student, student grade, rank student, order gpa, average",0,Introduction to Database Management Systems,0.0
+137,"injection, sql injection, attack, injection attack, attacker, sql injection attack, manipulation attack, sql",3,Querying Relational Databases,0.3612204563363911
+138,"rollback, cascading rollback, cascading, rolled, transaction rollback, transaction, rollback abort, rollback abort transaction",5,Transaction Management and ACID Properties,0.4062678601155774
+139,"predicate, predicate true, clause, clause predicate, predicate clause, combination, predicate check clause, comparison predicate",0,Introduction to Database Management Systems,0.0
+140,"isolation, isolation level, level, read, serializable, read committed, repeatable read, level isolation",5,Transaction Management and ACID Properties,0.10156696502889435
+141,"decomposition, nonadditive, nonadditive join, join property, nonadditive join property, property, relation decomposition, decomposition nonadditive",0,Introduction to Database Management Systems,0.0
+142,"timestamps, clock, timestamp, unique, unique timestamps, logical clock, generating unique, counter",23,Database Constraints and Triggers,0.23467448190965207
+143,"precision, recall, precision recall, recall precision, measure, average precision, relevant, rank position",0,Introduction to Database Management Systems,0.0
+144,"servlet, servlets, server, application server, servlets jsp, web server, jsp, glassfish",1,Relational Database Model,0.10078874713503898
+145,"approach, problem, technique, described section, section procedure, technique approach, comfortable approach, comfortable",0,Introduction to Database Management Systems,0.0
+146,"association, association rule, rule, negative association, mining, college yes, srikant, negative",20,Data Mining and Knowledge Discovery,0.3524952269153336
+147,"certificate, digital, signature, digital signature, public key, digital certificate, public, authority",0,Introduction to Database Management Systems,0.0
+148,"xquery, xquery expression, query xquery, xml, xquery language, xquery query, cast, type xquery",3,Querying Relational Databases,0.494282986958725
+149,"benchmark, tpc, tpc benchmark, performance, tpca, performance benchmark, tpcc, tpcd",30,Database Performance Monitoring and Tuning,0.6084998184453019
+150,"global transaction, local, global, site, transaction access, local transaction, multidatabase, transaction access data",5,Transaction Management and ACID Properties,0.3832519669549869
+151,"exercise, exercise exercise, exercise practice, practice exercise, exercise practice exercise, practice, practice exercise practice, exercise exercise exercise",0,Introduction to Database Management Systems,0.0
+152,"dimension, fact table, dimension table, fact, table dimension, table, table dimension table, fact table dimension",0,Introduction to Database Management Systems,0.0
+153,"block, block map, spanned, rid, rid rid, length record, length, record",0,Introduction to Database Management Systems,0.0
+154,"connection, connection pool, pool, connection connection, connection database, database connection, open, opened",25,Database Migration and Schema Evolution,0.3351856339155593
+155,"ordering, definition relation, order attribute, order, schema relation, attribute unique schema, unique schema, ordering value tuple",25,Database Migration and Schema Evolution,0.2728385686976098
+156,"parallelism, parallelize, parallel, evaluation, interquery, evaluation plan, parallelize operation, relational operation",1,Relational Database Model,0.33025381697646117
+157,"failure, lost, crash, loss, storage, nonvolatile, nonvolatile storage, content",16,Data Compression and Encryption,0.31361669964951033
+158,"chapter database, chapter database design, database design model, design model, database design, chapter, chapter relational database, chapter relational",2,Database Design and Normalization,0.3918562380608325
+159,"discus, section discus, chapter discus, discus discus, section discus discus, later section discus, later section, chapter discus concept",0,Introduction to Database Management Systems,0.0
+160,"entity, entity set, entity entity, entity entity set, attribute entity, set, entity set attribute, set attribute",6,Data Modeling and ER Diagrams,0.09922481925090243
+161,"pipeline, pipelining, producerdriven, pipelined, demanddriven, producerdriven pipeline, intermediate result disk, result disk",0,Introduction to Database Management Systems,0.0
+162,"price, sale, item, purchase, purchase order, sale relation, poid, order",0,Introduction to Database Management Systems,0.0
+163,"superkey, superkey set attribute, superkey set, subset superkey, set attribute, attribute superkey, superkey superkey, superkeys",0,Introduction to Database Management Systems,0.0
+164,"filegroup, file, filegroups, fileprocessing, directory, operating, file filegroup, placement",0,Introduction to Database Management Systems,0.0
+165,"recovery, recovery algorithm, recovery algorithm section, recovery scheme, algorithm section, section recovery, recovery technique, mohan",21,Database Backup and Recovery,0.5501100303068919
+166,"multisets, multiset, case, multiset type, array multiset, type added sql, array, added sql",3,Querying Relational Databases,0.3612204563363911
+167,"cardinality, cardinality ratio, ratio, participation, ratio binary relationship, ratio binary, cardinality ratio binary, relationship",6,Data Modeling and ER Diagrams,0.09922481925090243
+168,"odbc, odbc jdbc, jdbc, jdbc odbc, odbc api, api, server odbc, odbc odbc",0,Introduction to Database Management Systems,0.0
+169,"prerequisite, prereq, course prerequisite, course, prerequisite course, new prereq, prereq prereq, course prereq",0,Introduction to Database Management Systems,0.0
+170,"processor, parallel, multicore, core, parallel processing, multicore processor, parallel machine, parallelism",20,Data Mining and Knowledge Discovery,0.21066991777263241
+171,"semester, select course, fall, course, spring, ece, select course section, section semester",0,Introduction to Database Management Systems,0.0
+172,"primary key, key, candidate key, primary, candidate, key primary, key primary key, key chosen",23,Database Constraints and Triggers,0.23467448190965207
+173,"administrator, database administrator, administrator database, user, database administrator database, database user, user database, dba",28,Database Scalability and Partitioning,0.22373343907520252
+174,"omit detail, detail, simplicity, omit, following action, following action taken, gray, action taken",0,Introduction to Database Management Systems,0.0
+175,"result, result query, result result, cause result, result query result, query result, show result, query show result",3,Querying Relational Databases,0.5790822707065071
+176,"relation attribute, attribute relation, attribute, different relation, name, relation, attribute name, record attribute",25,Database Migration and Schema Evolution,0.07941059516373612
+177,"figure figure figure, figure figure, figure, figure appears figure, cylinder figure, figure said, figure figure said, figure figure appears",0,Introduction to Database Management Systems,0.0
+178,"mobile, mobile host, host, broadcast, energy, broadcast data, data broadcast, transmitted",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+179,"movie, actor, director, producer, movie actor, movie director, preference, actor producer",0,Introduction to Database Management Systems,0.0
+180,"xpath, xpath expression, expression, path expression, path, xquery, xpath path expression, xpath path",0,Introduction to Database Management Systems,0.0
+181,"cursor, fetch, fetch command, query result, command, fetch orientation, declare cursor, iterator",3,Querying Relational Databases,0.5790822707065071
+182,"form select, query form, query form select, query, query example, following query, select, sample query",3,Querying Relational Databases,0.5790822707065071
+183,"msec, seek time, seek, transfer, transfer time, time, average seek time, millisecond",10,Time-Series and Geospatial Databases,0.45393659939439035
+184,"instructor teach, instructor, teach, course instructor, taught, course, result instructor, instructor instructor",0,Introduction to Database Management Systems,0.0
+185,"physical database design, physical database, physical, database design, design, physical design, factor influence, database design discus",2,Database Design and Normalization,0.4311996525359944
+186,"record type, field, type, data type, number field, type record, type data, field value pair",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+187,"session, cookie, session identifier, session object, servlet, identifier, userid, ongoing session",0,Introduction to Database Management Systems,0.0
+188,"tablespace, table space, container, tablespaces, space, humanres, extent, table",0,Introduction to Database Management Systems,0.0
+189,"crosstab, pivot, total inst, pivot clause, crosstabs, column, inst total inst, total inst total",0,Introduction to Database Management Systems,0.0
+190,"equivalence rule, equivalence, expression, subexpression, rule, set equivalence, set equivalence rule, subexpressions",0,Introduction to Database Management Systems,0.0
+191,"university, university database, campus, schema university, schema university database, university information, university schema, real university",25,Database Migration and Schema Evolution,0.3506139353381344
+192,"instructor, tuples instructor, teach, instructor tuples, tuples, tuple instructor, instructor relation, tuple",0,Introduction to Database Management Systems,0.0
+193,"relationship set, set relationship, entity set relationship, relationship, set relationship set, entity set, set, entity",6,Data Modeling and ER Diagrams,0.13613532890040753
+194,"sql chapter, advanced sql chapter, chapter, chapter advanced sql, advanced sql, chapter advanced, sql chapter advanced, chapter oracle",3,Querying Relational Databases,0.3612204563363911
+195,"ldap, directory, ldap server, attr, entry ldap, ldap data, access protocol, entry",7,Database Security and Access Control,0.3052145035830054
+196,"spatial, spatial join, spatial data, spatial join index, spatial index, join index, index spatial, join index spatial",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+197,"delete, insert, delete tuples, delete command, tuples, tuples relation, tuples delete, insert statement",0,Introduction to Database Management Systems,0.0
+198,"street, address, city state, composite attribute, attribute street, composite, state zip, city",0,Introduction to Database Management Systems,0.0
+199,"comparison, comparison operator, uppercase, operator, case sensitive, lowercase, string, like comparison operator",18,NoSQL Databases: Document Stores,0.24190366628525947
+200,"superclass, subclass, superclass subclass, subclass relationship, subclass superclass, superclass subclass relationship, member subclass, member",6,Data Modeling and ER Diagrams,0.09922481925090243
+201,"department, department relation, us attribute, dept, relation department, attribute us, us attribute us, attribute us attribute",0,Introduction to Database Management Systems,0.0
+202,"decomposition, lossless, lossless decomposition, decomposition decomposition, decomposition algorithm, decomposition lossless, lossy decomposition, lossy",0,Introduction to Database Management Systems,0.0
+203,"aries, aries recovery, recovery, aries recovery algorithm, recovery algorithm, recovery method, stateoftheart, recovery algorithm aries",21,Database Backup and Recovery,0.5501100303068919
+204,"shadow, shadow directory, shadow paging, paging, directory, page page, page page page, current directory",0,Introduction to Database Management Systems,0.0
+205,"workflow, workflow system, workflow management, example workflow, task, human, automate, organization",17,Data Governance and Master Data Management (MDM),0.12091472944340484
+206,"team, player, game, sport, league, pitcher, recorded, played",0,Introduction to Database Management Systems,0.0
+207,"tree, tree index, btree index, multilevel index, multilevel, tree tree, btree, index",0,Introduction to Database Management Systems,0.0
+208,"shipped, order shipped, commerce, ecommerce, customer, warehouse list, tracking, order",14,Database Auditing and Logging,0.4029442642658047
+209,"cascadeless, recoverable, schedule, cascadeless schedule, schedule recoverable, recoverability, strict schedule, strict",0,Introduction to Database Management Systems,0.0
+210,"totalsal, salary, employee, salary totalsal, triggered, changing employee, old department, changing",0,Introduction to Database Management Systems,0.0
+211,"ddl, datadefinition language, datadefinition, schema, datadefinition language ddl, language ddl, catalog, schema definition",25,Database Migration and Schema Evolution,0.17619629087874664
+212,"php, java, scripting, scripting language, language, language java, programming language java, programming",1,Relational Database Model,0.10078874713503898
+213,"join take, take, outer join, outer, select student, outer join take, student, natural",0,Introduction to Database Management Systems,0.0
+214,"author, book, author array, publisher, array, title, keyword set, pub",0,Introduction to Database Management Systems,0.0
+215,"validation, validation phase, phase, validation test, validated, validation phase validation, condition hold, phase start",0,Introduction to Database Management Systems,0.0
+216,"output, buffer, modified buffer, buffer block, block, modified, buffer block disk, modified buffer block",0,Introduction to Database Management Systems,0.0
+217,"network, localarea network, localarea, widearea, widearea network, area network, wireless, area",0,Introduction to Database Management Systems,0.0
+218,"mozart, einstein, gold, califieri, kim, singh, crick, srinivasan",0,Introduction to Database Management Systems,0.0
+219,"value element, complex, attribute attribute, attribute, attribute value element, attribute value, complex attribute, attribute left",15,Data Visualization and Reporting,0.10010479971097082
+220,"keywords, set document, document contain, document, set keywords, document contain specified, contain, contain specified",18,NoSQL Databases: Document Stores,0.2901887707354227
+221,"transaction second, transaction transaction, transaction type, second transaction, run transaction second, transaction, run transaction, type run",5,Transaction Management and ACID Properties,0.4062678601155774
+222,"olap, processing olap, analytical, analytical processing olap, analytical processing, online analytical, online analytical processing, olap server",11,In-Memory Databases,0.3169550091492478
+223,"view integration, view, integration, view database, view data, multiple view, integration approach, view integration approach",12,Data Migration and ETL Processes,0.4293127414823846
+224,"path expression, path, expression, step path, set node, value path, value path expression, expression return single",13,Multi-Model Databases,0.09026539242002347
+225,"consistency, inconsistency, consistency requirement, level consistency, consistent state, database consistent state, database consistent, ensure change database",5,Transaction Management and ACID Properties,0.24924775149629105
+226,"fragment, fragment replicate, replicate, asymmetric, asymmetric fragment, asymmetric fragment replicate, replica fragment, replicated",0,Introduction to Database Management Systems,0.0
+227,"oid, encapsulation, object, encapsulation operation, object identity, literal, value oid, literal value",0,Introduction to Database Management Systems,0.0
+228,"car, vehicle, accident, license, sport car, woman annual, woman annual income, young woman annual",0,Introduction to Database Management Systems,0.0
+229,"tag, end tag, tag specify, text, heading, tag tag, html, slash",0,Introduction to Database Management Systems,0.0
+230,"budget, building budget, building, dept building, dept building budget, dept, department, budget department",0,Introduction to Database Management Systems,0.0
+231,"instructor, instructor relation, einstein sure, student taught instructor, taught instructor named, einstein sure duplicate, sure duplicate result, id student taught",0,Introduction to Database Management Systems,0.0
+232,"underlined, key underlined, primary key underlined, underlined primary, underlined primary key, key underlined primary, primary key, primary",23,Database Constraints and Triggers,0.23467448190965207
+233,"language, datadefinition language, datadefinition, programming language, language language, programming, objectoriented, language differ",1,Relational Database Model,0.10078874713503898
+234,"item, data item, database item, item transaction, data item transaction, transaction, transaction data, data item database",5,Transaction Management and ACID Properties,0.4399911582213363
+235,"normalization, denormalization, normalized, design, denormalization performance, normalization normalization, normal form normalization, bad database design",2,Database Design and Normalization,0.5122832077770602
+236,"diagram figure, diagram, diagram figure diagram, figure diagram, consider diagram figure, consider diagram, figure diagram figure, figure consider diagram",0,Introduction to Database Management Systems,0.0
+237,"phone, phone number, attribute phone, attribute phone number, home phone, home, number, area code",0,Introduction to Database Management Systems,0.0
+238,"safe, safety, rule, unsafe, expression, said safe, expression safe, safety expression",0,Introduction to Database Management Systems,0.0
+239,"subclass, specialization, subclass specialization, superclass, defined, defined subclass, disjoint, belong subclass",0,Introduction to Database Management Systems,0.0
+240,"locking, lock, locking index, granularity, concurrency, index, locking granularity, indexlocking",0,Introduction to Database Management Systems,0.0
+241,"student, student enrolled, enrolled, register, retrieve name, name student, count, registration",3,Querying Relational Databases,0.10098722091470684
+242,"columnoriented, storage, columnoriented storage, storage manager, exadata, column based, column based storage, based storage",16,Data Compression and Encryption,0.24001402626869275
+243,"web service, service, soap, web, http, webservice, parameter result, http request",9,Cloud Databases and DBaaS,0.07700928176362007
+244,"employee tuple, employee, nested query, select employee, select employee tuple, exists, nested, dependent",3,Querying Relational Databases,0.5790822707065071
+245,"operator, operator class, gist, gist operator class, creating operator class, operator symbol, default operator, default operator class",0,Introduction to Database Management Systems,0.0
+246,"workflow, task, agent, task agent, scheduler, requirement workflow, processing entity, precondition",11,In-Memory Databases,0.211276559897362
+247,"schedule figure, consider schedule, schedule, consider schedule figure, consider partial schedule, partial schedule figure, consider partial, partial schedule",0,Introduction to Database Management Systems,0.0
+248,"test, assertion, infinitely, created test validity, test test, costly test assertion, arbitrary predicate costly, assertion created test",0,Introduction to Database Management Systems,0.0
+249,"participation, total participation, participate relationship, participate, total, relationship, participation entity, relationship set",6,Data Modeling and ER Diagrams,0.12551057170054963
+250,"longduration, multilevel transaction, longduration transaction, multilevel, transaction, transaction nested, autonomous transaction, nested multilevel",5,Transaction Management and ACID Properties,0.4062678601155774
+251,"log, log record, new value, item log, value updated, update log record, update log, data item",14,Database Auditing and Logging,0.30825265382825184
+252,"geometryobject, circle, interface, short, triangle, referencepoint, area, rectangle",0,Introduction to Database Management Systems,0.0
+253,"canonical cover, canonical, cover, set functional dependency, set functional, canonical cover set, cover set, dependency",0,Introduction to Database Management Systems,0.0
+254,"waitfor, waitfor graph, graph, local waitfor graph, local waitfor, local, edge, waitfor graph figure",13,Multi-Model Databases,0.09026539242002347
+255,"data dictionary, dictionary, catalog, metadata, data data, data dictionary store, dictionary store, data data dictionary",29,Data Quality Assurance and Data Cleansing,0.33936259866977353
+256,"constructor, structured type, type constructor, structured, type, struct, collection type, construct",0,Introduction to Database Management Systems,0.0
+257,"sqlj, java, double, jdbc, sql sqlj, embedded sql, embedded, sqlj java",3,Querying Relational Databases,0.3612204563363911
+258,"example example, illustrate, example illustrate, following example, illustrate use, following example example, illustrate use exists, example",0,Introduction to Database Management Systems,0.0
+259,"link, page, anchor text, anchor, web page, hyperlink, text, stanford",0,Introduction to Database Management Systems,0.0
+260,"longduration, long transaction, longduration transaction, starvation, long, victim, transaction, transaction progress",5,Transaction Management and ACID Properties,0.4062678601155774
+261,"host, copy document, versionvector, versionvector scheme, vdi, copy, document host, scheme",18,NoSQL Databases: Document Stores,0.2901887707354227
+262,"mean time, failure, mean, mean time failure, time failure, hour, disk, failure disk",10,Time-Series and Geospatial Databases,0.5318140491775498
+263,"bread, milk, juice, milk bread, cooky, bread juice, bread cooky, percent",0,Introduction to Database Management Systems,0.0
+264,"oledb, data source, source, linked server, oledb data, oledb data source, linked, docauthor",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+265,"ternary, ternary relationship, binary relationship, relationship, binary, father, degree, mother",6,Data Modeling and ER Diagrams,0.09922481925090243
+266,"false, true false, true, unknown, false false, true true, false true, false unknown",0,Introduction to Database Management Systems,0.0
+267,"architecture, threetier architecture, architecture figure, threetier, application architecture, application architecture evolved, twotier threetier architecture, twotier threetier",0,Introduction to Database Management Systems,0.41580763880846267
+268,"ordered, ordering field, field, record order, file, file ordered record, ordered record, ordering",0,Introduction to Database Management Systems,0.0
+269,"audit, trail, audit trail, create audit trail, create audit, security, carried, breach",7,Database Security and Access Control,0.5274622436833611
+270,"notation, notation notation, alternative notation, alternative, notation notation notation, arrow notation, figure alternative notation, notation alternative",0,Introduction to Database Management Systems,0.0
+271,"character, escape, pattern, match string, escape character, abcd, pattern matching, string",20,Data Mining and Knowledge Discovery,0.2643714201865002
+272,"extraneous, logically implies, hold, implies, logically implies extraneous, extraneous logically, implies extraneous, logically",0,Introduction to Database Management Systems,0.0
+273,"cube, rollup, data cube, cube rollup, rollup operation, rollup construct, cube rollup operation, entire data cube",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+274,"join, join parallel, join algorithm, computes join, locally, processor, parallel, parallel join algorithm",0,Introduction to Database Management Systems,0.0
+275,"memory, main memory, main, cache, large main, large main memory, memory cache, cache memory",11,In-Memory Databases,0.41717511835466436
+276,"searchkey, searchkey value, record searchkey value, record searchkey, search key, index entry, nonunique, deleted",0,Introduction to Database Management Systems,0.0
+277,"persistent programming, persistent programming language, persistent, programming language, programming, language, language persistent programming, language persistent",1,Relational Database Model,0.10078874713503898
+278,"buyer, seller, bid, auction, price, marketplace, multiple seller, multiple buyer",0,Introduction to Database Management Systems,0.0
+279,"exception, error, catch, exception handling, error condition, sqlexception, exception condition, handling",31,Geospatial and Temporal Databases,0.26779692662706656
+280,"hierarchy, region, country, region country, group region, region country state, hierarchical, country state",0,Introduction to Database Management Systems,0.0
+281,"dvd, digital video, digital video disk, video disk, compact disk, disk dvd, video, digital",0,Introduction to Database Management Systems,0.0
+282,"relational model, codd, model, relational, paper, paper codd, model chapter, landmark paper",13,Multi-Model Databases,0.5207472132037233
+283,"estimate, size, size estimate, estimated size, size estimation, approximation, accurate, assumption",29,Data Quality Assurance and Data Cleansing,0.10180993837280738
+284,"query language, language, language sql, widely query language, widely query, study widely query, study widely, query language sql",3,Querying Relational Databases,0.45000377652601986
+285,"create table, table, create table command, create, stand table, table command, table book, command create table",0,Introduction to Database Management Systems,0.0
+286,"vector machine, support vector machine, support vector, classifier, learning, vector, training set, learning method",20,Data Mining and Knowledge Discovery,0.49850353057544644
+287,"rose, rational rose, rational, rose data, data modeler, modeler, rose data modeler, rational rose data",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+288,"bank database, bank database figure, consider bank, bank, consider bank database, figure consider bank, database figure, database figure consider",25,Database Migration and Schema Evolution,0.3351856339155593
+289,"atom, formula, atom formula, relation atom, formula atom, atom following, atom true, atom form",0,Introduction to Database Management Systems,0.0
+290,"buffer, buffer management, buffering, operating, buffer replacement, virtualmemory, replacement, management",0,Introduction to Database Management Systems,0.3042179216254648
+291,"bound, formula, tuple variable, free, variable bound, variable, free bound, formula true",0,Introduction to Database Management Systems,0.0
+292,"normalization, functional dependency normalization, chapter basic functional, basic functional, normalization relational database, normalization relational, dependency normalization relational, basic functional dependency",2,Database Design and Normalization,0.35148930573426407
+293,"pstmt, instructor, pstmt setint, setint, figure instructor, pstmt setstring, setstring, figure instructor relation",0,Introduction to Database Management Systems,0.0
+294,"merge join, mergejoin, merge, mergejoin algorithm, join attribute, sorted, join, hybrid",0,Introduction to Database Management Systems,0.0
+295,"tuning, database tuning, workload, tuning process, tune database, guideline database, database tuning assistant, tuning assistant",30,Database Performance Monitoring and Tuning,0.48948612441266526
+296,"termination state, termination, workflow, acceptable termination, acceptable termination state, acceptable, state, scheduler",0,Introduction to Database Management Systems,0.0
+297,"selection, selectivity, selection condition, value selection, selection form, complex selection, number distinct value, equality",15,Data Visualization and Reporting,0.10010479971097082
+298,"instructor, teach, instructor teach, course, taught, select course instructor, query instructor, course instructor",3,Querying Relational Databases,0.5790822707065071
+299,"authorization, authorization specified sql, action control, rolebased authorization, rolebased, authorization specified, authorization access, authorization authorization",7,Database Security and Access Control,0.16662610916345397
+300,"phone, phone number, instructor, instructor entity set, instructor entity, attribute phone, attribute phone number, phone number instructor",6,Data Modeling and ER Diagrams,0.09922481925090243
+301,"eer, eer model, relational mapping, design eer, database design eer, mapping, eer relational mapping, eer relational",1,Relational Database Model,0.28452957851220423
+302,"constraint, constraint constraint, character vin, character vin country, country manufacture, vin country manufacture, vin country, express special form",0,Introduction to Database Management Systems,0.0
+303,"sale, reg, qtr, quarter, region, qtr qtr, reg reg, fiscal",0,Introduction to Database Management Systems,0.0
+304,"information, knowledge, procedure obtaining information, information giving specific, overabundance, giving specific procedure, specific procedure, obtaining information",16,Data Compression and Encryption,0.10662124115979324
+305,"section summarizes, summarizes chapter, section summarizes chapter, summarizes, chapter section summarizes, chapter section, summarizes chapter section, section",0,Introduction to Database Management Systems,0.0
+306,"design, good design, design process, bad design, design methodology, bad, quality, reasonable chance",2,Database Design and Normalization,0.36808475965705445
+307,"tree file organization, tree file, file organization, tree, organization, file, use tree, use tree file",17,Data Governance and Master Data Management (MDM),0.09345341091313283
+308,"procedure, function procedure, conditional, sql psm, psm, procedure function, statement, statement list",3,Querying Relational Databases,0.3612204563363911
+309,"chapter concurrency control, chapter concurrency, concurrency control, yes yes, concurrency, yes yes yes, false false, yes",7,Database Security and Access Control,0.28960279212250717
+310,"deductive, deductive database, introduction deductive, introduction deductive database, ancestor, father, deductive database system, father ancestor",0,Introduction to Database Management Systems,0.2902655154929471
+311,"merge, run, sorted run, run merged, merge pass, merges, sorted, pass",0,Introduction to Database Management Systems,0.0
+312,"query tree, query graph, representation query, relational algebra, represent relational, tree, graph, algebra",3,Querying Relational Databases,0.42073834419838346
+313,"schedule, write operation, read write operation, read write, operation schedule, read, write operation schedule, read write instruction",0,Introduction to Database Management Systems,0.0
+314,"query shown figure, query shown, figure relation result, relation result preceding, preceding query shown, shown figure, result preceding query, result preceding",3,Querying Relational Databases,0.5790822707065071
+315,"version, version number, version data, version data item, data item, new version, current version, specified version number",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+316,"scheme, scheme advantage, advantage, disadvantage, situation scheme, advantage simple, scheme advantage simple, advantage simple implementation",0,Introduction to Database Management Systems,0.0
+317,"block, department block, recently, mru strategy, mru, seek, disk seek, recently block",0,Introduction to Database Management Systems,0.0
+318,"physic comp, physic comp finance, finance music, comp finance, comp finance music, physic, history physic comp, history physic",0,Introduction to Database Management Systems,0.0
+319,"tsti, wtimestampq, tsti wtimestampq, rtimestampq, tsti rtimestampq, tsti rtimestampq value, rtimestamp, rtimestampq value",0,Introduction to Database Management Systems,0.0
+320,"bounding, bounding box, box, box object, bounding box object, rectangle, node bounding box, node bounding",0,Introduction to Database Management Systems,0.0
+321,"quote, single quote, string, mark, apostrophe, single, hyphen punctuation mark, punctuation",13,Multi-Model Databases,0.09026539242002347
+322,"loop, fetch, fetch tuple, loop iterate, result set, tuple result, loop iterates, iterates",0,Introduction to Database Management Systems,0.0
+323,"selection, disjunctive, conjunctive selection, conjunctive, projection, disjunctive selection, disjunctive condition, selection selection",0,Introduction to Database Management Systems,0.0
+324,"reorganization, temporary file, time consuming, time consuming large, consuming large, consuming large file, operation reorganization, temporary file disk",10,Time-Series and Geospatial Databases,0.27718354928831734
+325,"quadtree, quadtrees, region, division space, division, set point, quad tree, graphically tree",0,Introduction to Database Management Systems,0.0
+326,"update statistic, statistic, modification, update, overhead modification database, overhead modification, system update statistic, update statistic automatically",3,Querying Relational Databases,0.2904101883511302
+327,"decisiontree, decisiontree classifier, classifier, decision tree, decision, type classifier, class label, training",8,Data Warehousing and Business Intelligence,0.10089181890609052
+328,"default value, default, null, attribute default, null constraint, attribute default value, specified attribute, specified default",0,Introduction to Database Management Systems,0.0
+329,"database programming, approach database programming, approach database, database programming technique, programming, main approach database, programming technique, main approach",25,Database Migration and Schema Evolution,0.3351856339155593
+330,"credit, year, tot credit, tot, total credit, avgnum credit, year avgnum, avgnum",0,Introduction to Database Management Systems,0.0
+331,"assumption, state assumption, assumption state, state clearly, state, assumption state assumption, state assumption state, clearly",0,Introduction to Database Management Systems,0.0
+332,"trigger view, chapter sql complex, view schema modification, query trigger view, trigger view schema, complex query trigger, sql complex query, schema modification",3,Querying Relational Databases,0.47862035417294896
+333,"disk, rate, storage capacity, megabyte, transfer rate, capacity, disk cost, cost",16,Data Compression and Encryption,0.18213564934614385
+334,"input, output tuples, input tuples, output, pipelined input, pipelined, tuples, output buffer",0,Introduction to Database Management Systems,0.0
+335,"organized follows chapter, chapter organized, chapter organized follows, follows chapter, organized follows, chapter shall, chapter, chapter shall return",0,Introduction to Database Management Systems,0.0
+336,"update, temporary update, temporary update problem, update problem, corrected, correction, data database, updating database",25,Database Migration and Schema Evolution,0.33615344081190246
+337,"temp, compute temp, temp compute, ship temp, temp compute temp, ship, temp ship temp, temp ship",0,Introduction to Database Management Systems,0.0
+338,"collection, raise, void, collection object, bag, dictionary, raise void, object",0,Introduction to Database Management Systems,0.0
+339,"relation figure, figure relation figure, figure, figure relation, obtain relation, relation shown figure, relation shown, relation figure relation",0,Introduction to Database Management Systems,0.0
+340,"polygon, triangle, point line, triangulated, representation polygon, polyhedron, triangle rectangle, representation",15,Data Visualization and Reporting,0.30031439913291247
+341,"condition box, condition, selectfromwhere, box, identical essn value, identical essn, statement specifies condition, essn value query",3,Querying Relational Databases,0.5790822707065071
+342,"recursive, recursive view, view relation, view, recursive query, us recursive, view relation instance, us recursive view",3,Querying Relational Databases,0.5790822707065071
+343,"report, reporting, gnu, report generator, generator, reporting service, sql server reporting, server reporting service",15,Data Visualization and Reporting,0.3511939499871415
+344,"update, view, view update, desired update, productx, mapped update, base relation, underlying base",0,Introduction to Database Management Systems,0.0
+345,"single user, multiuser, singleuser, center, multiuser system, multiple user, access database, multiple program",28,Database Scalability and Partitioning,0.2728477103314845
+346,"postgresql, type postgresql, extension type, extension, base type, postgresql type, type, postgresql type postgresql",0,Introduction to Database Management Systems,0.0
+347,"supervise, supervise true, supervise supervise, true supervise, supervise true supervise, true supervise true, supervise supervise supervise, supervisor",0,Introduction to Database Management Systems,0.0
+348,"finance biology comp, history finance biology, finance biology, history finance, comp history, comp history finance, biology comp, biology comp history",0,Introduction to Database Management Systems,0.0
+349,"steal, recovery, force, steal force, steal approach, steal steal, deferred update, undo needed recovery",21,Database Backup and Recovery,0.5501100303068919
+350,"set attribute, let set attribute, let set, attribute hold, set attribute hold, hold let, attribute hold let, attribute hold hold",0,Introduction to Database Management Systems,0.0
+351,"variation extension, sql variation extension, sql variation, variation, extension, polymorphic, sql feature, type sql variation",3,Querying Relational Databases,0.3612204563363911
+352,"external sortmerge, external, sortmerge, external sorting, sorting, external sortmerge algorithm, sortmerge algorithm, external sorting algorithm",0,Introduction to Database Management Systems,0.0
+353,"branch, customer, account number, loan, number branch, customer customer, loan number, account",0,Introduction to Database Management Systems,0.0
+354,"development, chapter application, application design development, chapter application design, design development, application design, application development, application",2,Database Design and Normalization,0.2074163239796468
+355,"qbe, qbe qbe, qbe user, query qbe, query query query, filling, query query, specify query",3,Querying Relational Databases,0.5704724907261423
+356,"datastorage, cloud, datastorage system, cloudbased, data storage, system cloud, amazon, architecture datastorage",9,Cloud Databases and DBaaS,0.5889785097265638
+357,"cloud, cloud computing, computing, service, computing service, cloud computing service, cloud service, vendor",9,Cloud Databases and DBaaS,0.6534454241923354
+358,"basic structure sql, structure sql query, structure sql, basic structure, sql query, struct, basic, comp basic",3,Querying Relational Databases,0.3993871972997727
+359,"income, degree, attribute income, master, categorical, income income, excellent, department name country",17,Data Governance and Master Data Management (MDM),0.09345341091313283
+360,"scaleup, speedup, speedup scaleup, sublinear, problem size, said demonstrate, demonstrate, demonstrate sublinear",0,Introduction to Database Management Systems,0.0
+361,"discussed section, revisit, later section, section study later, section discussed section, study later section, revisit issue, section",0,Introduction to Database Management Systems,0.0
+362,"protocol, protocol protocol, widely typically http, maintain connection protocol, section protocol, subsystem protocol, maintain connection, function performs aspect",32,Database Archiving and Data Retention,0.09874704257354651
+363,"subclass, secretary, engineer, jobtype, entity, secretary engineer, specialization, belong subclass",6,Data Modeling and ER Diagrams,0.09922481925090243
+364,"diamond, line, relationship, relationship set, representing relationship, straight line, straight, relationship set relationship",6,Data Modeling and ER Diagrams,0.09922481925090243
+365,"compression, compressed, stored compressed, compress, compressed form, table compression, compression feature, compress block",16,Data Compression and Encryption,0.43961063923628074
+366,"semicolon, execute following query, specify execute following, specify execute, multiple sql statement, statement, multiple sql, function query",3,Querying Relational Databases,0.6575162470057976
+367,"attack, xsrf, malicious, xsrf attack, referer, malicious user, web site, called crosssite",28,Database Scalability and Partitioning,0.3299211370701735
+368,"large object, blob, large, locator, character large object, character large, object, clob",19,Big Data and Distributed Databases,0.22986155399892627
+369,"utility, bulk, import, importexport, importexport utility, bulk importexport utility, bulk importexport, load",28,Database Scalability and Partitioning,0.2212673468881825
+370,"data item, item, single data, example data item, data item data, item data, simple model, example data",29,Data Quality Assurance and Data Cleansing,0.4333622472918882
+371,"tablet, site tablet, master site, master site tablet, site, master, new master site, new master",17,Data Governance and Master Data Management (MDM),0.09345341091313283
+372,"query transaction, invocation, expected frequency, analyzing, frequency, expected, analyzing expected, analyzing expected frequency",3,Querying Relational Databases,0.1592975476915617
+373,"thread, clr, sql server, threading, sql server scheduler, server scheduler, server, synchronization",3,Querying Relational Databases,0.3152819362337999
+374,"timestamp, timestamp ordering, ordering, timestamp value, greater timestamp, timestamp greater, timestamp greater timestamp, greater timestamp ordering",0,Introduction to Database Management Systems,0.0
+375,"user account, authorization, create schema, schema, authorization identifier, default catalog, account, owner schema",25,Database Migration and Schema Evolution,0.25468049141357857
+376,"duplicate, remove duplicate, elimination, duplicate eliminated, eliminated, deduplication, duplicate elimination, answer",0,Introduction to Database Management Systems,0.0
+377,"storage indexing, indexing, storage, index storage, index storage indexing, column based storage, column based, based storage",16,Data Compression and Encryption,0.2227402278304512
+378,"definition definition, definition definition definition, definition, preliminary definition, definition definition defined, exactly definition definition, exactly definition, definition preliminary definition",0,Introduction to Database Management Systems,0.0
+379,"web server, browser, web, html document, server, url, web browser, http",18,NoSQL Databases: Document Stores,0.2901887707354227
+380,"directory, directory access, directory access protocol, access protocol, data directory, directory information, protocol, organization",7,Database Security and Access Control,0.24609815454146394
+381,"grade, tot cred, cred, tot, take grade, grade null, set tot, set tot cred",0,Introduction to Database Management Systems,0.0
+382,"similar operation, operation similar operation, operation, operation operation, operation similar, fundamental operation, fundamental, operation inverse operation",0,Introduction to Database Management Systems,0.0
+383,"client, sends result, remote procedure, procedure call, result sent client, call, remote procedure call, result sent",0,Introduction to Database Management Systems,0.0
+384,"comp spring, brandt comp, comp, comp spring brandt, spring brandt comp, spring brandt, brandt comp spring, spring",0,Introduction to Database Management Systems,0.0
+385,"record relation, relation stored, dictionary note, store record relation, single file, separate file, store relation, file store",18,NoSQL Databases: Document Stores,0.0769654727835419
+386,"return course, course, return, xcourse, return clause, course identifier, credit, return course identifier",0,Introduction to Database Management Systems,0.0
+387,"directory, yahoo, classification hierarchy, document, page section, hierarchy, hierarchical fashion, second problem",18,NoSQL Databases: Document Stores,0.2901887707354227
+388,"hide, detail, detail database, detail data, implementation detail, implementation detail database, model hide, hiding",13,Multi-Model Databases,0.4935595316334377
+389,"translation, parsing, translation query, translate, compiler, translated, provided automated, query usable form",3,Querying Relational Databases,0.5790822707065071
+390,"record record record, record record, header, file header, file, header file, file header file, record",0,Introduction to Database Management Systems,0.0
+391,"ranking, score, scoring factor, result ranked, hit ranking, winner, machinelearning, scoring",0,Introduction to Database Management Systems,0.0
+392,"log, log record, type log record, logging, type log, called logical logging, called log, called logical",14,Database Auditing and Logging,0.31800570353220337
+393,"transformation, rotation translation scaling, referred cascade, translation scaling, transformation referred, transformation referred cascade, rotation translation, scaling",12,Data Migration and ETL Processes,0.3025414986789398
+394,"expression, expression expression, xcredits, expression example, example expression, consider expression, expression equivalent, initial expression final",0,Introduction to Database Management Systems,0.0
+395,"profiler, sql profiler, trace, profile, statement, statement optimized, profiler display, profiler user",28,Database Scalability and Partitioning,0.2459336259213374
+396,"noofemps, function, tablevalued, table function, tablevalued function, noofemps return, function table, elseif noofemps return",0,Introduction to Database Management Systems,0.0
+397,"udfs, udts, udf, definition udf, pad work, read write interface, tightly encapsulated, support userdefined data",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+398,"logical undo, undo, logical undo operation, undo operation, logical, lowerlevel lock, early lock release, early lock",0,Introduction to Database Management Systems,0.0
+399,"assembly, assembly metadata, metadata, manifest, user code implement, contract, user code, code implement",28,Database Scalability and Partitioning,0.3299211370701735
+400,"split attribute, split, best split, information gain, best split attribute, best, attribute split, gain",16,Data Compression and Encryption,0.10990265980907019
+401,"legacy, legacy system, switchover, system, system newgeneration, legacy system newgeneration, replacing legacy, newgeneration system",21,Database Backup and Recovery,0.2519703568440197
+402,"batch, update, index, index sorting, applying batch, applying batch update, facility data, updating index",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+403,"strategy, efficiency, possible strategy accomplish, let verify, known handle, known handle possible, operating running local, local mechanism",30,Database Performance Monitoring and Tuning,0.3028151381136554
+404,"serializability order, timestamp, timestamps, serializability, determine serializability order, determine serializability, timestamp transaction, timestamps transaction determine",5,Transaction Management and ACID Properties,0.4062678601155774
+405,"grid, grid array, grid file, dno age, array, dno, age, scale",0,Introduction to Database Management Systems,0.0
+406,"zone, time zone, timezone, local time, time time zone, utc, time, timezone information",10,Time-Series and Geospatial Databases,0.5166388776771988
+407,"fragmentation, allocation, fragmentation replication, data fragmentation, distributed database design, replication, franc, sco",27,Distributed Databases and Replication,0.6256067332360828
+408,"let, let relation, let let relation, let let, schema let, relation let, let relation let, schema let let",25,Database Migration and Schema Evolution,0.3176423806549445
+409,"failure, state existed, existed, database recovery, existed prior, recovery, consistent state, consistent",21,Database Backup and Recovery,0.3776461477651894
+410,"indexing hashing, chapter indexing hashing, chapter indexing, indexing, hashing, indexing hashing hash, hashing hash, small chapter indexing",4,Indexing and Performance Optimization,0.4457440362044633
+411,"dbpointer, disk transaction, written disk transaction, disk transaction commits, written disk, transaction commits, new copy, commits",5,Transaction Management and ACID Properties,0.4062678601155774
+412,"normal form, normal, form, second normal, second normal form, fourth normal form, fourth normal, form normal",0,Introduction to Database Management Systems,0.0
+413,"multiversion, multiversion concurrency control, multiversion concurrency, multiversion scheme, concurrency control, concurrency, serializability, control",7,Database Security and Access Control,0.28960279212250717
+414,"srinivasan, brandt, dept salary, physic, srinivasan physic, katz, einstein said, gold",0,Introduction to Database Management Systems,0.0
+415,"collection, related data, collection related data, collection related, database collection related, database collection, collection data, chapter defined database",31,Geospatial and Temporal Databases,0.39702169788816677
+416,"overflow, overflow file, record overflow, overflow record, unordered overflow, unordered overflow file, unordered, overflow block",0,Introduction to Database Management Systems,0.0
+417,"elec, elec spring, bourikas elec, bourikas, spring, spring kim elec, aoi elec, elec spring kim",0,Introduction to Database Management Systems,0.0
+418,"mobile, computer, mobile computing, mobility personal, mobile computer, mobility personal database, computing, mobility",25,Database Migration and Schema Evolution,0.3351856339155593
+419,"parity, parity bit, parity block, bit, data parity, bit byte, raid level, protected parity bit",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+420,"pnumber, plocation, ssn, sex, hour, pname, ssn ename, ename pnumber pname",0,Introduction to Database Management Systems,0.0
+421,"parallelism, processor, parallel, good idea, parallelism case, good idea perform, idea perform operation, available good idea",0,Introduction to Database Management Systems,0.0
+422,"purity, measure purity, entropy, purity set, measure, gini, instance single class, measure defined",13,Multi-Model Databases,0.09026539242002347
+423,"salary salary, salary, update instructor set, instructor set salary, update instructor, instructor set, set salary, set salary salary",0,Introduction to Database Management Systems,0.0
+424,"socialsecurity, socialsecurity number, social security number, security number, social security, social, person, united state",14,Database Auditing and Logging,0.3300811972696182
+425,"protocol ensures, freedom, protocol ensures serializability, serializability deadlock, serializability deadlock freedom, ensures serializability deadlock, ensures serializability, serializability",0,Introduction to Database Management Systems,0.0
+426,"prefetch, prefetching, trigger prefetch, prefetch data, asynchronous, data page, scan trigger, scan trigger prefetch",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+427,"committed, compensating transaction, compensating, subtransactions, update nested transaction, execution commits action, required compensating transaction, let suppose commits",5,Transaction Management and ACID Properties,0.4062678601155774
+428,"slice, dimension block, canada, dimension, dimension block index, block index, region, itemid",0,Introduction to Database Management Systems,0.0
+429,"message, message relation, guaranteed delivered, delivered, received message relation, return message, received message, acknowledgment",0,Introduction to Database Management Systems,0.0
+430,"dtd, dtd figure, constrain type, constrain, like integer, general second dtd, information present, limitation dtd bibliographical",18,NoSQL Databases: Document Stores,0.22946670541921288
+431,"null, null value, attribute null, null remaining attribute, null remaining, remaining attribute, arises, omitted",0,Introduction to Database Management Systems,0.0
+432,"schedule, schedule set, schedule set transaction, execution sequence, transaction schedule, transaction participates schedule, execution sequence followed, sequence followed",5,Transaction Management and ACID Properties,0.4062678601155774
+433,"recursive query, recursive, recursive query processing, transitive closure, approach recursive query, query processing include, recursive sql query, iteration recursive",3,Querying Relational Databases,0.5912515435722323
+434,"thread, process thread, thread process, concurrently, process, multiple thread, execute concurrently, different process thread",25,Database Migration and Schema Evolution,0.07941059516373612
+435,"cascade, delete cascade, foreignkey, delete, foreignkey constraint, cascade feature, constraint, foreign key constraint",23,Database Constraints and Triggers,0.26243390518929305
+436,"insurance, patient, medical, health care, insurance database, health, doctor, consider insurance",25,Database Migration and Schema Evolution,0.3351856339155593
+437,"probability, class, instance, probability instance, class probability, training, pdc, bayesian classifier",0,Introduction to Database Management Systems,0.0
+438,"true superior true, superior true superior, superior true, true superior, superior, true, strongest authority, superior contains",0,Introduction to Database Management Systems,0.0
+439,"old, new value, old value, item old, value data item, oldvalue, value data, data item old",29,Data Quality Assurance and Data Cleansing,0.5222407697060649
+440,"psm, sql psm, stored procedure, database stored procedure, procedure, procedure sql psm, stored procedure sql, module",1,Relational Database Model,0.37588654510651603
+441,"entity relationship model, relationship model, entity relationship, relationship model chapter, modeling entity relationship, data modeling entity, chapter data modeling, modeling entity",6,Data Modeling and ER Diagrams,0.30839343077615095
+442,"client, database server, client application, data act, act client, act, server, application",1,Relational Database Model,0.14657619825111656
+443,"multitable clustering, multitable, clustering file, multitable clustering file, file organization, clustering, clustering file organization, section cluster",17,Data Governance and Master Data Management (MDM),0.09345341091313283
+444,"shankar comp, shankar, spring shankar comp, spring shankar, shankar comp spring, comp spring shankar, fall shankar comp, fall shankar",0,Introduction to Database Management Systems,0.0
+445,"course title course, dept music, title course, teach course title, music, course title, dept music instructor, music instructor",0,Introduction to Database Management Systems,0.0
+446,"nonvolatile ram, ram, nonvolatile, nvram, nvram buffer, ram buffer, nonvolatile ram buffer, buffer",0,Introduction to Database Management Systems,0.0
+447,"city, street, kim, kim kim, street city, live, live city, street city salary",0,Introduction to Database Management Systems,0.0
+448,"intentionally left, left blank, page intentionally, page intentionally left, intentionally left blank, intentionally, blank, blank chapter",0,Introduction to Database Management Systems,0.0
+449,"quantifier, universal quantifier, universal, existential, existential quantifier, universal quantifier existential, quantifier existential, quantifier existential quantifier",0,Introduction to Database Management Systems,0.0
+450,"blocking factor, blocking, factor, bfr, block, number block, calculate blocking, calculate blocking factor",0,Introduction to Database Management Systems,0.0
+451,"implementers, cylinder, database storage, large amount, amount, implementers paid attention, distributed different cylinder, distributed different",19,Big Data and Distributed Databases,0.45755074445735744
+452,"point class, point, class, line, lie, plane, classifier, class lie",0,Introduction to Database Management Systems,0.0
+453,"question, natural language, question answering, answer question, answering, query natural language, question answering system, query natural",3,Querying Relational Databases,0.3498227886595823
+454,"teacher, student teacher, people, subtables, table people, subtables student, teacher student, student",0,Introduction to Database Management Systems,0.0
+455,"buffer block, merge, sorted, sorted output, sorting relation, block transfer, final pas, log block transfer",14,Database Auditing and Logging,0.13515161490629685
+456,"relevance, relevance feedback, feedback, document, vector space, document relevance feedback, term, return document",18,NoSQL Databases: Document Stores,0.2901887707354227
+457,"notation, diagrammatic notation, diagram notation, diagrammatic, diagram, notation diagram, diagrammatic notation displaying, notation displaying",0,Introduction to Database Management Systems,0.0
+458,"layer, businesslogic layer, businesslogic, dataaccess layer, dataaccess, layer provides, database businesslogic, model business",13,Multi-Model Databases,0.3723710789539921
+459,"extent, class extent, extent class extent, class, extent class, persistent object, persistent, automatically class",0,Introduction to Database Management Systems,0.0
+460,"phantom, phantom phenomenon, phenomenon, phantom conflict, phantom problem, conflict, describes avoid, eliminating phantom",0,Introduction to Database Management Systems,0.0
+461,"teach relation, teach relation figure, teach, relation figure, relation teach, relation figure teach, teach relation teach, figure teach",0,Introduction to Database Management Systems,0.0
+462,"graph, deadlock, waitfor graph, waitfor, cycle, graph contains cycle, contains cycle, graph contains",13,Multi-Model Databases,0.09026539242002347
+463,"disease, positive, positive case, person disease, predicts, classifier, person actually disease, positive case person",0,Introduction to Database Management Systems,0.0
+464,"information tuples, data item corresponding, relation locking, item corresponding relation, information tuples relation, item corresponding, corresponding relation, relation lock",16,Data Compression and Encryption,0.15740216256938583
+465,"armstrong, armstrong axiom, axiom, use armstrong, use armstrong axiom, armstrong axiom prove, axiom prove, prove",0,Introduction to Database Management Systems,0.0
+466,"level, level expensive, minimum level, design alternative, potential, highest level number, higher level expensive, high level low",2,Database Design and Normalization,0.2644049708524755
+467,"sqlxml, xml query, xml, overview sqlxml, provides overview sqlxml, tripreports, xml output, provides overview",3,Querying Relational Databases,0.15253846628219067
+468,"undone, undo, transaction undone, undo transaction, undo effect, undone transaction, undoing, transaction",5,Transaction Management and ACID Properties,0.4062678601155774
+469,"chapter recovery, recovery chapter, recovery, chapter recovery chapter, recovery chapter recovery, disk page, chapter, recovery term",21,Database Backup and Recovery,0.5501100303068919
+470,"test case, test, case performs, performs update database, match expected, case performs update, test case performs, mutant",25,Database Migration and Schema Evolution,0.3351856339155593
+471,"hillside, account, branch, branch hillside, branch hillside account, hillside account, valleyview, hillside account account",0,Introduction to Database Management Systems,0.0
+472,"plsql, procedural, procedural language, oracle plsql, written plsql, plsql java, procedural code, procedural language plsql",1,Relational Database Model,0.10078874713503898
+473,"idref, idrefs, attribute type, attribute type idref, type idref, type cdata, idref link, reference element attribute",0,Introduction to Database Management Systems,0.0
+474,"survey, excellent survey, present excellent survey, present excellent, excellent, graefe, technique database system, tutorial survey",25,Database Migration and Schema Evolution,0.31156949543862433
+475,"capacity, useful capacity, total capacity, storage capacity, terabyte, capacity useful capacity, total capacity useful, capacity useful",16,Data Compression and Encryption,0.31361669964951033
+476,"facet, art, art object, museum, artobjects, categorized, epoch, artobjects categorized",2,Database Design and Normalization,0.09348127393460844
+477,"begin transaction end, transaction end transaction, end transaction, begin transaction, transaction end, usually sequence sql, taken action usually, action usually",5,Transaction Management and ACID Properties,0.4018296331197393
+478,"closure, compute closure, extraneous, attribute closure, algorithm compute closure, compute closure includes, extraneous compute, compute",0,Introduction to Database Management Systems,0.0
+479,"confidence, support confidence, rule, confidence rule, confidence confidence, support, low confidence, lh rh computed",0,Introduction to Database Management Systems,0.0
+480,"process, proving, reengineering, process process, fact hold known, process proving certain, process start process, known theorem proving",0,Introduction to Database Management Systems,0.0
+481,"visible, created transaction, tuple visible, contains transaction transaction, tuple, contains transaction, visible transaction, second version",5,Transaction Management and ACID Properties,0.4062678601155774
+482,"notion, attribute operation, notion key, section define, notion value, notion value variable, instance corresponds, identity interesting relationship",6,Data Modeling and ER Diagrams,0.09922481925090243
+483,"spring, physic, fall, physic spring, gold physic, einstein physic, null null, physic fall",0,Introduction to Database Management Systems,0.0
+484,"bank corporation, city residence, residence employee, residence employee work, city residence employee, corporation, employee work bank, residence",0,Introduction to Database Management Systems,0.0
+485,"conflict conflict, conflict, conflict conflict conflict, requirement, requirement application requirement, expect potential, conflict expect, detailed complete",1,Relational Database Model,0.07126840656648228
+486,"filtered, filtered index, fulltable, nonclustered index, nonclustered, index filtered, filtered statistic, fulltable index",0,Introduction to Database Management Systems,0.0
+487,"storage file structure, chapter storage file, storage file, chapter storage, file structure, record record record, record record, comp chapter storage",16,Data Compression and Encryption,0.27355101982920704
+488,"bio summer, summer, bio, biology bio summer, biology bio, null null, biology, spring",0,Introduction to Database Management Systems,0.0
+489,"genetic algorithm, genetic, alphabet, algorithm, idea genetic, randomized, idea genetic algorithm, neural network",0,Introduction to Database Management Systems,0.0
+490,"figure finance, history music, finance history, finance, history music physic, history, music physic, music",0,Introduction to Database Management Systems,0.0
+491,"tickled, partly speedy, progressive fountain annoyingly, speedy dog putrid, dog putrid, speedy dog, fountain, annoyingly tickled partly",0,Introduction to Database Management Systems,0.0
+492,"multiversion, timestamp ordering, multiversion timestamp, timestamp, multiversion timestamp ordering, ordering, multiversion protocol, protocol",0,Introduction to Database Management Systems,0.0
+493,"inability represent, inability, information inability, information inability represent, repetition information, repetition, represent certain information, inability represent information",16,Data Compression and Encryption,0.10990265980907019
+494,"set statement, simplified set, element set, difference, operator, set difference, set, value set",0,Introduction to Database Management Systems,0.0
+495,"purchase order, purchase, xml purchase order, xml purchase, xml, order, tag, realistic use",0,Introduction to Database Management Systems,0.0
+496,"nonserializable, nonserializable schedule, schedule, nonrecoverable schedule chapter, nonserializable global, nonserializable global schedule, global schedule, nonrecoverable schedule",0,Introduction to Database Management Systems,0.0
+497,"piece, pawn, piece pawn, move, percent year, game, percent, pawn move",0,Introduction to Database Management Systems,0.0
+498,"web application architecture, web application, application architecture, architecture, web, twolayer web application, threelayer, twolayer web",0,Introduction to Database Management Systems,0.2629798414262728
+499,"program variable, declare section, exec sql, exec, program, variable, sqlcommand, sqlupdatestring",3,Querying Relational Databases,0.3612204563363911
+500,"person, table person, persontype, dateofbirth, dateofbirth date, type persontype, create table person, address address dateofbirth",0,Introduction to Database Management Systems,0.0
+501,"atomic object, atomic, object atomic, object state, object, constructor, atomic object state, atom constructor",0,Introduction to Database Management Systems,0.0
+502,"binary, binary relationship, binary relationship set, relationship set, relationship, relationship type join, database binary, relationship set binary",6,Data Modeling and ER Diagrams,0.10722500368812339
+503,"deleted set, value corresponding value, corresponding value, input, value corresponding, input output, value input output, value deleted set",0,Introduction to Database Management Systems,0.0
+504,"covert channel, covert, channel, channel covert, covert channel covert, channel allows, channel covert channel, covert channel allows",0,Introduction to Database Management Systems,0.0
+505,"issue application development, issue application, tested, testing application migration, application migration, change program, application, testing application",25,Database Migration and Schema Evolution,0.11994755656325033
+506,"retrieve name, retrieve name customer, name customer, retrieve, part, supplier, name, customer ordered part",3,Querying Relational Databases,0.10098722091470684

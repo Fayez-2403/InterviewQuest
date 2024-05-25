@@ -1,0 +1,636 @@
+bucket_topic_number,bucket_topic,book_topic_number,book_topic,score
+0,"process, page, memory, user, thread, file, data, operating",0,Introduction to Operating Systems,0.35037354874305693
+1,"cache, caching, cached, buffer cache, cache manager, cache line, cache block, page cache",15,Distributed File Systems,0.21646853038205274
+2,"interrupt, interrupt handler, handler, interrupt vector, vector, interrupt interrupt, interrupt controller, routine",11,I/O Systems and Device Management,0.36204606515595944
+3,"window, win, api, window window, version window, microsoft, win api, vista",28,System Calls and API,0.2587794762038064
+4,"deadlock, deadlocked, deadlock occur, resource deadlock, deadlock detection, resource, detection, occur",6,Deadlocks and Deadlock Handling,0.3540611936256293
+5,"block, block file, free block, file block, disk block, block size, free, indirect block",9,File Systems and Storage Management,0.6182918413544803
+6,"driver, device driver, device, driver object, driver device, window driver, device object, wdm",11,I/O Systems and Device Management,0.6456086634917768
+7,"virtualization, virtual machine, machine, virtual, virtualized, hardware, support virtualization, environment",22,Virtualization and Hypervisors,0.5481235845513676
+8,"security, attack, attacker, vulnerability, defense, exploit, security chap, bug",20,System Security Measures,0.552890618992904
+9,"resource, available resource, resource process, release resource, resource available, instance resource, resource type, resource resource",0,Introduction to Operating Systems,0.2437749614465832
+10,"boot, partition, boot time, loader, bootstrap, boot loader, bios, booting",27,System Boot and Initialization,0.4210592522237839
+11,"virus, antivirus, infect, infected, antivirus program, antivirus software, virus virus, program virus",3,Processes and Threads,0.35478207893189223
+12,"key, encryption, cryptography, decryption, public key, encryption algorithm, public, cipher",19,Security and Protection in Operating Systems,0.32952003862047563
+13,"buffer, buffering, copy, copying, kernel buffer, buffer buffer, copy write, user space",1,Operating System Structures and Components,0.3268353061271172
+14,"power, battery, energy, power management, consumption, power consumption, power manager, management",0,Introduction to Operating Systems,0.45734416805343736
+15,"tlb, miss, tlb entry, tlb miss, tlbs, entry, entry tlb, translation",0,Introduction to Operating Systems,0.0
+16,"password, password file, salt, encrypted password, onetime password, onetime, encrypted, login",9,File Systems and Storage Management,0.7575312657593908
+17,"nevilleneil, saltzer, ellen, herlihy, kurose, brinchhansen, hruby, zhang",0,Introduction to Operating Systems,0.0
+18,"offset, page number, page table, page, address, virtual address, page directory, page offset",8,Memory Management: Virtual Memory,0.30752351402348854
+19,"printer, print, output, printed, spooling, plotter, printing, spooler",11,I/O Systems and Device Management,0.09051151628898986
+20,"mutex, pthread mutex, pthread, mutex lock, lock, mutex pthread, unlock, lock mutex",0,Introduction to Operating Systems,0.0
+21,"semaphore, sem, semaphore semaphore, value semaphore, semaphore operation, value, semaphore value, wait",0,Introduction to Operating Systems,0.0
+22,"operating system, operating, system, embedded system, system operating, embedded, system operating system, operating system operating",28,System Calls and API,0.31327447503361827
+23,"raid, raid level, level, drive, level raid, parity, raid level raid, level raid level",12,Mass Storage Structures,0.33196727896266964
+24,"overflow, attacker, attack, buffer overflow, return address, aslr, canary, buffer",0,Introduction to Operating Systems,0.0
+25,"memory management, management, memory management chap, management chap, memory, management chap memory, chap memory, chap memory management",7,Memory Management: Early Systems,0.5698067424077198
+26,"problem, solution, solution problem, solved, problem solved, approach, exercise, solution exercise",0,Introduction to Operating Systems,0.0
+27,"bit, bit bit, bit word, integer, bit count, word, count, bit set",0,Introduction to Operating Systems,0.0
+28,"nfs, nfs protocol, nfs server, network file, nfs version, protocol, file nfs, remote",15,Distributed File Systems,0.5856931762306976
+29,"producer, consumer, item, buffer, producer consumer, item buffer, count, remove",0,Introduction to Operating Systems,0.0
+30,"fork, child, exec, process fork, parent, new process, shell, child process",0,Introduction to Operating Systems,0.3135069244399154
+31,"tape, tape drive, card, card reader, magnetic tape, magnetic, drive, bluray",0,Introduction to Operating Systems,0.0
+32,"open, open file, opened, close, file opened, open close, file, process open",9,File Systems and Storage Management,0.7135815047832202
+33,"inode, inode number, inodes, file inode, directory, file inode number, number, inode structure",9,File Systems and Storage Management,0.5800696079273684
+34,"virtual memory, virtual, memory, memory virtual, memory virtual memory, physical memory, memory management, chapter virtual memory",8,Memory Management: Virtual Memory,0.6417450442912231
+35,"quantum, time quantum, time, millisecond, msec, quantum millisecond, quantum expires, quantum process",23,Real-Time and Embedded Systems,0.4793952753892571
+36,"mobile, io, mobile device, smartphones, tablet, macos, phone, macos io",11,I/O Systems and Device Management,0.26287658203174036
+37,"shared memory, sharedmemory, shared, sharedmemory object, share memory, memory shared, memory, share",16,Distributed Shared Memory,0.6250002713097036
+38,"bsd, freebsd, bsd unix, mach, berkeley, bsd kernel, bsd bsd, unix",1,Operating System Structures and Components,0.30601423989217824
+39,"dma, dma controller, controller, transfer, dma transfer, dma channel, dma chip, bus",0,Introduction to Operating Systems,0.0
+40,"instruction, instruction set, privileged, sensitive, privileged instruction, sensitive instruction, execute, instruction execute",23,Real-Time and Embedded Systems,0.2919429573966913
+41,"memorymapped, memorymapped file, mapped, mapped file, mapping, map file, map, memory memorymapped",9,File Systems and Storage Management,0.6559193915058052
+42,"pagereplacement, replacement, pagereplacement algorithm, page replacement, algorithm, replacement algorithm, lru, page replacement algorithm",8,Memory Management: Virtual Memory,0.33766345727537583
+43,"vmware, vmware workstation, esx, workstation, esx server, host operating, vmx, host",26,Case Study: Android Operating System,0.16935186540367633
+44,"physical address, address, logical address, logical, physical, virtual address, address logical address, address physical address",22,Virtualization and Hypervisors,0.21369630918392413
+45,"clock, timer, tick, clock tick, watchdog, clock timer, time signal, clock driver",23,Real-Time and Embedded Systems,0.5205992294365145
+46,"userlevel thread, userlevel, kernel thread, kernellevel, kernellevel thread, thread, thread kernel, thread user",1,Operating System Structures and Components,0.41056118548910314
+47,"parallelism, parallel, core, concurrency, run parallel, multicore, task parallelism, concurrent",23,Real-Time and Embedded Systems,0.1103440660411957
+48,"priority, priority thread, thread priority, priority class, boost, class, thread, highest",5,CPU Scheduling,0.2776435917374666
+49,"fault, page fault, page, fault occurs, page fault occurs, occurs, instruction, fault occur",8,Memory Management: Virtual Memory,0.23876412039831232
+50,"owner, group, owner group, protection, access, access file, permission, access control",19,Security and Protection in Operating Systems,0.5574167304764673
+51,"signal, signal handler, signal sent, process group, handler, signalhandling, signal sent process, kill",0,Introduction to Operating Systems,0.3135069244399154
+52,"pool, thread pool, executor, java, thread, runnable, executorservice, java thread",0,Introduction to Operating Systems,0.0
+53,"protocol, tcpip, layer, protocol stack, osi, network protocol, networking, network",17,Network Structures and Protocols,0.6339239915261644
+54,"bitmap, free, allocation unit, free block, bitmap free, bitblt, free list, bitmap bitmap",0,Introduction to Operating Systems,0.3135069244399154
+55,"sleep, wake, wakeup, wake lock, awakened, sleep wakeup, waiting bit, wakeup waiting bit",0,Introduction to Operating Systems,0.0
+56,"vmm, guest, vmms, guest guest, guest guest guest, guest vmm, balloon, host",0,Introduction to Operating Systems,0.0
+57,"executable, header file, header, executable file, source file, object file, source, binary",9,File Systems and Storage Management,0.7575312657593908
+58,"rpc, remote procedure, stub, procedure, remote, rpcs, client, client stub",15,Distributed File Systems,0.2295995486199535
+59,"cylinder, head, arm, request cylinder, seek, rpm, rotate, request",0,Introduction to Operating Systems,0.0
+60,"email, camera, email application, picture, camera application, composeactivity, app process, app",26,Case Study: Android Operating System,0.27829587937249717
+61,"shell, command, command interpreter, interpreter, commandline, shell command, bash, commandline interface",28,System Calls and API,0.3439529944331668
+62,"resource, thread request, resource thread, thread request resource, request resource, resource type, instance resource, thread",19,Security and Protection in Operating Systems,0.2251584008191223
+63,"remote, remote file, ftp, client, remote file access, transfer file, transfer, transfer protocol",15,Distributed File Systems,0.5516673323014273
+64,"nvm, nvm device, nonvolatile, flash, nonvolatile memory, storage, device, flash memory",11,I/O Systems and Device Management,0.47642982951775176
+65,"backup, dump, incremental, restore, dumping, backup medium, incremental dump, backup program",3,Processes and Threads,0.38844063103835946
+66,"link, symbolic link, symbolic, hard link, hard, linking, directory, link file",12,Mass Storage Structures,0.28313129489240263
+67,"error, error condition, exception, error checking, reporting, error code, error reporting, status",0,Introduction to Operating Systems,0.0
+68,"file system, filesystem, filesystem implementation, multiple file, system, multiple file system, implementation, virtual file",10,File System Implementation,0.7032727800248519
+69,"scheduling algorithm, scheduling, algorithm, scheduler, algorithm schedule, schedule, different scheduling, circumstance scheduling",5,CPU Scheduling,0.8045379548073075
+70,"client, server, client server, clientserver, web, clientserver model, web server, client client",17,Network Structures and Protocols,0.2331010120994602
+71,"unix, unix system, unix system work, system work like, version unix, popularity, unix world, unix software",28,System Calls and API,0.3302082001191277
+72,"module, kernel module, symbol, module loaded, kernel, loadable, loading, loaded",1,Operating System Structures and Components,0.30601423989217824
+73,"line, esc, escape, line feed, character, escape sequence, carriage return, carriage",0,Introduction to Operating Systems,0.0
+74,"sec, sec sec, sec study, sec operating, sec case, call sec, case sec, result sec",26,Case Study: Android Operating System,0.13949285888920693
+75,"algorithm, set algorithm, algorithm algorithm, algorithm work, selecting algorithm, working set algorithm, optimal, working set",13,Distributed Systems and Networking,0.10363322271555278
+76,"openfile table, openfile, table, quota, open, table file, systemwide, open file",9,File Systems and Storage Management,0.7575312657593908
+77,"child, parent, wait, exit, wait child, parent process, child process, zombie",0,Introduction to Operating Systems,0.3135069244399154
+78,"domain, domain domain, executing domain, process executing domain, object domain, process executing, right, access right",0,Introduction to Operating Systems,0.2839793498888717
+79,"multicore, core, chip, multicore chip, multiprocessor, multicore system, multicores, manycore",28,System Calls and API,0.4164706882712118
+80,"mode, kernel mode, user mode, mode kernel, mode kernel mode, privileged, user mode kernel, mode user mode",1,Operating System Structures and Components,0.4284199358490496
+81,"matrix, access matrix, domain, accessmatrix, row, column, access, matrix object",19,Security and Protection in Operating Systems,0.3752640013652038
+82,"mft, mft record, record, attribute, fit mft record, fit mft, mft entry, mft file",9,File Systems and Storage Management,0.7575312657593908
+83,"priority, higher, scheduling, priority process, higher priority, process priority, lower priority, task assigned",5,CPU Scheduling,0.4345167276205253
+84,"semaphore, mutex, mutex lock semaphore, lock semaphore, mutex lock, lock, semaphore mutex, mutexes",4,Process Synchronization,0.37419264922191636
+85,"sequential, position, position file, read, current position, random access, read write, access file",9,File Systems and Storage Management,0.535655494979294
+86,"binding, job, time, run time, job hour, short job, hour, shortest",23,Real-Time and Embedded Systems,0.45407439823841966
+87,"file size, size, maximum size, file smaller, file, maximum, size file, maximum file",9,File Systems and Storage Management,0.7575312657593908
+88,"hash, hash table, hash function, hashed, sha, table, hash value, entry hash",0,Introduction to Operating Systems,0.0
+89,"priority, priority class, class, nice value, nice, priority inversion, inversion, normal",5,CPU Scheduling,0.2776435917374666
+90,"synchronization, statei, synchronization primitive, java, synchronization mechanism, synchronization tool, primitive, traditional synchronization",4,Process Synchronization,0.30485779979355865
+91,"page size, size, larger page, larger page size, page, size page, small page size, small page",8,Memory Management: Virtual Memory,0.2516794813284454
+92,"page table, guest, shadow page, shadow, shadow page table, hypervisor, table, page",8,Memory Management: Virtual Memory,0.2516794813284454
+93,"card, smart card, smart, credit, money, bank, account, telephone",0,Introduction to Operating Systems,0.0
+94,"queue, ready queue, ready, process queue, queue process, tail, pcb, wait queue",0,Introduction to Operating Systems,0.3135069244399154
+95,"lock, release lock, locking, try, clause, release, acquire, acquire lock",0,Introduction to Operating Systems,0.0
+96,"touch, screen, finger, touch screen, multitouch, capacitive, resistive, finger screen",0,Introduction to Operating Systems,0.0
+97,"struct, task struct, task, handle, handle handle, struct task, handle handle handle, handletable",23,Real-Time and Embedded Systems,0.2919429573966913
+98,"android, google, google play, proprietary, development, platform, play, development android",26,Case Study: Android Operating System,0.5931698575100127
+99,"assembly, assembly language, language, million, million line, line code, written assembly, compiler",0,Introduction to Operating Systems,0.0
+100,"path, working directory, absolute, absolute path, path name, directory, relative path, relative",9,File Systems and Storage Management,0.08937544256418013
+101,"exist, possibility, possibility exist, big deal, told friend, exist explain, told, true wait",0,Introduction to Operating Systems,0.0
+102,"compression, compressed, deduplication, compression algorithm, ntfs, compress, uncompressed, file compression",9,File Systems and Storage Management,0.1736062322001146
+103,"cloud, cloud computing, computing, docker, iaa, data center, amazon, software service",13,Distributed Systems and Networking,0.21237960002484307
+104,"utilization, cpu utilization, utilization percent, percent, cpu, degree, cpu utilization percent, utilization cpu",2,Computer System Structures,0.32291510491316927
+105,"termination, termination process, terminate, exit, terminate process, terminated, process termination, creation termination",0,Introduction to Operating Systems,0.3135069244399154
+106,"slab, allocator, slab allocator, kernel memory, slab allocation, contiguous page, contiguous, physically contiguous",7,Memory Management: Early Systems,0.49506487442553065
+107,"lock, lock byte, shared lock, exclusive, exclusive lock, lock file, locking, file lock",9,File Systems and Storage Management,0.64060334048261
+108,"kernel, kernel kernel, kernel data structure, kernel data, kernel algorithm, kernel subsystem, course kernel, easier modify",1,Operating System Structures and Components,0.2965015776292105
+109,"ibm, gate, ibms, kildall, ibm came, ibm ibm, microsoft, digital research",25,Case Study: Microsoft Windows Operating System,0.07500334635867288
+110,"disk, hard disk, floppy, disk disk, hard, floppy disk, disk controller, drive",12,Mass Storage Structures,0.18371022427984357
+111,"volume, partition, file system, storage, volume manager, multiple partition, multiple, storage device",9,File Systems and Storage Management,0.37218521457773635
+112,"browser, web, web browser, web page, chrome, spreadsheet, url, website",8,Memory Management: Virtual Memory,0.2516794813284454
+113,"uid, gid, uid gid, effective uid, effective, real uid, real, uid user",23,Real-Time and Embedded Systems,0.19836957314322276
+114,"tree, directory, treestructured, treestructured directory, directory tree, hierarchical directory, subdirectory, twolevel directory",9,File Systems and Storage Management,0.08937544256418013
+115,"burst, cpu burst, cpu burst time, cpu, burst time, completes cpu burst, completes cpu, burst burst",5,CPU Scheduling,0.31029012192645
+116,"section section, section section section, section, shall section, shall section section, section shall section, section shall, shall",0,Introduction to Operating Systems,0.0
+117,"paging, demand paging, demand, memory paging, swapping, memory, memory demand, coloring",8,Memory Management: Virtual Memory,0.5817668117049937
+118,"capability, object capability, object, right, new capability, capability list, capability point, indirect object",0,Introduction to Operating Systems,0.0
+119,"unix linux android, linux android, case study unix, study unix linux, study unix, android chap, linux android chap, unix linux",24,Case Study: The Linux Operating System,0.49529170943639045
+120,"fig, fig fig, fig instead, look fig, fig fig fig, arrow fig, saw fig, arrow",10,File System Implementation,0.09302752760164179
+121,"color, pixel, palette, color palette, image, blue, bit color, gif",0,Introduction to Operating Systems,0.0
+122,"cdrom, iso, file cdrom, cdroms, volume descriptor, cdrom file, primary volume descriptor, primary volume",9,File Systems and Storage Management,0.7575312657593908
+123,"activity, intent, activity manager, package, manager, application, android, manifest",26,Case Study: Android Operating System,0.6438654522291161
+124,"right notice, right notice oper, notice oper, clearly right notice, clearly right, oper, clearly, notice",0,Introduction to Operating Systems,0.0
+125,"message, receive, receive message, message process, process sends, message passing, sent, message receive message",14,Distributed Coordination and Communication,0.39699559183533023
+126,"layer, layered, layer layer, software layer, layered approach, lowerlevel layer, layering, layer software",28,System Calls and API,0.3439529944331668
+127,"disadvantage, advantage, advantage disadvantage, drawback, disadvantage advantage, advantage method, model advantage, benefit",17,Network Structures and Protocols,0.2331010120994602
+128,"page table, inverted page table, inverted page, inverted, table, twolevel, table inverted, page table inverted",8,Memory Management: Virtual Memory,0.2516794813284454
+129,"vfs, vnode, vfs layer, concrete file, layer, virtual file, concrete, rnode",9,File Systems and Storage Management,0.64060334048261
+130,"page table, table, memory reference, page, pagetable entry, pagetable, memory table, table page",8,Memory Management: Virtual Memory,0.45489063552761777
+131,"fragmentation, internal fragmentation, external fragmentation, internal, external, fragmentation problem, fragmentation external, fragmentation external fragmentation",0,Introduction to Operating Systems,0.0
+132,"context switch, context, switch, contextswitch, number context, number context switch, contextswitch time, nonvoluntary",23,Real-Time and Embedded Systems,0.5205992294365145
+133,"firewall, company computer, dmz, hardware firewall, lan, company, network firewall, connection",17,Network Structures and Protocols,0.4388465843509626
+134,"systemd, child process, child, parent process, tree, process tree, process child, parent",0,Introduction to Operating Systems,0.3135069244399154
+135,"dfs, clusterbased, dfs model, clusterbased dfs, naming, distributed, dfss, conventional",15,Distributed File Systems,0.36919591977816013
+136,"privilege, ring, protection, principle privilege, principle, protected, process user resource, needtoknow",19,Security and Protection in Operating Systems,0.2890387954815229
+137,"jvm, java, java program, java virtual, interpreter, java virtual machine, class, java interpreter",22,Virtualization and Hypervisors,0.4191928146423007
+138,"systemcall, systemcall interface, interface, library, standard library, provides systemcall, provides systemcall interface, systemcall handler",28,System Calls and API,0.28618619025649916
+139,"dlls, library, dynamic, linking, dynamic linking, dll, link library, loaded",0,Introduction to Operating Systems,0.0
+140,"address space, space, address, virtual address space, virtual address, physical memory, address space process, virtual",8,Memory Management: Virtual Memory,0.4534213185473069
+141,"mmu, physical address, address mmu, memory management unit, management unit, address, unit mmu, management unit mmu",0,Introduction to Operating Systems,0.47578861406734585
+142,"shared file, file sharing, sharing, share file, sharing file, semantics, multiple user, share",9,File Systems and Storage Management,0.48798401930423635
+143,"ntfs, ntfs file, file ntfs, metadata, ntquer, volume, ntfs volume, master file table",9,File Systems and Storage Management,0.7575312657593908
+144,"failure, reliability, fault tolerance, tolerance, fault, fault tolerant, tolerant, self healing",6,Deadlocks and Deadlock Handling,0.10275594781425726
+145,"paging, demand paging, demand, paging system, demandpaging, paging algorithm, performance demand paging, performance demand",8,Memory Management: Virtual Memory,0.314789398456724
+146,"process memory, insufficient, memory, memory process, memory allocated process, memory allocated, memory time, insufficient memory",16,Distributed Shared Memory,0.5382416804232805
+147,"intel, amd, architecture, chip, amd architecture, bit cpu, bit architecture, bit",2,Computer System Structures,0.37272939204674255
+148,"limit register, base, base limit, limit, register, base limit register, relocation, base register",7,Memory Management: Early Systems,0.410189182978509
+149,"clone, flag, new thread, clone clone, child task, flag passed clone, passed clone, flag passed",23,Real-Time and Embedded Systems,0.2919429573966913
+150,"process equal, process equal process, equal process, process process, process consider, process consider consisting, consider consisting process, process described section",0,Introduction to Operating Systems,0.3135069244399154
+151,"spinlocks, spinlock, spin, spin lock, lock, short duration, kernel preemption, duration",1,Operating System Structures and Components,0.30601423989217824
+152,"wan, internet, network, widearea network, widearea, arpanet, lan, localarea network",17,Network Structures and Protocols,0.6963340764769544
+153,"cpu memory, cpu, cpu cpu, local memory, cpu cpu cpu, interconnect, access local memory, memory cpu",2,Computer System Structures,0.4240325757501825
+154,"registry, hive, configuration, hklm, configuration information, registry key, key, registry configuration",21,Security in Distributed Systems,0.28785005293973615
+155,"read file, read, file read, write file, read write, file called standard, called standard, write",9,File Systems and Storage Management,0.7575312657593908
+156,"time, time time, time time time, time figure, period, reference expected, time time figure, block time time",23,Real-Time and Embedded Systems,0.5205992294365145
+157,"discus, section discus, approach discus, discus discus, discus relative merit, merit, discus pro, discus pro con",0,Introduction to Operating Systems,0.0
+158,"swap, swap space, swapping, swapspace, raw partition, partition, support swapping, space",0,Introduction to Operating Systems,0.0
+159,"rootkit, rootkits, sony, hide, rootkit hide, cd, operating application virtual, sony rootkit",22,Virtualization and Hypervisors,0.28101287846276607
+160,"programmer, chief programmer, chief, team, project, software project, secretary, software development",28,System Calls and API,0.3439529944331668
+161,"journaling, journaling file, ext, journal, logstructured, journaling file system, logstructured file, file system",9,File Systems and Storage Management,0.7172837635810967
+162,"linked list, list, linked, list head, struct, struct color, head, color",0,Introduction to Operating Systems,0.0
+163,"free software, opensource, gpl, opensource operating, opensource operating system, license, free, source code",28,System Calls and API,0.38989344984438296
+164,"multiple processor system, processor system, multiple processor, processor system chap, system chap, chap multiple processor, chap multiple, processor",28,System Calls and API,0.19735991942794204
+165,"mount, mounting, mounted, mount file, file mounting, mount point, mounting file, file mounted",9,File Systems and Storage Management,0.7575312657593908
+166,"figure figure, figure figure figure, figure, figure prog figure, figure jim usrjim, figure figure jim, fat figure sec, figure figure bored",0,Introduction to Operating Systems,0.0
+167,"virus, boot sector, vector, boot, memoryresident, memoryresident virus, sector, interrupt vector",27,System Boot and Initialization,0.3093420420457921
+168,"feature, flexibility, principle, life imitating, imitating, modular, guiding, guiding principle",0,Introduction to Operating Systems,0.0
+169,"address space, space, address space address, space address, space address space, address, virtual address space, us address",22,Virtualization and Hypervisors,0.42747337460493323
+170,"tpm, pcr, bootloader, secure, trusted, hash, party, value pcr",21,Security in Distributed Systems,0.24983268572702977
+171,"process thread, thread window, thread, process process, process thread window, thread section, thread process, window thread",0,Introduction to Operating Systems,0.3135069244399154
+172,"fig, fig situation, shown fig situation, illustrated fig, shown fig, situation shown fig, situation shown, illustrated",0,Introduction to Operating Systems,0.0
+173,"allocation, contiguous, linked allocation, linked, indexed, indexed allocation, contiguous linked, contiguous allocation",7,Memory Management: Early Systems,0.47970927657122725
+174,"mount, mounted, remote directory, mounting, remote, client, directory, client mounted",15,Distributed File Systems,0.16235139778653954
+175,"hypervisors, type hypervisors, type, type hypervisor, hypervisor, hypervisors type, type hypervisors type, hypervisors type hypervisors",22,Virtualization and Hypervisors,0.38355136660678163
+176,"msdos, msdos file, old msdos, window msdos, version, msdos window, msdos directory entry, graphical environment",9,File Systems and Storage Management,0.39501495429356026
+177,"critical region, region, critical, region process, critical region process, enters critical region, enters critical, enter",4,Process Synchronization,0.17124111437467082
+178,"pthread, attr, pthread attr, scope, pthreads, attr attr, thread pthread, param",0,Introduction to Operating Systems,0.0
+179,"reader, writer, reader writer, readerswriters problem, readerswriters, exclusive access, database, reader writer problem",19,Security and Protection in Operating Systems,0.3752640013652038
+180,"security, security feature, window, security window, feature, window vista, vista, new security",20,System Security Measures,0.552890618992904
+181,"hardware, hardware hardware, hardware support, hardware manufacturer, hardware computer, lowest level hardware, hardware different, hardware software",2,Computer System Structures,0.12730252772092987
+182,"procedure, procedure call, posix procedure, local procedure, posix procedure call, local procedure call, posix, calling called",0,Introduction to Operating Systems,0.0
+183,"applet, untrusted applet, sandbox, untrusted, trusted, web page, applet fetched, web",8,Memory Management: Virtual Memory,0.2516794813284454
+184,"segment, segment segment, segment segment segment, segmentation, segment descriptor, segment register, descriptor, descriptor segment",8,Memory Management: Virtual Memory,0.3355726417712606
+185,"accesscontrol, access list, access, default set, accesscontrol list, denied, access object, access control",19,Security and Protection in Operating Systems,0.4719175652798874
+186,"pipe, named pipe, named, pipe named, pipe named pipe, ordinary pipe, communication, ordinary",13,Distributed Systems and Networking,0.27571074087072195
+187,"pcie, bus, pci, hub, lane, pci bus, pcie slot, usb",0,Introduction to Operating Systems,0.0
+188,"idle, cpu idle, idle time, cpu, go idle, idle process, idle thread, sat",5,CPU Scheduling,0.3403979440924629
+189,"socket, socket created, socket descriptor, local socket, socket socket, bind, socket allow, connection",15,Distributed File Systems,0.07653318287331784
+190,"roundrobin, roundrobin scheduling, scheduling, roundrobin scheduler, priority, quantum, priority scheduling, realtime roundrobin thread",5,CPU Scheduling,0.8105980051021537
+191,"distributed system, distributed, network distributed, distributed operating, network distributed system, network, system, system distributed",13,Distributed Systems and Networking,0.5412448053182467
+192,"dns, host, hostid, host network, domainname, naming, hostname, network number",17,Network Structures and Protocols,0.5934801037347878
+193,"fiber, thread fiber, fiber fiber, fiber thread, process thread fiber, job process thread, job process, fiber created",0,Introduction to Operating Systems,0.3135069244399154
+194,"race, race condition, condition, race condition possible, condition possible, prevent race, shared data, race condition occur",4,Process Synchronization,0.3727444533621745
+195,"device independent, device, device independence, independence, new device, hardware device, independent, install new hardware",11,I/O Systems and Device Management,0.5890469081103055
+196,"transfer rate, transfer, rate, streaming transfer, streaming, access latency, streaming transfer rate, transfer time",18,Distributed Multimedia Systems,0.29810116472540804
+197,"frame, free frame, freeframe, freeframe list, page frame, free, old page, list",8,Memory Management: Virtual Memory,0.2516794813284454
+198,"loaded memory, program loaded, program loaded memory, loader, program memory, loaded, load, loaded memory executed",16,Distributed Shared Memory,0.4113155236102279
+199,"microkernel, microkernels, monolithic, microkernel approach, microkernel design, typical microkernel, based microkernel, modular",0,Introduction to Operating Systems,0.0
+200,"fetch, instruction, decode, operand, fetch instruction, register, fetch instruction memory, execute unit",16,Distributed Shared Memory,0.5999442287408826
+201,"timesharing, timesharing system, ct, generalpurpose timesharing, time sharing, tss, compatible timesharing, timesharing ct",23,Real-Time and Embedded Systems,0.3379785639046988
+202,"average, waiting time, average waiting, average waiting time, turnaround, turnaround time, wait millisecond, waiting",23,Real-Time and Embedded Systems,0.5205992294365145
+203,"standby, standby list, modified, modified list, list, page modified, dirty, clean",8,Memory Management: Virtual Memory,0.2516794813284454
+204,"client, collaborator, remote machine, ssh, server, server process, remote, remotely",15,Distributed File Systems,0.1945669489997294
+205,"mailbox, message mailbox, mailbox process, mailbox mailbox, message, receive message mailbox, receive message, receive",14,Distributed Coordination and Communication,0.34927952549757973
+206,"address space, virtual address space, virtual address, space, address, process virtual address, exec, process virtual",22,Virtualization and Hypervisors,0.3936400681232615
+207,"keyboard, mouse, printer, device, disk printer, device keyboard, usb, device disk",11,I/O Systems and Device Management,0.5170547087083905
+208,"storage, san, na, networkattached, networkattached storage, hostattached storage, hostattached, storage network",12,Mass Storage Structures,0.5247625866508566
+209,"parameter, parameter self, parameter self explanatory, explanatory, self explanatory, passed parameter, function passed parameter, function",0,Introduction to Operating Systems,0.0
+210,"scheme, scheme shown, scheme shown figure, shown figure scheme, needed scheme, figure scheme, scheme needed scheme, variant scheme",0,Introduction to Operating Systems,0.0
+211,"authentication, authenticated, login, user authenticated, authenticated login, user authentication, authentication method, authenticate",19,Security and Protection in Operating Systems,0.37350029081008546
+212,"parity, parity block, parity bit, drive, bad, bad block, bit, stored parity",9,File Systems and Storage Management,0.07968814686328679
+213,"binary translation, translation, binary, translated, implementation binary translation, implementation binary, dynamic binary translation, dynamic binary",10,File System Implementation,0.37211011040656716
+214,"inactive list, inactive, active list, rear, active, list, referenced, list referenced",0,Introduction to Operating Systems,0.0
+215,"philosopher, eating, eat, philosopher number, fork, thinking, left fork, dining",0,Introduction to Operating Systems,0.0
+216,"monitor, reference monitor, reference, call monitor, monitor concept, monitor monitor, monitor procedure, applet",8,Memory Management: Virtual Memory,0.1677863208856303
+217,"diskscheduling algorithm, diskscheduling, diskhead, seek, hdd, movement, disk, disk seek",12,Mass Storage Structures,0.08299181974066741
+218,"shared memory, message passing, passing, shared, message, memory message, communication, interprocess communication",14,Distributed Coordination and Communication,0.5153008397285294
+219,"figure program, program shown figure, program shown, figure program shown, shown figure program, shown figure, figure, shown",3,Processes and Threads,0.38844063103835946
+220,"snapshot, snapshot taken, root inode, new snapshot, wafl, point time, taken, root inode block",23,Real-Time and Embedded Systems,0.5205992294365145
+221,"communication, interprocess communication, interprocess, communication process, interprocess communication process, communication network, process executing, approach interprocess",14,Distributed Coordination and Communication,0.32320238078754115
+222,"binder, ipc, binderproxy, parcel, binder ipc, iexample, binder object, binderb",0,Introduction to Operating Systems,0.0
+223,"storage, secondary, secondary storage, storage device management, storage structure, tertiary storage, tertiary, device management",12,Mass Storage Structures,0.42918140561345186
+224,"value, value value, hexadecimal, factor, perfect, number given hexadecimal, sum factor, given hexadecimal",0,Introduction to Operating Systems,0.0
+225,"scheduler, thread run, thread scheduler, thread, decides thread, scheduler thread, pick thread, thread scheduling",5,CPU Scheduling,0.5354185266767734
+226,"thread chap, process thread chap, thread chap process, chap process, chap process thread, process thread, chap, thread",0,Introduction to Operating Systems,0.3135069244399154
+227,"performance, impact, impact use, factor performance, performance approach, overhead, performance performance, impact performance",29,Operating System Performance Monitoring and Tuning,0.5572774015225809
+228,"section, section look, section described, section described section, described section, following section, look, following section described",10,File System Implementation,0.09302752760164179
+229,"token, sid, sids, access token, represented token, privilege, user sid, token object",19,Security and Protection in Operating Systems,0.24581934508162734
+230,"preemptive, running kernel, nonpreemptive, nonpreemptive kernel, kernel, running kernel mode, preemptive kernel, preemption",1,Operating System Structures and Components,0.30601423989217824
+231,"frame, frame process, minimum number frame, minimum number, allocation frame, number frame, workingset, allocate frame",0,Introduction to Operating Systems,0.32361420538531294
+232,"sector, sector track, track, cylinder, zone, number sector, disk cylinder, outer",12,Mass Storage Structures,0.08299181974066741
+233,"segment, text, stack, text segment, stack segment, data segment, data stack, heap",10,File System Implementation,0.24749484657848977
+234,"locality, locality reference, locality model, exhibit, locality locality, working set, reference, working",17,Network Structures and Protocols,0.2331010120994602
+235,"dispatcher, dispatcher object, signaled, object signaled, object, dispatcher object signaled, synchronization, object dispatcher",4,Process Synchronization,0.30485779979355865
+236,"kernelmode, kernelmode object, object, kernelmode code, handle, opaque, object data structure, usermode",10,File System Implementation,0.1370635388280425
+237,"zfs, zfs zfs, zfs file, checksum, zfs zfs zfs, system zfs, file system zfs, zfs us",10,File System Implementation,0.6940153098709143
+238,"att, bell, laboratory, bell laboratory, unix, university, berkeley, usg",0,Introduction to Operating Systems,0.0
+239,"chapter filesystem, chapter, chapter filesystem interface, filesystem interface, chapter filesystem implementation, filesystem, filesystem implementation, chapter file",10,File System Implementation,0.43605076546317545
+240,"namespace, object manager, object, parse, namespace object, namespaces, object namespace, namespace object manager",0,Introduction to Operating Systems,0.0
+241,"owner, attribute, date, file size, file owner, size time, size, date time",9,File Systems and Storage Management,0.47039038188780763
+242,"cancellation, thread cancellation, deferred, deferred cancellation, target thread, cancel, pthread cancel, pthreads",0,Introduction to Operating Systems,0.0
+243,"argv, command line, envp, array, string, argument, array pointer, argc",0,Introduction to Operating Systems,0.0
+244,"byte, identifier byte, significant byte, store significant byte, store significant, byte actually, byte address, size byte",0,Introduction to Operating Systems,0.0
+245,"batch, batch system, job, batch job, interactive, job sequencing, sequencing, system batch",28,System Calls and API,0.4164706882712118
+246,"study window, case study window, study window chap, window chap, window chap case, case study, study, chap case study",24,Case Study: The Linux Operating System,0.11222131834557046
+247,"hibernation, standby, hibernated, battery, hiberboot, standby mode, sleep, shutdown",0,Introduction to Operating Systems,0.0
+248,"debugging, debug, debugger, debugged, debuggee, debug program, debugging program, understand debug",3,Processes and Threads,0.3474318624898746
+249,"condition, note, condition variable, variable, condition completely, condition separately, necessary condition, separately",0,Introduction to Operating Systems,0.0
+250,"banker, banker algorithm, abcd, abc, algorithm, following snapshot, implement banker, following snapshot allocation",0,Introduction to Operating Systems,0.3135069244399154
+251,"trap, trap instruction, instruction, trap operating, instruction trap, cm, cm cm, trap instruction trap",26,Case Study: Android Operating System,0.16935186540367633
+252,"figure example, shown figure example, figure shown figure, figure shown, shown figure, example figure, figure, shown",0,Introduction to Operating Systems,0.0
+253,"rename, deleted, file deleted, deleted file, file new, rename file, old file deleted, file removed",9,File Systems and Storage Management,0.7575312657593908
+254,"heap, malloc, memory heap, malloc free, megabyte, allocate, grow, allocate memory",16,Distributed Shared Memory,0.3461206722948498
+255,"sector, spare, bad sector, bad, spare sector, sector sector, slipping, sector slipping",0,Introduction to Operating Systems,0.0
+256,"operating design, design chap, operating design chap, design chap operating, chap operating design, chap operating, design, chap",26,Case Study: Android Operating System,0.16935186540367633
+257,"msec, time msec, msec cpu time, msec cpu, cpu time, msec msec, case msec, user typing charsec",23,Real-Time and Embedded Systems,0.35067869062254214
+258,"user process, process execute, user, user program, user process execute, execute user, collection process, user code",1,Operating System Structures and Components,0.25647700467168727
+259,"manytomany, onetoone, manytomany model, model, onetoone model, manytoone, manytoone model, model section",17,Network Structures and Protocols,0.2331010120994602
+260,"foreground, background, foreground process, importance, run background, process foreground, importance process, multitasking",0,Introduction to Operating Systems,0.2659334710888511
+261,"policy, choice policy, change policy require, determine policy, policy require, change policy, policy decision, mechanism",0,Introduction to Operating Systems,0.0
+262,"inputoutput, inputoutput chap, chap, chap inputoutput, inputoutput linux, inputoutput chap keyboard, serial task, chap keyboard",24,Case Study: The Linux Operating System,0.4492463509716682
+263,"operating structure, structure operating, operating structure operating, operating concept, operating operating, operating, structure tell, structure tell operating",26,Case Study: Android Operating System,0.11201239735721623
+264,"numa, numa system, memory access, nonuniform, nonuniform memory, nonuniform memory access, numa machine, numa node",16,Distributed Shared Memory,0.4576610213566713
+265,"bibliography, hennessy, hennessy bibliography, callaghan, hennessy patterson hennessy, patterson hennessy bibliography, patterson, patterson hennessy",0,Introduction to Operating Systems,0.0
+266,"intrusion, intrusion detection, detection, alarm, modelbased, anomaly detection, anomaly, alarm indicates",20,System Security Measures,0.4806848385171685
+267,"history, history unix, history operating system, history operating, linux history, history feature, linux, operating system history",24,Case Study: The Linux Operating System,0.6404948031973524
+268,"swapping, swap, swapping process, swapped, standard swapping, swap space, process disk, backing store",0,Introduction to Operating Systems,0.26139099645930713
+269,"gui, graphical, graphical user interface, graphical user, user interface, interface, user interface gui, interface gui",28,System Calls and API,0.22019095794517082
+270,"suspended, process suspended, suspended process, suspend, calling process suspended, suspension, process suspended process, suspend process",0,Introduction to Operating Systems,0.3135069244399154
+271,"printf, string, format string, format, prime, character string, following format string, ratio prime",0,Introduction to Operating Systems,0.0
+272,"address space, space, new thread, address space thread, space thread, address, thread address, thread address space",0,Introduction to Operating Systems,0.0
+273,"read write, read, write, reading writing, read written, read write call, write call, reading writing sequentially",0,Introduction to Operating Systems,0.0
+274,"signing, code signing, signed, signature, code, code integrity, digital signature, sign",0,Introduction to Operating Systems,0.0
+275,"stack, stack grows, grows, value stack, stack segment, downward, stack grows stack, data value stack",10,File System Implementation,0.24749484657848977
+276,"initialize, program initialized, initialization, array, initialized, element, initialize work available, initialize work",3,Processes and Threads,0.14681675840578523
+277,"setuid, setuid bit, setuid root, root, setuid program, root setuid, root setuid bit, user identifier",3,Processes and Threads,0.3011484967872171
+278,"iobound, iobound process, cpubound, computebound, computebound process, iobound task, cpubound task, short cpu",23,Real-Time and Embedded Systems,0.21950880876586987
+279,"timer, timer interrupt, interrupt, clock, clock interrupt, frequency, periodic, system clock",11,I/O Systems and Device Management,0.36436123902292183
+280,"hole, fit, best fit, best, available hole, free hole, hole list, smallest",3,Processes and Threads,0.06866725107390143
+281,"spyware, ad, toolbar, define spyware, spyware want, additionally spyware, change setting, ad spyware",0,Introduction to Operating Systems,0.0
+282,"file system chap, system chap, chap file, chap file system, system chap file, file system, chap, system",10,File System Implementation,0.678511969495314
+283,"chap, introduction chap, introduction, chap introduction, saw chap, chap chap, int int xij, chap introduction chap",0,Introduction to Operating Systems,0.0
+284,"ipc, ipc mechanism, ipc system, mach, complete ipc, complete ipc operation, different ipc, ipc operation",28,System Calls and API,0.4164706882712118
+285,"scheduling, multiprocessor, multiprocessor scheduling, scheduling multiprocessor, multicore, uniprocessor, multicore scheduling, multiprocessor multicore",5,CPU Scheduling,0.8045379548073075
+286,"protection, protection mechanism, protection problem, lampson, interesting proving, interesting proving ground, proving ground protection, protection theory",19,Security and Protection in Operating Systems,0.31877704796903533
+287,"proc, proc file, file proc, statistic, procfs, file proc file, score, process pid",9,File Systems and Storage Management,0.7318466480322163
+288,"privilege, administrator, user assign, logged administrator, special privilege, execution program, perform task, nice value",3,Processes and Threads,0.4164181369540595
+289,"security, auditing, audit, operating system security, secure, system security, logging, tcb",21,Security in Distributed Systems,0.5221143387758278
+290,"writes, synchronous, synchronous writes, asynchronously, writes file, see fast, delayed, delayedwrite",9,File Systems and Storage Management,0.7575312657593908
+291,"apc, usermode, context, usermode apc, dpcs, irql, process context, passive",0,Introduction to Operating Systems,0.3135069244399154
+292,"programming project, program program, student program, program exercise, programming project programming, project programming, project, program",3,Processes and Threads,0.38844063103835946
+293,"fcfs, fcfs scheduling, fcfs scheduling algorithm, scheduling, firstcome, fcfs schedule, simulation performance statistic, simulation performance",5,CPU Scheduling,0.7037450699035607
+294,"covert, covert channel, channel, steganography, image, steganographic, leak, watermark",0,Introduction to Operating Systems,0.0
+295,"port, task, right, port task, receive right, port right, port port, right port",23,Real-Time and Embedded Systems,0.2919429573966913
+296,"copyonwrite, copyonwrite page, marked copyonwrite, copy, private copy, page shared, modified, page",8,Memory Management: Virtual Memory,0.24125009750616522
+297,"critical section, enter critical section, critical, enter critical, section, enter, section process, critical section process",4,Process Synchronization,0.17124111437467082
+298,"isrs, dpc, dpcs, isr, interrupt, processing, dpcs isrs, isrs dpcs",11,I/O Systems and Device Management,0.36204606515595944
+299,"work work, work, think work, work think, think, appreciate, success ct conflict, wonder work",13,Distributed Systems and Networking,0.10222318119376456
+300,"denialofservice, denialofservice attack, attack, ddos, denialofservice do attack, service denialofservice, denialofservice do, ddos attack",18,Distributed Multimedia Systems,0.07970241941195917
+301,"pdp, pdp pdp, interdata, minicomputer, pdp pdp pdp, pdp interdata, pdp minicomputer, unix",0,Introduction to Operating Systems,0.0
+302,"minix, minix development, www minix org, www minix, minix org, minix file, minix unix, supported minix",9,File Systems and Storage Management,0.7575312657593908
+303,"special file, file device, device, special, special file file, file device appear, file special file, device file",9,File Systems and Storage Management,0.64060334048261
+304,"goal, ship, operating designed, design begin, goal mind, mind, real system, system",28,System Calls and API,0.2379739706392759
+305,"certificate, public key, public, trusted party, party, authority, key, trusted",21,Security in Distributed Systems,0.28785005293973615
+306,"reply, message, receiver, message time, sender, iamup message, iamup, acknowledgement",14,Distributed Coordination and Communication,0.3407183656728757
+307,"pageout, free memory, reclaiming, threshold, pageout daemon, reclaiming page, allow page, allow page locked",8,Memory Management: Virtual Memory,0.30802714310280255
+308,"login, password, login login, trying login, invalid login, successful login, login password, asked password",0,Introduction to Operating Systems,0.0
+309,"extension, file type, type file, type, file extension, mpeg, tex, format",9,File Systems and Storage Management,0.7575312657593908
+310,"waiting, busy waiting, busy, time waiting, time waiting complete, busy waiting case, suffers busy waiting, suffers busy",23,Real-Time and Embedded Systems,0.4656381064216224
+311,"handle, handle process, handle value, close handle, process handle, duplicated, duplicating, duplicated handle",0,Introduction to Operating Systems,0.3135069244399154
+312,"worm, morris, internet worm, morris worm, worm morris, worm finger, internet, worm program",3,Processes and Threads,0.38844063103835946
+313,"linux, overview linux, release linux, overview, linux linux, indepth examination linux, linux linux system, linux section",24,Case Study: The Linux Operating System,0.6397335820609982
+314,"mouse, button, click, mouse moved, mouse button, mickey, moved, double click",0,Introduction to Operating Systems,0.0
+315,"case, case case, common case, clear case, case clear, possible case, case point, clear",24,Case Study: The Linux Operating System,0.08092394349902439
+316,"jmp, mov, jump, add, cmp, add mov, jmp instruction, mov add",0,Introduction to Operating Systems,0.0
+317,"directory, deleted, rmdir, mkdir, remove directory, directory deleted, deleted directory, remove",9,File Systems and Storage Management,0.08937544256418013
+318,"realtime, realtime scheduling, scheduling, realtime system, hard realtime, soft, scheduling class, scheduling realtime",5,CPU Scheduling,0.772521825219686
+319,"language, multilingual, language program, higherlevel language, higherlevel, programming language, multilingual support, locale",3,Processes and Threads,0.38844063103835946
+320,"lowpriority process, lowpriority, highpriority process, highpriority, lowerpriority, higherpriority, higherpriority process, lowerpriority queue",0,Introduction to Operating Systems,0.3135069244399154
+321,"call, call call, type call, call exist, set call, call exist somewhat, exist somewhat, miscellaneous call",0,Introduction to Operating Systems,0.0
+322,"ratemonotonic, ratemonotonic scheduling, deadline, meet deadline, scheduling, deadline met, meet, percent ratemonotonic",5,CPU Scheduling,0.8045379548073075
+323,"revocation, selective, selective revocation, revoked, capability, access right object, right object, access right",19,Security and Protection in Operating Systems,0.3752640013652038
+324,"address space, address space page, space page, virtual address space, space, frame consider, physical memory frame, frame consider logical",8,Memory Management: Virtual Memory,0.4837061594593904
+325,"lru, lru algorithm, lru replacement, nfu, replacement, approximation lru, crude, crude approximation",8,Memory Management: Virtual Memory,0.2516794813284454
+326,"science, research, social science, social, humanity, main page, struggle, tribe",8,Memory Management: Virtual Memory,0.2516794813284454
+327,"netmsgserver, netmsgservers, port, netmsgserver node, netmsgserver netmsgserver, message, ipc, destination",14,Distributed Coordination and Communication,0.35544782131925795
+328,"global, global variable, variable, threadlocal, threadlocal storage, thread private, tl, storage",12,Mass Storage Structures,0.5409128932834555
+329,"unsafe, banker, banker algorithm, safe, unsafe state, state, deadlock, state deadlocked",4,Process Synchronization,0.09504838208060201
+330,"realtime, realtime system, system realtime, system realtime system, soft realtime, realtime process, realtime operating, real time",23,Real-Time and Embedded Systems,0.335324601710104
+331,"graph, deadlock, cycle, graph cycle, waitfor graph, waitfor, cycle graph, graph deadlock",4,Process Synchronization,0.33363436231317944
+332,"frame number, page frame, frame, page page page, page frame number, page page, page, frame number page",8,Memory Management: Virtual Memory,0.2516794813284454
+333,"solaris, mauro, solaris internals, prentice hall, prentice, hall, mauro solaris internals, solaris internals second",24,Case Study: The Linux Operating System,0.3630458756518609
+334,"zygote, dalvik, process zygote, preloaded, dalvik process, activity manager, dalvik dalvik, new process",0,Introduction to Operating Systems,0.3135069244399154
+335,"processor thread, processor, cpu thread, ideal, ideal processor, receives proportion processor, receives proportion, running thread",2,Computer System Structures,0.32291510491316927
+336,"irp, device stack, irp driver, device object, stack, irps, manager, request packet",11,I/O Systems and Device Management,0.6456086634917768
+337,"pagefault, pagefault rate, rate, number frame, frame, working set, pagefault rate increase, rate increase",0,Introduction to Operating Systems,0.0
+338,"nsec, take nsec, word nsec, take, word, memory word nsec, memory word, nsec page",8,Memory Management: Virtual Memory,0.580689554443996
+339,"complexity, architecture, approach fifth, quantitative approach fifth, patterson architecture quantitative, patterson architecture, quantitative approach, architecture quantitative approach",2,Computer System Structures,0.2734594023147935
+340,"multics, compiler software, multics multics, networked, bell, unix compiler software, unix compiler, mit",28,System Calls and API,0.3439529944331668
+341,"pbg, directory, directory entry, pbg pbg, directory entry file, entry file, directory listing, entry file directory",9,File Systems and Storage Management,0.37787796348208574
+342,"word, word processor, step cpu, read word, cpu writes, cpu read, cpu, writes word",2,Computer System Structures,0.32291510491316927
+343,"mtbf, mean time, hour, drive, failure, mean time failure, time failure, drive hour",23,Real-Time and Embedded Systems,0.5205992294365145
+344,"compiler, compile, conditional compilation, compilation, conditional, compiled, compile time, inserted compiled",23,Real-Time and Embedded Systems,0.5205992294365145
+345,"port, port number, service port, standard service, number greater, port set, port port, standard service port",18,Distributed Multimedia Systems,0.07970241941195917
+346,"practice exercise, exercise, exercise practice exercise, exercise practice, practice exercise practice, practice, exercise exercise, practice exercise exercise",0,Introduction to Operating Systems,0.0
+347,"crash, recovery, crash recovery, problem consistency checking, problem consistency, consistency checking, crash eliminating, recovery needed crash",6,Deadlocks and Deadlock Handling,0.29063771002684924
+348,"reference bit, bit, bit page, reference bit page, set page, bit page set, set page referenced, reference",8,Memory Management: Virtual Memory,0.2516794813284454
+349,"sender, blocked, sender running, message, send, blocked sender, sender blocked sender, blocked sender running",14,Distributed Coordination and Communication,0.35544782131925795
+350,"distribution, linux distribution, linux, linux community, community, news, slackware, suse",24,Case Study: The Linux Operating System,0.6353302823907566
+351,"thread newer, thread offer, separate thread, run separate thread, thread, run separate, student, example program",3,Processes and Threads,0.1737159312449373
+352,"balancing, load balancing, load, processor, smp, processor load, processor load balancing, processor affinity",0,Introduction to Operating Systems,0.0
+353,"tree, binary search tree, search tree, binary search, balanced, redblack tree, redblack, balanced binary search",0,Introduction to Operating Systems,0.0
+354,"multithreaded, multithreading, singlethreaded, multithreaded programming, multithreaded process, multithreaded application, multithreaded program, example multithreading",3,Processes and Threads,0.25258148663715635
+355,"location, transparency, location independence, independence, location transparency, transparent, transparent user, mobility",1,Operating System Structures and Components,0.30601423989217824
+356,"forkjoin, sumtask, sum, java forkjoin, int, array, summation, java",0,Introduction to Operating Systems,0.0
+357,"march, october, february, november, july, june, october june, march july november",0,Introduction to Operating Systems,0.0
+358,"ecc, ecc field, incorrect, error, incorrect ecc, ecc error, crash disk, value ecc",12,Mass Storage Structures,0.08299181974066741
+359,"sort, sor, head, input, file sort, output, standard output, file descriptor",9,File Systems and Storage Management,0.4045952627605039
+360,"directory user, ufd, user file, directory user file, file directory user, directory, file user, user",9,File Systems and Storage Management,0.3609795558442259
+361,"controller, device controller, controller device, device, electronic component, basic hardware element, component electronic component, component electronic",11,I/O Systems and Device Management,0.604729562435528
+362,"sandboxing, sandbox, apple, method sandboxing, profile, run sandbox, restricted, macos",22,Virtualization and Hypervisors,0.09588784165169541
+363,"macro, document, macro virus, visual basic, file macro, visual, virus, office",9,File Systems and Storage Management,0.7575312657593908
+364,"chapter exercise, exercise, exercise chapter, exercise chapter exercise, chapter exercise chapter, exercise exercise chapter, chapter exercise exercise, exercise exercise",0,Introduction to Operating Systems,0.0
+365,"protection, languagebased, languagebased protection, enforcement, cap, protection policy, programming language, language",19,Security and Protection in Operating Systems,0.31877704796903533
+366,"blocked, running blocked, blocking, thread continue, thread, thread state, thandles, thread state ready",27,System Boot and Initialization,0.08646372928912364
+367,"hypervisor, sensitive instruction, sensitive, trap hypervisor, instruction, trap, instruction guest, hypercalls",23,Real-Time and Embedded Systems,0.2919429573966913
+368,"char, include, shared memory object, int, shared memory, memory object, buf, ssize",16,Distributed Shared Memory,0.6330909588189206
+369,"file file, file file file, file write, existing file, written written locally, formatted rigidly common, include appending, truefor file particular",9,File Systems and Storage Management,0.7585202815350715
+370,"criticalsection problem, criticalsection, solution criticalsection problem, solution criticalsection, petersons solution, petersons, solution, problem",0,Introduction to Operating Systems,0.0
+371,"tracing, statistic, monitoring, tracing counter, counter, report, tool, profiling",29,Operating System Performance Monitoring and Tuning,0.5138434713658314
+372,"biometrics, recognition, fingerprint, iris, biometric, iris recognition, enrollment, voice",0,Introduction to Operating Systems,0.0
+373,"current time, time day, day, current, date, time, date time, return current time",23,Real-Time and Embedded Systems,0.5205992294365145
+374,"web server, multithreaded web, multithreaded web server, multithreaded, web, server, singlethreaded, multithreaded server",0,Introduction to Operating Systems,0.0
+375,"checksum, consistency, computes checksum, checksummed, file checksum, checksum file, checksum incorrect, write virus",9,File Systems and Storage Management,0.6182918413544803
+376,"live migration, migration, live, migrating, migrating virtual machine, migrating virtual, virtual machine, problem arise migrating",22,Virtualization and Hypervisors,0.45719483024510715
+377,"fig shown fig, fig shown, shown fig shown, shown fig, shown, fig, message marked fig, module shown fig",14,Distributed Coordination and Communication,0.35544782131925795
+378,"object manager, executive, object, object type, executive component, manager, create new type, provided object manager",0,Introduction to Operating Systems,0.0
+379,"page table, entry page, inverted page table, inverted page, inverted, table, page table entry, page directory",8,Memory Management: Virtual Memory,0.24825511113560403
+380,"compare swap, compare, compare swap instruction, swap instruction, swap, node, old node, node old",0,Introduction to Operating Systems,0.0
+381,"fig example, example fig, example fig example, fig example fig, fig, fig let, matrix fig, example",0,Introduction to Operating Systems,0.0
+382,"exception, exception handler, handler, debugger, exception port, handle exception, error handler, exception dispatcher",0,Introduction to Operating Systems,0.0
+383,"event, occurrence, eventdriven, driven, paradigm, let occur, algorithmic event, algorithmic event driven",23,Real-Time and Embedded Systems,0.27696140766571375
+384,"security descriptor, dacl, descriptor, security, sacl, dacl sacl, object security, object security descriptor",20,System Security Measures,0.552890618992904
+385,"consult, end chapter, bibliographical, bibliographical note, bibliographical note end, note end, note end chapter, bibliography end chapter",0,Introduction to Operating Systems,0.0
+386,"signal, signal thread, deliver signal, delivered thread, delivered, deliver signal thread, signal need, signal thread process",0,Introduction to Operating Systems,0.3135069244399154
+387,"turn, best, random, end, pick come, exit said, job pick random, halt turn algorithm",0,Introduction to Operating Systems,0.0
+388,"packet, ipq, request packet, packet packet, skbuff, chain, fragment, matched",0,Introduction to Operating Systems,0.0
+389,"trap, mode, mode bit, user mode, mach msg, mode kernel, trap kernel, msg",1,Operating System Structures and Components,0.41056118548910314
+390,"cpu busy, busy, cpu, process want cpu, waiting, want cpu, cpu waiting, cpu given",5,CPU Scheduling,0.3283743375281054
+391,"attribute, file attribute, attribute file, file attribute file, creator, creator file attribute, property file displayed, consist file creator",9,File Systems and Storage Management,0.7575312657593908
+392,"clustered, general structure, darwin, structure clustered, general structure clustered, structure, organized follows, clustering",2,Computer System Structures,0.12072343482394615
+393,"illustrated figure, illustrated, situation illustrated figure, figure illustrated, illustrated figure situation, figure situation, situation illustrated, figure",0,Introduction to Operating Systems,0.0
+394,"size size, size, extent, size predetermined, easy scale, size size predetermined, size working, size working set",0,Introduction to Operating Systems,0.0
+395,"identifier, process identifier, process identity, identity, process identified process, identity environment, process identity environment, context process identity",0,Introduction to Operating Systems,0.3135069244399154
+396,"sjf, sjf scheduling, sjf algorithm, scheduling, millisecond process, algorithm sjf, sjf scheduling algorithm, nonpreemptive sjf",5,CPU Scheduling,0.8169939838386349
+397,"queue, queued, request queued, queue device, pending, request, process issue request, request placed",11,I/O Systems and Device Management,0.4926805776440654
+398,"atomic, atomic integer, integer, counter counter, atomic variable, counter counter counter, counter, temp",0,Introduction to Operating Systems,0.0
+399,"program counter, counter, current activity process, program counter saved, logical program counter, logical program, counter saved, current activity",3,Processes and Threads,0.38169979151791716
+400,"woman, entry following, entry following entry, following entry following, entry, following entry, entry unchanged, omit entry unchanged",0,Introduction to Operating Systems,0.0
+401,"cable, ethernet, lan, fiber, optical fiber, optical, ethernet network, wifi",17,Network Structures and Protocols,0.6963340764769544
+402,"site, failed, failure, failed site, site failed, site failure, link, site failed site",0,Introduction to Operating Systems,0.0
+403,"tuple, tuple space, tuple tuple space, tuple tuple, tuple space tuple, tuple field, space tuple, tuples",0,Introduction to Operating Systems,0.0
+404,"device number, minor device number, minor device, minor, devsda, major device number, major device, major minor",11,I/O Systems and Device Management,0.6456086634917768
+405,"figure structure, structure shown, shown figure, shown figure structure, shown, structure shown figure, structure process shown, figure structure process",2,Computer System Structures,0.11707234894093527
+406,"register, set register, register register, register set, multiple set register, multiple set, provide multiple, count register register",13,Distributed Systems and Networking,0.11687846984412553
+407,"solaris, version solaris, later version solaris, solaris commercial, solaris implementation, venus, sun, solaris operating",10,File System Implementation,0.33287458242762263
+408,"packet, tcp, protocol, reliable, datagram, unreliable, reliable transport, outoforder packet",12,Mass Storage Structures,0.08299181974066741
+409,"circular wait, circular, boundedwaiting, circularwait, boundedwaiting requirement, wait, condition, boundedwaiting requirement met",0,Introduction to Operating Systems,0.0
+410,"provided operating, service provided operating, call, service, call provide, operating service, service provided, service available operating",18,Distributed Multimedia Systems,0.07181965039090175
+411,"hydra, amplification, hydra hydra, powerful hydra, type amplification, kind right, right amplification, kind right amplification",0,Introduction to Operating Systems,0.0
+412,"unsafe, safe, safe state, unsafe state, state unsafe, state, state safe, state safe state",27,System Boot and Initialization,0.08646372928912364
+413,"russinovich, russinovich russinovich, russinovich russinovich russinovich, alexander, ohallaron russinovich, russinovich russinovich bryant, smith alexander part, russinovich solomon",0,Introduction to Operating Systems,0.0
+414,"peertopeer, peer, clientserver, napster, node, peertopeer computing, peertopeer configuration, gnutella",13,Distributed Systems and Networking,0.27720163060705627
+415,"linux kernel, kernel version, linux kernel version, revision, version, linux, minorversion, number denotes",24,Case Study: The Linux Operating System,0.679375261358315
+416,"nonvolatile, content power, volatile, loses content, power turned, nonvolatile ram, lost, loses",18,Distributed Multimedia Systems,0.07970241941195917
+417,"replace page, replace, replaced, replaced page, longest, page replaced, given second chance, given second",8,Memory Management: Virtual Memory,0.2516794813284454
+418,"process creation, creation, process created, process object, new process, created, create process, create new process",0,Introduction to Operating Systems,0.3135069244399154
+419,"information information, information, issue save, interested thing, interested response come, information technical identification, interested response, information tanenbaum wetherall",0,Introduction to Operating Systems,0.0
+420,"sequence, sequence sequence, sequence event, insert sequence, sequence ending possibility, sequence event follows, increase potential consistency, guarantee completion sequence",23,Real-Time and Embedded Systems,0.23837042654032725
+421,"blocking call, nonblocking, blocking, call, asynchronous call, nonblocking call, unblock, call called",0,Introduction to Operating Systems,0.0
+422,"ready queue, queue, ready, process ready queue, run queue, process ready, perprocessor, scheduler select process",0,Introduction to Operating Systems,0.2868022345849328
+423,"development edition, love linux kernel, development edition developer, kernel development edition, developer library, linux kernel development, edition developer library, edition developer",24,Case Study: The Linux Operating System,0.6312530047062115
+424,"guest, guest operating, guest process, guest run, native operating, host guest, process guest, guest operating system",27,System Boot and Initialization,0.23281833362401136
+425,"fortran, fortran compiler, cobol, compiler, fortran cobol, fortran job, load fortran, fortran program",3,Processes and Threads,0.38844063103835946
+426,"mcdougall, mauro mcdougall, mauro, mcdougall mauro mcdougall, mcdougall mauro, mauro mcdougall mauro, mcdougall mcdougall mauro, mauro mcdougall mcdougall",0,Introduction to Operating Systems,0.0
+427,"hadoop, mapreduce, gfs, hadoop framework, hadoop distributed, data server, distributed, framework",14,Distributed Coordination and Communication,0.28390079558035497
+428,"program execution, execution process, program execution process, execution, process program execution, process program, associated program considered, program considered separate",3,Processes and Threads,0.5284829869602725
+429,"chapter synchronization, chapter synchronization tool, synchronization, synchronization tool, chapter synchronization example, synchronization example, tool, chapter",4,Process Synchronization,0.30485779979355865
+430,"shared page, sharing, sharing page, shared, page sharing, page containing unrelated, unrelated shared, unrelated shared variable",16,Distributed Shared Memory,0.31079508624792573
+431,"decade, development, gone, history, repeat, generation, world, period decade",0,Introduction to Operating Systems,0.0
+432,"point, point bedroom, point important worth, west point site, street elementary school, stuck street elementary, stuck street, point stuck",6,Deadlocks and Deadlock Handling,0.10275594781425726
+433,"killer, outofmemory, outofmemory killer, oom, android outofmemory killer, android outofmemory, kill, oom adj",26,Case Study: Android Operating System,0.5931698575100127
+434,"cloud chap, virtualization cloud chap, virtualization cloud, cloud, chap virtualization, cloud chap virtualization, chap virtualization cloud, virtualization",22,Virtualization and Hypervisors,0.38355136660678163
+435,"tick, page referenced, clock, referenced, clock tick, current clock tick, referenced current clock, referenced current",8,Memory Management: Virtual Memory,0.2516794813284454
+436,"message, copydata, copy message, copying, copying message, copied, copy, message sent",14,Distributed Coordination and Communication,0.35544782131925795
+437,"hypervisors, hypervisor, bios bios, hypervisor operating, type hypervisor, bios, type hypervisors, bios bios bios",27,System Boot and Initialization,0.33048986205224473
+438,"message queue, queue, message, adjacent module, queue adjacent module, queue adjacent, adjacent, program message queue",14,Distributed Coordination and Communication,0.3372074114140234
+439,"pipe, file pipe, pipe read, readfile writefile function, writefile function, process file pipe, readfile writefile, pipe accomplished",9,File Systems and Storage Management,0.6680856124092598
+440,"request request request, request request, request, suppose request buddy, help suppose, complete opened, marked completed, buddy satisfy request",0,Introduction to Operating Systems,0.0
+441,"cluster, clustering, system cluster, traffic flow, parallel cluster, node, clusterbased, clustered",28,System Calls and API,0.4164706882712118
+442,"segmentation, pure segmentation, segmentation paging, pure, paging, segment, descriptor segment, paging segmentation",8,Memory Management: Virtual Memory,0.4698016984797649
+443,"mutual exclusion, exclusion, mutual, achieving mutual, achieving mutual exclusion, mutualexclusion, exclusion mutual exclusion, strict alternation",0,Introduction to Operating Systems,0.0
+444,"volume, volume directory, specify volume, unmounted volume, separate volume, mounted volume, mounted, unmounted",9,File Systems and Storage Management,0.08937544256418013
+445,"signature, digital, digital signature, hash, hash function, sign, authenticity, digitally",0,Introduction to Operating Systems,0.0
+446,"zombie, botnets, website, malware, spam, criminal, criminal activity, botnet",0,Introduction to Operating Systems,0.0
+447,"openmp, directive, compiler directive, omp, parallel, pragma, pragma omp, omp parallel",0,Introduction to Operating Systems,0.0
+448,"mode, switch, kernel mode, corresponding kernel, mode thread, kernel thread, user mode, switch corresponding",1,Operating System Structures and Components,0.387080797801777
+449,"bcc, ebpf, toolkit, bcc toolkit, tracing, bpf, ebpf instruction, tool",0,Introduction to Operating Systems,0.0
+450,"cpu scheduling, chapter cpu, chapter cpu scheduling, scheduling chapter, cpu scheduling chapter, scheduling chapter cpu, scheduling, chapter",5,CPU Scheduling,0.8161603492827273
+451,"license, licensee, software, licensing issue software, description module, licensor, description module author, company license",28,System Calls and API,0.3439529944331668
+452,"acyclicgraph, acyclic, graph, acyclicgraph directory, acyclic graph, acyclicgraph directory structure, general graph, general graph directory",9,File Systems and Storage Management,0.08478898961651068
+453,"ack, data packet, packet, seq, ack packet, waiting ack, data ack, seq data",10,File System Implementation,0.24749484657848977
+454,"library procedure, library, procedure, call, collection library procedure, collection library, calling library, calling library procedure",0,Introduction to Operating Systems,0.0
+455,"search, linear search, linear, searching, speed searching, search time, large directory, long",23,Real-Time and Embedded Systems,0.34645782805948777
+456,"node, process node, overloaded, node overloaded, node looking, process node process, overloaded node, node process node",0,Introduction to Operating Systems,0.3135069244399154
+457,"unicode, ascii, milli, ascii unicode, string, characterstring, character, character set",0,Introduction to Operating Systems,0.0
+458,"raw mode, raw, mode, canonical mode, cooked mode, discipline, terminal, cooked",0,Introduction to Operating Systems,0.0
+459,"memoryaccess time, memoryaccess, effective, nanosecond, time nanosecond, memory access, access time, effective memory access",23,Real-Time and Embedded Systems,0.3315490031420907
+460,"interface, interface simple, interface user interface, interface described, interface interface, generator, interface user, generator stub generator",28,System Calls and API,0.3353152875296453
+461,"copy file, program copy, abc xyz, xyz, file file copy, program copy file, copy, copyfile",9,File Systems and Storage Management,0.6182918413544803
+462,"macintosh, apple, gui, steve job, apple macintosh, steve, xerox, lisa",25,Case Study: Microsoft Windows Operating System,0.22501003907601863
+463,"pointer, function pointer, object type contains, type contains, type contains pointer, function passed pointer, pointer function table, passed pointer",0,Introduction to Operating Systems,0.0
+464,"distributed file, distributed, distributed file system, distributed look like, file system, distributed look, file distributed, use today",15,Distributed File Systems,0.5985318530817167
+465,"chopstick, philosopher, pick chopstick, philosopher pick, pick, right chopstick, hungry, left chopstick",0,Introduction to Operating Systems,0.0
+466,"cycle, graph, cycle graph, cycle algorithm, contain cycle, contains cycle, graph contains cycle, graph contains",0,Introduction to Operating Systems,0.0
+467,"trojan, horse, trojan horse, trojan horse attack, containing trojan, horse attack, trojan horse run, called trojan horse",22,Virtualization and Hypervisors,0.09588784165169541
+468,"abstraction, away concept, abstracted away, abstracted away concept, create abstraction, operating abstraction, abstracted, process abstraction",8,Memory Management: Virtual Memory,0.15285323334074244
+469,"function function, function, predecessor function, predecessor, void, know void, infeasible void us, infeasible void",0,Introduction to Operating Systems,0.0
+470,"student, chair, hallway, help, helping student, chair hallway, office hour, helping",0,Introduction to Operating Systems,0.0
+471,"memory address, address generated, generated running, sequence memory address, interested sequence, interested sequence memory, memory address interested, generated running program",16,Distributed Shared Memory,0.5655627528543444
+472,"character, buffered, character buffered, character time, character stream, read character, character typed, block character",23,Real-Time and Embedded Systems,0.5205992294365145
+473,"chapter deadlock, deadlock, deadlock chapter, deadlock chapter deadlock, figure chapter deadlock, chapter, deadlock figure chapter, chapter deadlock figure",4,Process Synchronization,0.33363436231317944
+474,"content provider, provider, contentresolver, content, uri, query, contentresolver method, content provider application",26,Case Study: Android Operating System,0.08609749225247976
+475,"nmap, scanning, port scanning, port, vulnerability, port scanner, insecure orgnmap, like nmap",2,Computer System Structures,0.09835436586067958
+476,"mckusick, mckusick mckusick, mckusick mckusick mckusick, file mckusick, fast file mckusick, described mckusick, berkeley fast file, berkeley fast",9,File Systems and Storage Management,0.7575312657593908
+477,"linux chapter linux, linux chapter, chapter linux, chapter linux chapter, chapter, chapter chapter, linux, mach chapter appeared",24,Case Study: The Linux Operating System,0.6353302823907566
+478,"shared library, library, shared, shared library come, library come, library libc, libc, world referred dll",16,Distributed Shared Memory,0.27539280994253823
+479,"internal fragmentation, fragmentation, internal, page size, large page, large page size, size, small page size",8,Memory Management: Virtual Memory,0.2516794813284454
+480,"lseek, position, file position, lseek change, file current position, value position pointer, lseek parameter file, file value returned",9,File Systems and Storage Management,0.7575312657593908
+481,"character device, device character, device character device, block device character, character, block device, device, characterdevice driver",11,I/O Systems and Device Management,0.6456086634917768
+482,"transition, state, diagram, state process, state diagram, event shown, shown transition, sequence event shown",23,Real-Time and Embedded Systems,0.1585025617099699
+483,"switch, omega, omega network, crossbar switch, crossbar, switch omega, switch omega network, switching",17,Network Structures and Protocols,0.6963340764769544
+484,"pid, table given, table given pid, process table given, identifies process, code searching, pid use, given pid",0,Introduction to Operating Systems,0.26139099645930713
+485,"multilevel, feedback queue, multilevel feedback queue, multilevel feedback, feedback, queue, queue scheduling, multilevel queue",5,CPU Scheduling,0.8045379548073075
+486,"redirection, redirected, input, output, input output, output program input, output redirected, input output redirection",11,I/O Systems and Device Management,0.12569607156185625
+487,"computer, personal computer, personal, million people, early personal, early personal computer, company university, early",7,Memory Management: Early Systems,0.2314749049018154
+488,"commandready bit, commandready, busy bit, busy, host set, bit command, dataout register, dataout",0,Introduction to Operating Systems,0.0
+489,"migration, computation migration, computation, process migration, migration process migration, migration process, computation migration process, data migration",0,Introduction to Operating Systems,0.3061707296127972
+490,"encryption, individual file, bitlocker, file entire, encrypted, efs, file entire volume, content read unauthorized",9,File Systems and Storage Management,0.586519561959443
+491,"port set, port, message port, message, message port set, passed message, received, operation object",14,Distributed Coordination and Communication,0.3448350380458761
+492,"pipe, child, pipe parent, end pipe, inherit, write end, child process, writing pipe",0,Introduction to Operating Systems,0.3135069244399154
+493,"ntos, layer ntos, executive, layer, kernel layer ntos, kernel layer, ntos kernel, ntoskrnl exe",1,Operating System Structures and Components,0.30601423989217824
+494,"strategy, strategy system, applicable, situation, relocated strategy, way strategy applicable, strategy situation section, strategy sufficient",28,System Calls and API,0.4164706882712118
+495,"edu, yale, yale edu, www, eric, edu server, yale university, eric yale",0,Introduction to Operating Systems,0.0
+496,"granted immediately request, arrives request, arrives request granted, thread arrives, thread arrives request, request thread arrives, request thread, request granted",0,Introduction to Operating Systems,0.0
+497,"multicomputers, multiprocessor multicomputers, multiprocessor, system multiprocessor, perspective, distributed system, precisely, multicomputers like",28,System Calls and API,0.28071296669219414
+498,"moore, law, moore law, transistor, number transistor, exponential growth, intel cofounder gordon, double month",0,Introduction to Operating Systems,0.0
+499,"create window, view created, function createprocess, createprocess, process creation, win, window, creation",0,Introduction to Operating Systems,0.3135069244399154
+500,"field, field important field, field important, important field, field needed, fourth field field, field present finally, lpfnwndproc long research",0,Introduction to Operating Systems,0.0
+501,"router, packet, destination, need packet, need packet need, packet need, packet router, destination network",17,Network Structures and Protocols,0.6963340764769544
+502,"policy mechanism, separation, separation policy mechanism, separation policy, policy, mechanism policy, policy mechanism important, mechanism important",0,Introduction to Operating Systems,0.0
+503,"fat, exfat, fat file, fat fat, extension fat, exfat modern, msdos fat file, msdos",9,File Systems and Storage Management,0.6182918413544803
+504,"unlink, deleted, removed unlink, file deleted, link, removed, link file, unlink link",9,File Systems and Storage Management,0.7575312657593908
+505,"sorted, fifo, list, fifo ordering, request list, lifo, ordering, list sorted",0,Introduction to Operating Systems,0.0
+506,"pipe, write program unix, unix window pipe, program unix window, window pipe, pipe write program, function described, shell pipeline",3,Processes and Threads,0.38844063103835946
+507,"grouped, category, file grouped, category file, divided category, file directory, convenience, directory",9,File Systems and Storage Management,0.612243064830692
+508,"memory barrier, application error, memory management management, protected memory, management management, store operation, barrier, memory protection",7,Memory Management: Early Systems,0.5371378264334692
+509,"database, database example, database record, database system, adapter, image recorded, engine described salomie, important example small",28,System Calls and API,0.4164706882712118
+510,"executed executed, executed executed executed, executed, fully executed, executed fully executed, executed fully, shown figure code, figure code",0,Introduction to Operating Systems,0.0
+511,"chapter process, chapter process chapter, chapter, process chapter, process chapter process, chapter system, variety reason chapter, issue responds quickly",0,Introduction to Operating Systems,0.3110051339617004
+512,"kernel buffer, packet, copied, packet copied, copy packet, kernel copy, buffer step, destination cpu",1,Operating System Structures and Components,0.2684516988067637
+513,"token, access token, token thread, process access token, token process, token belonging user, token effective, token belonging",0,Introduction to Operating Systems,0.22252557277327426
+514,"transaction, target, submits, target transaction, rewrite transaction, receiving process, objecta, submits kernel",1,Operating System Structures and Components,0.2244453149863028
+515,"owned user read, process owned user, process owned, owned user, user read, access file, say process owned, user read file",0,Introduction to Operating Systems,0.2774379278835457
+516,"readerwriter, readerwriter lock, lock, slim, reader writer, reader, writer, lock favor reader",0,Introduction to Operating Systems,0.0
+517,"bus, bus bus, typical bus structure, typical bus, bus structure, wire, bus architecture, method speed",2,Computer System Structures,0.2095276522698724
+518,"version version, version version version, version, version beginning version, version beginning, beginning version, beginning version version, beginning",0,Introduction to Operating Systems,0.0
+519,"proc, proc file, entry proc, kernel module, prochello, module, procjiffies, entry proc file",9,File Systems and Storage Management,0.6562180988598814
+520,"synchronous, gelernter, asynchronous, synchronous asynchronous, carriero, asynchronous communication, communication, carriero gelernter",13,Distributed Systems and Networking,0.27571074087072195
+521,"graph, resource graph, allocation graph, resource allocation graph, resource, example resource, resource allocation, resource graph resource",0,Introduction to Operating Systems,0.33054524905054683
+522,"fig model, model fig, model fig model, model, model illustrated, fig, fig model fig, model shown fig",17,Network Structures and Protocols,0.2331010120994602
+523,"thrashing, prevent thrashing, thrashing stop, prevent thrashing thrashing, paging executing, time paging executing, thrashing thrashing, time paging",8,Memory Management: Virtual Memory,0.2884604369943378
+524,"music, music perceptible, importance, perceptible, launcher, android, foreground, android process",26,Case Study: Android Operating System,0.5549395228052626
+525,"stack, return address, pushed, pushed stack, pop, activation record, address pushed stack, return",0,Introduction to Operating Systems,0.0
+526,"sign, computing, computer, period time prototype, russian said time, software mind, productivity decade, productivity decade time",23,Real-Time and Embedded Systems,0.45626148696983887
+527,"byte page, byte, page byte, byte page msec, page msec load, msec load, page msec, byte page byte",8,Memory Management: Virtual Memory,0.2516794813284454
+528,"parameter, createprocess, parameter passed createprocess, passed createprocess, startupinfo, parameter passed, createprocess parameter, handle creator",0,Introduction to Operating Systems,0.0
+529,"resident monitor, resident, control card, monitor, card, control, transfer control, resident monitor program",19,Security and Protection in Operating Systems,0.35497122840756445
+530,"gdt, ldt, ldt gdt, selector, descriptor table, descriptor, segment, gdt entry",0,Introduction to Operating Systems,0.0
+531,"optimization, obviously going problem, optimized code bigger, method produce, notwithstanding place, optimization complex optimization, method produce accurate, optimization harm",29,Operating System Performance Monitoring and Tuning,0.27250665230341115
+532,"graph, graph figure, edge graph, consider graph figure, consider graph, graph shown figure, figure graph, graph shown",0,Introduction to Operating Systems,0.0
+533,"interrupt, interrupt remapping, remapping, guest, virtual machine interrupt, instance guest, machine interrupt, suppose instance guest",11,I/O Systems and Device Management,0.3175738018183359
+534,"malware, criminal, spread, piece malware checked, purpose company release, program combat, publicized newspaper large, malware vastly",3,Processes and Threads,0.38844063103835946
+535,"example example, example example example, accident, example, consider example, example second example, consider restaurant consider, consider restaurant",0,Introduction to Operating Systems,0.0
+536,"procedure, frame procedure, stack contains, stack, contains frame procedure, frame procedure called, procedure call procedure, stack contains frame",0,Introduction to Operating Systems,0.0
+537,"gpus, gpu, likely operating run, traffic likely operating, instruction multiple data, single instruction multiple, encryption processing network, run gpus",17,Network Structures and Protocols,0.2117412542765221
+538,"lottery, ticket, lottery scheduling, lottery ticket, winning, ticket chosen, chance winning, ticket get",5,CPU Scheduling,0.8045379548073075
+539,"stream, write queue, driver end, queue write, read queue, read queue write, queue write queue, stream head",0,Introduction to Operating Systems,0.0
+540,"superblock, superblock object, inodes, information superblock, superblock object represents, superblock contains, object represents, identify filesystem type",0,Introduction to Operating Systems,0.0
+541,"ext, linux ext, extended file, file ext, ext file, ext linux, linux ext file, ext ext",24,Case Study: The Linux Operating System,0.6383162097844357
+542,"polling, poll, busywaiting, polling busy waiting, polling busy, device ready service, busy waiting, busy",11,I/O Systems and Device Management,0.42965137611104814
+543,"user user, consider user user, consider user, interfere consider user, incorrect idea long, user free irresistible, thing user free, user general mr",1,Operating System Structures and Components,0.30601423989217824
+544,"program associated, kernel provide, directly kernel, kernel, running kernel, kernel type program, kernel simplest level, kernel subsystem kernel",1,Operating System Structures and Components,0.2900802997959457
+545,"component, different component, level abstraction, need expensive highperformance, semantics us, expensive highperformance, expensive highperformance component, produce naming scheme",15,Distributed File Systems,0.30613273149327136
+546,"client process, client, messenger service, messenger, client process sends, message server, process sends message, message",14,Distributed Coordination and Communication,0.2741341901442698
+547,"lion, zebra, acacia, tweeter, lion zebra, acacia tree, cat, woofer",0,Introduction to Operating Systems,0.0
+548,"stable, cpu crash, crash, write completes, stable write, stable write completes, crash occurs, stable storage",2,Computer System Structures,0.4374201601844511
+549,"internet, internet cafe, cafe, internet tl wide, log remote computer, incredibly rapid growth, internet cafe distant, indirectly log remote",15,Distributed File Systems,0.214801649703365
+550,"elf, elf format, format, file main, report main, main report, file main report, command file main",9,File Systems and Storage Management,0.7575312657593908
+551,"starvation, starvation problem, deadlock livelock starvation, livelock starvation, starvation avoided, starvation avoided firstcome, avoided firstcome firstserved, avoided firstcome",4,Process Synchronization,0.33363436231317944
+552,"mach, mach mach, accent operating, accent, trace ancestry accent, mellon university cmu, developed carnegie, trace ancestry",26,Case Study: Android Operating System,0.16935186540367633
+553,"page fault, page fault kernel, fault kernel, fault, thread cause page, cause page fault, cause page, thread cause",8,Memory Management: Virtual Memory,0.23929355579253242
+554,"binder, android, ipc, android binder, binder ipc, rpcs, binder framework, android operating",26,Case Study: Android Operating System,0.6881380866863684
+555,"compression, memory compression, compressed, alternative paging, compression process, memory compression process, store manager, compressed memory",8,Memory Management: Virtual Memory,0.30060741884038666
+556,"global variable, global, variable, variable global variable, variable global, local variable global, globalbufptr, local variable",0,Introduction to Operating Systems,0.0
+557,"counter, shift register, shift, value counter, counter counter, referenced, page referenced, number knob",8,Memory Management: Virtual Memory,0.2516794813284454
+558,"alarm, alarm signal, alarm parameter, second second, alarm parameter second, parameter second, signal, second signal",0,Introduction to Operating Systems,0.0
+559,"elevator, elevator algorithm, scheduling disk, disk request, disk request scan, algorithm scheduling disk, elevator algorithm scheduling, world elevator",5,CPU Scheduling,0.4472222542855156
+560,"blocked, process running blocked, running blocked ready, blocked ready, running blocked, blocked state, ready, state process",27,System Boot and Initialization,0.22636106771240078
+561,"user switch, user switch application, switch application, application time, away application, switch away application, switch application time, restart application",26,Case Study: Android Operating System,0.28184293711435027
+562,"file name, name, character, name limited, file name limited, name limited character, limited character, name shorter character",9,File Systems and Storage Management,0.7575312657593908
+563,"input method, input, voice input, current input method, current input, application enabled, method, keyboard",11,I/O Systems and Device Management,0.08910587239473575
+564,"external pager, pager, external, external pager notified, pager notified, external pager page, pager page, notified",8,Memory Management: Virtual Memory,0.2516794813284454
+565,"data structure, structure, structure algorithm, data structure algorithm, data, like dynamic possible, possible complicated short, like dynamic",2,Computer System Structures,0.13517974653205456
+566,"lost, data lost, storage failure, result lost, result lost data, failure, lost data, loss",12,Mass Storage Structures,0.2555739304240032
+567,"queueing, sorted lba order, representation process scheduling, queue, sorted lba, lba order, queueing model, queue priority",5,CPU Scheduling,0.6071112125827017
+568,"disk partition, partition, fat, us bit disk, support disk, bit disk address, us bit, bit disk",12,Mass Storage Structures,0.08299181974066741
+569,"cpuscheduling, cpuscheduling algorithm, different cpuscheduling algorithm, different cpuscheduling, algorithm, realtime cpu, realtime cpu scheduling, realtime",5,CPU Scheduling,0.6365697818590654
+570,"let consider, consider simple example, simple example, let consider simple, example let, consider simple, let, example illustrates scenario",0,Introduction to Operating Systems,0.0
+571,"subsystem, window subsystem, environment subsystem, subsystem model, window subsystem linux, subsystem linux, operatingsystem personality, elf binary",24,Case Study: The Linux Operating System,0.5682566798359479
+572,"api, application programmer, available application programmer, api application, programmer, actual call, abi, application programming interface",26,Case Study: Android Operating System,0.2504932762064659
+573,"chapter protection, chapter, figure chapter protection, protection figure chapter, chapter protection figure, chapter protection need, protection, protection figure",19,Security and Protection in Operating Systems,0.31877704796903533
+574,"kerberos, ldap, active directory, kerberos network, kerberos network authentication, network authentication protocol, authentication protocol, authentication",17,Network Structures and Protocols,0.3550790679893542
+575,"zone, highmem, zone highmem, freearea, zone descriptor, free page, freearea freearea, zonedma",8,Memory Management: Virtual Memory,0.2516794813284454
+576,"number page fault, number page, page fault, fault, fault frame, page fault rate, fault rate, increase number",8,Memory Management: Virtual Memory,0.2516794813284454
+577,"interface keyboard, interface keyboard mouse, user interface keyboard, keyboard mouse monitor, mouse monitor, keyboard mouse, mouse, keyboard",28,System Calls and API,0.32902930884672
+578,"html, httpstandards ieee, described httpstools, httpsbtrfs wiki, wiki kernel, wiki, httpstandards ieee orgaboutget, orgaboutget",1,Operating System Structures and Components,0.30601423989217824
+579,"wafl, wafl file, file layout, example wafl, example wafl file, file concrete example, file example optimization, file huge",9,File Systems and Storage Management,0.737283508067325
+580,"release released, release, released, release released major, release released supported, alpha added, later release included, added release released",0,Introduction to Operating Systems,0.0
+581,"sorting, mergesort, quicksort, sorting thread, sorted, sublists, sorting algorithm, quicksort mergesort",0,Introduction to Operating Systems,0.0
+582,"barrier, barrier process, process approaching, barrier barrier, approaching barrier, execute barrier, process approaching barrier, approaching",0,Introduction to Operating Systems,0.3135069244399154
+583,"node, multicomputer, node node, main ram, ram, directorybased multiprocessor, directorybased, node multicomputer",0,Introduction to Operating Systems,0.0
+584,"object type, type object, object type object, object, type object type, instance object type, instance object, type",0,Introduction to Operating Systems,0.0
+585,"contrast, contrast process, contrast window, meaning contrast, mode invoke, machine contrast, executes user mode, extension assigns meaning",0,Introduction to Operating Systems,0.20447765028043866
+586,"solomon, solomon solomon, solomon solomon solomon, solomon solomon press, solomon press solomon, solomon press, ring solomon solomon, ring solomon",0,Introduction to Operating Systems,0.0
+587,"format string, format string attack, string attack, string, format, attack, attack exactly, string attack exactly",0,Introduction to Operating Systems,0.0
+588,"lock, contention, block containing lock, contention relatively, thread attempting, thread attempting acquire, containing lock, number thread attempting",6,Deadlocks and Deadlock Handling,0.3082678434427718
+589,"load operating, program loading, program load operating, loading, program load, load, loaded, loaded called control",3,Processes and Threads,0.3694604854154792
+590,"reason, reason simple, looking reason include, simple people tend, reason simple reason, blush, tend insurance, tend insurance house",19,Security and Protection in Operating Systems,0.05309024743159319
+591,"interface board, ram, board, network interface, destination ram, packet, outgoing, interface",28,System Calls and API,0.32902930884672
+592,"process table, ith row, process table process, processtable, ith, table process, look unmarked process, initialization thing like",27,System Boot and Initialization,0.3237888693859389
+593,"page reference, reference, reference page, reference string, page reference string, reference string page, string page, string",8,Memory Management: Virtual Memory,0.2516794813284454
+594,"ipsec, vpns, private network, virtual private network, virtual private, private network vpns, network vpns, widely basis virtual",17,Network Structures and Protocols,0.5382428333213005
+595,"cube, hypercube, diameter, corresponding node, block cube, node, excellent delay property, excellent delay",0,Introduction to Operating Systems,0.0
+596,"work work, work work allocationi, true step, work allocationi, allocationi finishi true, work allocationi finishi, finishi true step, allocationi finishi",13,Distributed Systems and Networking,0.10363322271555278
+597,"mach, msg, message passing, passing, us message, sending receiving message, message passing example, function mach",14,Distributed Coordination and Communication,0.49762694984696115
+598,"java, java language, byte code, language, language like, python, java microsoft, illustrated develop",2,Computer System Structures,0.062122904196469146
+599,"file system designed, cluster, larger file, improve, norm, system designed, hard disk, file system",10,File System Implementation,0.5016007991077636
+600,"listed fig, listed, one listed, one listed fig, fig listed, listed fig listed, fig listed fig, one",0,Introduction to Operating Systems,0.0
+601,"semantics, unix semantics, semantics section, semantics standard, unix semantics section, semantic, session semantics, implemented",0,Introduction to Operating Systems,0.0
+602,"acl, walter, acls, file acl, permission, entry acl, precedence, grant deny",9,File Systems and Storage Management,0.7575312657593908
+603,"kernel log, log buffer, kernel log buffer, log, content kernel log, content kernel, dmesg, buffer",1,Operating System Structures and Components,0.26081355052217203
+604,"edge, claim edge, claim, assignment edge, request edge, assignment, edge called, graph",0,Introduction to Operating Systems,0.0
+605,"sent server, file sends, sent server file, file sent, message server, server, sends message server, file opened",9,File Systems and Storage Management,0.6182918413544803
+606,"thompson, ritchie, ritchie thompson, unix ritchie, unix ritchie thompson, turing, joined dennis ritchie, joined dennis",0,Introduction to Operating Systems,0.0
+607,"socket, close socket, date, connection received, connection received server, connection, received server, socket client",17,Network Structures and Protocols,0.07770033736648674
+608,"section recall, recall section, recall, section recall section, recall section recall, section, consists multiple device, earlier example section",11,I/O Systems and Device Management,0.45651426394781924
+609,"pnp, pnp manager, notification, manager, pnp manager sends, pnp manager support, manager support, manager sends",0,Introduction to Operating Systems,0.0
+610,"edition microsoft press, microsoft press, edition microsoft, ionescu window, ionescu window internals, window internals seventh, internals seventh, internals seventh edition",24,Case Study: The Linux Operating System,0.29043670052148873
+611,"access device, program access device, program access, mean able write, need access device, device unavailable, device unavailable open, remotely normally device",11,I/O Systems and Device Management,0.542034646513486
+612,"cf, scheduler, fair scheduler cf, scheduler cf, fair scheduler, completely fair scheduler, completely fair, fair",0,Introduction to Operating Systems,0.0
+613,"voltage, cutting voltage, power, cutting, power consumption, energy, consumption, consumption cpu",2,Computer System Structures,0.32291510491316927
+614,"suspended, suspend, thread suspended, suspending, thread task, resume, resuming thread, suspend resume thread",23,Real-Time and Embedded Systems,0.2919429573966913
+615,"discussed, discussed section, section discussed, discussed section logical, agreed discussed, agreed discussed section, course controversy, controversy everybody agreed",20,System Security Measures,0.09153121182032711
+616,"read value, writes, read writes, write, write move, write move byte, poll read instead, old loop",0,Introduction to Operating Systems,0.0
+617,"committed, transaction, completed, completed transaction, logfile service, log, logfile, transaction completed",18,Distributed Multimedia Systems,0.07970241941195917
+618,"hole, fit, hole process, compaction, available memory, worst fit require, hole process inevitable, flag fit best",0,Introduction to Operating Systems,0.3500803539283746
+619,"java, art, bytecode, dalvik, jni, native library, virtual machine java, dalvik bytecode",22,Virtualization and Hypervisors,0.42762401590246835
+620,"safety, safety algorithm, sequence satisfies safety, sequence satisfies, satisfies safety, safe, satisfies, sequence",0,Introduction to Operating Systems,0.0
+621,"special file, entry byte, field, padding, character special file, actual file, character special, length",9,File Systems and Storage Management,0.7575312657593908
+622,"fig process, process illustrated fig, process illustrated, process fig process, fig process illustrated, procedure fig, illustrated fig, fig note",0,Introduction to Operating Systems,0.3135069244399154
+623,"table entry, entry shown fig, entry shown, bit page table, valid invalid bit, page table entry, invalid bit, valid invalid",8,Memory Management: Virtual Memory,0.2516794813284454
+624,"goal, goal achieved, goal meet, right bat ultimate, requirement divided basic, set clear goal, known goal, goal little bit",0,Introduction to Operating Systems,0.0
+625,"error, abnormally, error message, terminate abnormally, program terminated, error case, terminate, object program error",3,Processes and Threads,0.32272233991932364
+626,"shell, background, running background, shell wait, command, wait, process finish, interpret command",0,Introduction to Operating Systems,0.3135069244399154
+627,"linker, linker combine, executable, object file, executable file, binary executable file, combine, binary executable",9,File Systems and Storage Management,0.7575312657593908
+628,"user mode, mode, mode bit, subset, mode permit, mode added process, user mode performed, mode usermonitor mode",1,Operating System Structures and Components,0.27765242680239566
+629,"processing core, percent parallel, processing, core, speedup, amdahls law, amdahls, percent",0,Introduction to Operating Systems,0.0
+630,"concurrently, execute concurrently, process execute concurrently, process execute, subprocesses, execute, site, site node",0,Introduction to Operating Systems,0.3135069244399154
+631,"exponential, average, exponential average, maximum value, exponential average following, implemented trick determining, following formula initial, formula initial defined",0,Introduction to Operating Systems,0.0
+632,"us fast inexpensive, legal cost probably, us addition addition, add list possibility, cheap legal cost, addition internal us, exceeded expensive, different us fast",0,Introduction to Operating Systems,0.0
+633,"inode, inodes, block inode, data block, inode block, use inodes like, group file parent, given inode possible",10,File System Implementation,0.38953675566019397
+634,"long process, mean process, partially complete execution, process involved work, short lived, second preventing process, short lived run, process twice",0,Introduction to Operating Systems,0.3066435103250048
